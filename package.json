@@ -1,0 +1,25 @@
+{
+  "name": "mycozytrove",
+  "version": "1.0.0",
+  "description": "MyCozyTrove - Fishing, Camping & Outdoor Gear Reviews",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "keywords": [
+    "fishing",
+    "camping",
+    "outdoor",
+    "affiliate",
+    "reviews",
+    "gear"
+  ],
+  "author": "Jeff May / IronGate Strategic LLC",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {}
+}

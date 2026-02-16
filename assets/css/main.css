@@ -1,0 +1,574 @@
+/* SafeHarborPrep - Professional Outdoor Aesthetic */
+
+/* ============================================
+   VARIABLES & RESET
+   ============================================ */
+
+:root {
+  /* Colors - Rugged Professional Theme */
+  --color-primary: #1B2D2A;      /* Deep Forest */
+  --color-primary-light: #2d4843; /* Lighter forest */
+  --color-secondary: #B87333;    /* Weathered Copper */
+  --color-accent: #d97706;       /* Safety orange */
+  --color-text: #1f2937;         /* Dark gray */
+  --color-text-light: #6b7280;   /* Medium gray */
+  --color-bg: #ffffff;
+  --color-bg-alt: #f9fafb;       /* Light gray background */
+  --color-border: #e5e7eb;
+  
+  /* Typography */
+  --font-base: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-heading: 'Merriweather', Georgia, serif;
+  
+  /* Spacing */
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4rem;
+  
+  /* Layout */
+  --max-width: 1200px;
+  --border-radius: 8px;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+
+body {
+  font-family: var(--font-base);
+  font-size: 19px;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-md);
+}
+
+/* ============================================
+   TYPOGRAPHY
+   ============================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  line-height: 1.2;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin: var(--space-lg) 0 var(--space-md);
+}
+
+h1 { font-size: 2.5rem; font-weight: 900; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+
+p {
+  margin: var(--space-md) 0;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+strong {
+  font-weight: 600;
+}
+
+/* ============================================
+   HEADER
+   ============================================ */
+
+.site-header {
+  background: var(--color-primary);
+  color: white;
+  padding: var(--space-md) 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: var(--shadow-md);
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.logo a {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: var(--font-heading);
+  text-decoration: none;
+  letter-spacing: -0.5px;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: var(--space-lg);
+  align-items: center;
+}
+
+.main-nav a {
+  color: white;
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--border-radius);
+  transition: all 0.2s ease;
+}
+
+.main-nav a:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+/* ============================================
+   HERO SECTION
+   ============================================ */
+
+.hero {
+  position: relative;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(135deg, #2d5016 0%, #1a3009 100%);
+  background-image: url('https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=1600&q=80');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  overflow: hidden;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(45, 80, 22, 0.30) 0%, rgba(26, 48, 9, 0.25) 100%);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  padding: 0 var(--space-md);
+}
+
+.hero h1 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 900;
+  margin-bottom: var(--space-md);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  line-height: 1.1;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  margin-bottom: var(--space-xl);
+  color: rgba(255, 255, 255, 0.95);
+  font-weight: 400;
+}
+
+.btn-hero {
+  display: inline-block;
+  padding: var(--space-md) var(--space-xl);
+  background: var(--color-accent);
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-radius: var(--border-radius);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: var(--shadow-lg);
+}
+
+.btn-hero:hover {
+  background: #ea580c;
+  transform: translateY(-2px);
+  box-shadow: 0 15px 25px -5px rgba(0, 0, 0, 0.2);
+}
+
+/* ============================================
+   MAIN CONTENT
+   ============================================ */
+
+.site-main {
+  min-height: calc(100vh - 500px);
+  padding: var(--space-2xl) 0;
+}
+
+/* Content sections */
+.site-main h2 {
+  margin-top: var(--space-xl);
+  padding-top: var(--space-lg);
+  border-top: 3px solid var(--color-border);
+}
+
+.site-main h2:first-of-type {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+/* Lists */
+ul, ol {
+  margin: var(--space-md) 0;
+  padding-left: var(--space-xl);
+}
+
+li {
+  margin: var(--space-xs) 0;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 2px solid var(--color-border);
+  margin: var(--space-xl) 0;
+}
+
+/* ============================================
+   BUTTONS
+   ============================================ */
+
+.btn-primary, .btn-secondary {
+  display: inline-block;
+  padding: var(--space-sm) var(--space-lg);
+  border-radius: var(--border-radius);
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  margin: var(--space-sm) var(--space-sm) var(--space-sm) 0;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: white;
+}
+
+.btn-primary:hover {
+  background: var(--color-primary-light);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+  background: var(--color-accent);
+  color: white;
+}
+
+.btn-secondary:hover {
+  background: #ea580c;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   PRODUCT CARDS
+   ============================================ */
+
+.product-card {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  padding: var(--space-lg);
+  margin: var(--space-xl) 0;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+}
+
+.product-card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--border-radius);
+  margin-bottom: var(--space-md);
+}
+
+.product-card h3 {
+  margin-top: var(--space-md);
+  color: var(--color-primary);
+}
+
+.product-meta {
+  display: flex;
+  gap: var(--space-md);
+  margin: var(--space-md) 0;
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+}
+
+.price {
+  font-weight: 700;
+  color: var(--color-accent);
+  font-size: 1.5rem;
+}
+
+/* ============================================
+   AFFILIATE LINKS
+   ============================================ */
+
+.affiliate-link {
+  font-weight: 600;
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+.affiliate-disclosure {
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  font-style: italic;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+
+.site-footer {
+  background: var(--color-primary);
+  color: white;
+  padding: var(--space-2xl) 0 var(--space-lg);
+  margin-top: var(--space-2xl);
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--space-xl);
+  margin-bottom: var(--space-xl);
+}
+
+.footer-section h4 {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.1rem;
+  margin-bottom: var(--space-md);
+  font-family: var(--font-base);
+  font-weight: 600;
+}
+
+.footer-section p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section li {
+  margin: var(--space-xs) 0;
+}
+
+.footer-section a {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  font-size: 0.9rem;
+}
+
+.footer-section a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  padding-top: var(--space-lg);
+  text-align: center;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-bottom a {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* ============================================
+   RESPONSIVE DESIGN
+   ============================================ */
+
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+  
+  .main-nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--space-sm);
+  }
+  
+  .hero {
+    height: 400px;
+  }
+  
+  .hero h1 {
+    font-size: 2rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+  
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+  
+  .footer-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+
+.text-center { text-align: center; }
+.text-muted { color: var(--color-text-light); }
+.mb-0 { margin-bottom: 0; }
+.mt-lg { margin-top: var(--space-lg); }
+/* Bigger font for page content */
+.site-main p,
+.site-main li {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+/* ============================================
+   BLUF (Bottom Line Up Front) BOXES
+   ============================================ */
+
+.bluf-box {
+  background: linear-gradient(135deg, var(--color-primary) 0%, #0f1f1d 100%);
+  border-left: 4px solid var(--color-secondary);
+  padding: var(--space-lg);
+  margin: var(--space-xl) 0;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-md);
+}
+
+.bluf-box h3,
+.bluf-box h4 {
+  color: var(--color-secondary);
+  margin-top: 0;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.bluf-box p,
+.bluf-box ul,
+.bluf-box li {
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 1rem;
+}
+
+.bluf-box strong {
+  color: var(--color-secondary);
+}
+
+/* ============================================
+   CTA (Call To Action) BOXES
+   ============================================ */
+
+.cta-box {
+  background: linear-gradient(135deg, var(--color-primary) 0%, #0f1f1d 100%);
+  border: 2px solid var(--color-secondary);
+  padding: var(--space-lg);
+  margin: var(--space-xl) 0;
+  border-radius: var(--border-radius);
+  text-align: center;
+  box-shadow: var(--shadow-lg);
+}
+
+.cta-box p {
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 1.1rem;
+  margin: 0 0 var(--space-md) 0;
+}
+
+.cta-box strong {
+  color: var(--color-secondary);
+  font-size: 1.2rem;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: var(--space-md) var(--space-xl);
+  background: var(--color-secondary);
+  color: white;
+  font-weight: 700;
+  font-size: 1.1rem;
+  border-radius: var(--border-radius);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.cta-button:hover {
+  background: #d4884a;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+  color: white;
+}
+
+/* ============================================
+   PRODUCT IMAGES
+   ============================================ */
+
+.product-image {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-lg);
+  margin: var(--space-xl) auto;
+  display: block;
+}
+
+.product-image-container {
+  text-align: center;
+  margin: var(--space-xl) 0;
+}

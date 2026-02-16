@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WFX728HC');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFX728HC"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="header-content">
+        <div class="logo">
+          <a href="/">{{ site.name }}</a>
+        </div>
+        <nav class="main-nav">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/#featured-reviews">Reviews</a></li>
+            <li><a href="/pages/about/">About</a></li>
+            <li><a href="/pages/contact/">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  {% if isHome %}
+  <section class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1>Preparedness That Works When It Matters</h1>
+      <p class="hero-subtitle">Tested through real emergencies, not just reviews</p>
+      <a href="#featured-reviews" class="btn-hero">See What Actually Works</a>
+    </div>
+  </section>
+  {% endif %}
+  
+  <main class="site-main">
+    <div class="container">
+      {{ content | safe }}
+    </div>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        
+        <div class="footer-section">
+          <h4>{{ site.name }}</h4>
+          <p>{{ site.tagline }}</p>
+          <p>Real testing. Honest limitations. Gear that works when it matters.</p>
+        </div>
+        
+        <div class="footer-section">
+          <h4>Reviews</h4>
+          <ul>
+            <li><a href="/reviews/power/">Power & Energy</a></li>
+            <li><a href="/reviews/water/">Water & Filtration</a></li>
+            <li><a href="/reviews/gear/">Gear & Equipment</a></li>
+            <li><a href="/reviews/self-sufficiency/">Self-Sufficiency</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h4>Information</h4>
+          <ul>
+            <li><a href="/pages/about/">About</a></li>
+            <li><a href="/pages/contact/">Contact</a></li>
+            <li><a href="/pages/privacy-policy/">Privacy Policy</a></li>
+            <li><a href="/pages/terms-of-service/">Terms of Service</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h4>Affiliate Disclosure</h4>
+          <p>We earn commissions when you purchase through our links at no extra cost to you. We only recommend products we genuinely use and trust.</p>
+        </div>
+        
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; {{ site.year }} {{ site.business }}. All rights reserved.</p>
+        <p>Contact: <a href="mailto:{{ site.contact }}">{{ site.contact }}</a></p>
+      </div>
+      
+    </div>
+  </footer>
+  
+  <script src="/assets/js/main.js"></script>
+  
+</body>
+</html>

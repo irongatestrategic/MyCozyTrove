@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jackery-2k",
+    "name": "Jackery Solar Generator 2000 V2",
+    "category": "power",
+    "price": 1899,
+    "commission_pct": 8,
+    "affiliate_network": "CJ",
+    "affiliate_link": "https://www.kqzyfj.com/click-101596121-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-2000-v2%3F_pos%3D3%26_sid%3D1d34c2fb8%26_ss%3Dr%26variant%3D41650454593623",
+    "image_url": "https://www.jackery.com/cdn/shop/files/Explorer_2000_v2_1_1024x1024.jpg",
+    "short_description": "When hurricanes knock out power for days, the Jackery 2000 V2 keeps your fridge, medical devices, and communication running. 2042Wh capacity, 3000W output, tested in real Gulf Coast outages.",
+    "review_url": "/reviews/power/jackery-2000-v2/",
+    "status": "active"
+  },
+  {
+    "id": "rocky-boots",
+    "name": "Rocky Original Ride FLX Waterproof Western Boot",
+    "category": "gear",
+    "price": 189,
+    "commission_pct": 8,
+    "affiliate_network": "CJ",
+    "affiliate_link": "https://www.kqzyfj.com/click-101526571-15488679?url=https%3A%2F%2Frockyboots.com%2Fproducts%2Frkw0234%3F_pos%3D1%26_psq%3DRocky%2BOriginal%2BRide%2BFLX%2BWaterproof%2BWestern%2BBoot%26_ss%3De%26_v%3D1.0%26variant%3D51637511455003",
+    "image_url": "https://www.rockyboots.com/on/demandware.static/-/Sites-Master-Catalog-Rocky/default/dw76953f93/images/RKK0284_ALT_MAIN.jpg",
+    "short_description": "Tested in Mississippi mud, rain, and 12-hour workdays. Waterproof, flexible, and actually comfortable. These are the boots that rural workers depend on.",
+    "review_url": "/reviews/gear/rocky-boots/",
+    "status": "active"
+  },
+  {
+    "id": "gooloo-jumper",
+    "name": "GOOLOO GP4000 Jump Starter",
+    "category": "gear",
+    "price": 109,
+    "commission_pct": 10,
+    "affiliate_network": "Awin",
+    "affiliate_link": "https://www.awin1.com/cread.php?awinmid=94787&awinaffid=2541595&ued=https%3A%2F%2Fus.gooloo.com%2Fproducts%2Fgp4000-jump-starter%3F_pos%3D1%26_sid%3Da1e7a5ccc%26_ss%3Dr%26variant%3D42678191947972",
+    "image_url": "https://us.gooloo.com/cdn/shop/files/1_740c0379-913a-4467-850d-d49d97746487.jpg",
+    "short_description": "Dead battery? This pocket-sized jumper starts diesel engines up to 10.0L. No waiting for roadside assistance. Saved me twice already.",
+    "review_url": "/reviews/gear/gooloo-gp4000/",
+    "status": "active"
+  },
+  {
+    "id": "self-backyard",
+    "name": "The Self-Sufficient Backyard",
+    "category": "self-sufficiency",
+    "price": 37,
+    "commission_pct": 75,
+    "affiliate_network": "DigitalStore24",
+    "affiliate_link": "https://independentbackyard.com/my-book/#aff=irongatestrategic",
+    "image_url": "https://independentbackyard.com/wp-content/uploads/2020/03/book-mockup.png",
+    "short_description": "117 projects to make your backyard produce food, power, and water. Physical book, not ebook. Real homesteading knowledge from someone who actually lives it.",
+    "review_url": "/reviews/self-sufficiency/self-sufficient-backyard/",
+    "status": "active"
+  },
+  {
+    "id": "frog-filter",
+    "name": "Survival Frog Pocket Filter",
+    "category": "water",
+    "price": 45,
+    "commission_pct": 12,
+    "affiliate_network": "Awin",
+    "affiliate_link": "https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fpersonal-water-filter-straw-by-frog-co%3F_pos%3D2%26_sid%3D2a60f0be1%26_ss%3Dr",
+    "image_url": "https://www.survivalfrog.com/cdn/shop/products/PocketPumpWaterFilter_1_1024x1024.jpg",
+    "short_description": "Fits in your pocket, filters 100,000 gallons. Every prepper needs reliable water filtration. This one actually works.",
+    "review_url": "/reviews/water/survival-frog-filter/",
+    "status": "active"
+  }
+]

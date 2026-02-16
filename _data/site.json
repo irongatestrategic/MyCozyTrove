@@ -1,0 +1,29 @@
+{
+  "name": "MyCozyTrove",
+  "domain": "mycozytrove.com",
+  "url": "https://mycozytrove.com",
+  "tagline": "Fishing, Camping & Outdoor Gear Reviews",
+  "description": "Honest gear reviews for fishermen, campers, and outdoor enthusiasts. Real experience from 20+ years in Mississippi and Alabama wilderness. No BS.",
+  "author": "Jeff May",
+  "business": "IronGate Strategic LLC",
+  "contact": "admin@irongatestrategic.com",
+  "analytics": {
+    "google_measurement_id": ""
+  },
+  "affiliate_networks": {
+    "cj": {
+      "name": "Commission Junction",
+      "publisher_id": "101452278"
+    },
+    "awin": {
+      "name": "Awin",
+      "publisher_id": "2541595"
+    }
+  },
+  "social": {
+    "twitter": "",
+    "facebook": "",
+    "instagram": ""
+  },
+  "year": 2026
+}
