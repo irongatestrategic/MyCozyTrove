@@ -13,7 +13,7 @@ If you spend any time around commercial fishermen in Alaska, the Gulf, or the Gr
 
 I'm not a commercial fisherman, but I've spent enough weekends on the water in Mississippi and Alabama to know the difference between boots that say they're waterproof and boots that actually keep your feet dry when you're standing in three inches of water cleaning fish at 2 AM.
 
-**[Check Current Price - Xtratuf Legacy Boots](https://www.kqzyfj.com/click-101452278-14339339?url=https%3A%2F%2Fxtratuf.com%2Fcollections%2Fthe-legacy-collection%2Fproducts%2F22172g%3Fvariant%3D47867487322267)**
+**<a href="https://www.kqzyfj.com/click-101452278-14339339?url=https%3A%2F%2Fxtratuf.com%2Fcollections%2Fthe-legacy-collection%2Fproducts%2F22172g%3Fvariant%3D47867487322267" target="_blank" rel="noopener noreferrer">Check Current Price - Xtratuf Legacy Boots</a>**
 
 ## Why Xtratuf Boots Are Different
 
@@ -84,7 +84,7 @@ Xtratuf makes several models. Here's what matters:
 
 Stick with the Legacy Boot. It's the original, and it's what actually works.
 
-**[Check Current Price - Xtratuf Legacy Boots](https://www.kqzyfj.com/click-101452278-14339339?url=https%3A%2F%2Fxtratuf.com%2Fcollections%2Fthe-legacy-collection%2Fproducts%2F22172g%3Fvariant%3D47867487322267)**
+**<a href="https://www.kqzyfj.com/click-101452278-14339339?url=https%3A%2F%2Fxtratuf.com%2Fcollections%2Fthe-legacy-collection%2Fproducts%2F22172g%3Fvariant%3D47867487322267" target="_blank" rel="noopener noreferrer">Check Current Price - Xtratuf Legacy Boots</a>**
 
 ## What You Get Long-Term
 
@@ -108,16 +108,18 @@ If you're between sizes (like 10.5), definitely go with the smaller option (size
 
 ## Technical Specs
 
-**[INSERT DETAILED SPECS]**
-
-- Height: 15 inches
-- Material: 100% waterproof neoprene
-- Construction: Triple-dipped latex outer layer
-- Outsole: Chevron pattern, non-marking
-- Insulation: Neoprene (not rated, but functions down to ~20°F comfortably)
-- Weight: ~2.5 lbs per boot
-- Made in: USA (Rock Island, Illinois)
-- Warranty: 30-day manufacturer defect coverage
+- **Height:** 15 inches
+- **Material:** 100% waterproof latex neoprene
+- **Construction:** Triple-dipped latex outer layer with hand-layered construction
+- **Outsole:** Chevron pattern, slip-resistant, non-marking, acid/chemical resistant
+- **Insulation:** Neoprene (naturally insulating, comfortable down to ~20°F)
+- **Weight:** Approximately 2.55 lbs per boot (size 8M)
+- **Calf Circumference:** 16.5 inches
+- **Heel Height:** 3/4 inch
+- **Insole:** Lightweight Breathe-O-Prene, moisture-wicking, shock-absorbing
+- **Made in:** USA (Rock Island, Illinois)
+- **Safety Standards:** ASTM F1671/F1671M-13 (viral penetration resistance), ASTM F2892-18 EH (electrical hazards)
+- **Warranty:** 30-day manufacturer defect coverage
 
 ## Bottom Line
 
@@ -127,7 +129,7 @@ If you fish more than a few times a year, these boots will pay for themselves in
 
 Order a half-size down, give them a couple trips to break in, and you'll understand why every serious fisherman from Alaska to the Gulf Coast wears the same boots.
 
-**[Get Xtratuf Legacy Boots](https://www.kqzyfj.com/click-101452278-14339339?url=https%3A%2F%2Fxtratuf.com%2Fcollections%2Fthe-legacy-collection%2Fproducts%2F22172g%3Fvariant%3D47867487322267)**
+**<a href="https://www.kqzyfj.com/click-101452278-14339339?url=https%3A%2F%2Fxtratuf.com%2Fcollections%2Fthe-legacy-collection%2Fproducts%2F22172g%3Fvariant%3D47867487322267" target="_blank" rel="noopener noreferrer">Get Xtratuf Legacy Boots</a>**
 
 ---
 

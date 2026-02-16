@@ -13,7 +13,7 @@ After spending 20+ years in enterprise IT managing datacenter power systems, I k
 
 I've tested portable power stations from the $50 Amazon specials to the $2,000 Bluetti monsters. The Explorer 300 Plus hits that sweet spot where you get enough capacity for a real weekend trip without needing a forklift to load it in the boat.
 
-**[Check Current Price - Jackery Explorer 300 Plus](https://www.kqzyfj.com/click-101452278-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fexplorer-300-portable-power-station%3F_pos%3D2%26_psq%3D300%2Bplus%26_ss%3De%26_v%3D1.0)**
+**<a href="https://www.kqzyfj.com/click-101452278-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fexplorer-300-portable-power-station%3F_pos%3D2%26_psq%3D300%2Bplus%26_ss%3De%26_v%3D1.0" target="_blank" rel="noopener noreferrer">Check Current Price - Jackery Explorer 300 Plus</a>**
 
 ## What Makes This Power Station Actually Useful
 
@@ -79,21 +79,33 @@ The solar charging is solid but not revolutionary. You need good sun and patienc
 
 No included solar panels - you're paying $300 for the power station and then another $100-200 for panels if you want solar capability.
 
-**[Check Current Price - Jackery Explorer 300 Plus](https://www.kqzyfj.com/click-101452278-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fexplorer-300-portable-power-station%3F_pos%3D2%26_psq%3D300%2Bplus%26_ss%3De%26_v%3D1.0)**
+**<a href="https://www.kqzyfj.com/click-101452278-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fexplorer-300-portable-power-station%3F_pos%3D2%26_psq%3D300%2Bplus%26_ss%3De%26_v%3D1.0" target="_blank" rel="noopener noreferrer">Check Current Price - Jackery Explorer 300 Plus</a>**
 
 ## Technical Specs
 
-**[INSERT DETAILED SPECS TABLE]**
-
-- Battery Capacity: 288Wh (12V/24Ah)
-- Battery Type: LiFePO4 (Lithium Iron Phosphate)
-- Cycle Life: 3,000 cycles to 80% capacity
-- AC Output: 300W continuous, 600W surge
-- USB-C Output: 100W Power Delivery
-- Solar Input: 100W max
-- Recharge Time: 2 hours (wall), 3-4 hours (100W solar)
-- Weight: 8.27 lbs
-- Dimensions: [INSERT DIMENSIONS]
+| Specification | Details |
+|--------------|---------|
+| **Battery Capacity** | 288Wh (12V/24Ah) |
+| **Battery Type** | LiFePO4 (Lithium Iron Phosphate) |
+| **Cycle Life** | 3,000 cycles to 80% capacity |
+| **Weight** | 8.27 lbs (3.75 kg) |
+| **Dimensions** | 9.1" L x 6.1" W x 6.6" H (23cm x 15.5cm x 16.7cm) |
+| **AC Output** | 1x 120V, 60Hz, 300W continuous (600W surge peak) |
+| **USB-C Output** | 2x 100W Power Delivery (5V, 9V, 12V, 15V, 20V up to 5A) |
+| **USB-A Output** | 1x 15W (5V⎓3A) |
+| **Car Port Output** | 1x 12V⎓10A |
+| **AC Input** | 100V-120V~60Hz, 300W Max |
+| **DC Solar Input** | 12-27V⎓5A Max, 100W Max |
+| **Recharge Time (AC)** | 2 hours (0-100%) |
+| **Recharge Time (Solar)** | 3-4 hours with 100W panel |
+| **Recharge Time (Car)** | 5.5 hours |
+| **Recharge Time (USB-C)** | 2.8-4 hours |
+| **Operating Temperature** | 14-113°F (-10~45°C) |
+| **Safety Features** | 52 protective mechanisms, 12 BMS algorithms, 4 physical protections |
+| **Certifications** | FCC, CE, UL 94V-0 flame-retardant, Class 9 impact resistant, UL certified |
+| **App Control** | Wi-Fi and Bluetooth connectivity via Jackery app |
+| **Warranty** | 3 years + 2 year extended (register on official website) |
+| **Compatible Solar Panels** | SolarSaga 40W, 60W, 80W, 100W, 200W |
 
 ## Bottom Line
 
@@ -103,7 +115,7 @@ At around $300, it's priced where most serious fishermen and weekend campers can
 
 If you're doing multi-week expeditions or running heavy loads, step up to the 500 or 1000 series. But for most folks reading this? The 300 Plus is the right size, right price, and right capability.
 
-**[Get the Jackery Explorer 300 Plus](https://www.kqzyfj.com/click-101452278-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fexplorer-300-portable-power-station%3F_pos%3D2%26_psq%3D300%2Bplus%26_ss%3De%26_v%3D1.0)**
+**<a href="https://www.kqzyfj.com/click-101452278-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fexplorer-300-portable-power-station%3F_pos%3D2%26_psq%3D300%2Bplus%26_ss%3De%26_v%3D1.0" target="_blank" rel="noopener noreferrer">Get the Jackery Explorer 300 Plus</a>**
 
 ---
 

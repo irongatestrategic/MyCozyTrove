@@ -13,7 +13,7 @@ My brother boondocks. Not at established campsites with fire rings and picnic ta
 
 The Survival Frog Solo Bivy 1-Person Tent is what he carries when weight matters more than comfort. At around 2.5 pounds packed, it's light enough for serious backpacking but tough enough for real backcountry conditions.
 
-**[Check Current Price - Survival Frog Solo Bivy Tent](https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&clickref=Backpacking+tent&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fsolo-1-person-backpacking-tent)**
+**<a href="https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&clickref=Backpacking+tent&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fsolo-1-person-backpacking-tent" target="_blank" rel="noopener noreferrer">Check Current Price - Survival Frog Solo Bivy Tent</a>**
 
 ## Why Ultralight Tents Are Different
 
@@ -104,7 +104,7 @@ No vestibule space. Some backpacking tents have a covered area outside the sleep
 
 The poles are basic aluminum. They work, but they're not the fancy carbon fiber or DAC poles on premium tents. Handle with care, carry a tent pole repair sleeve as backup.
 
-**[Check Current Price - Survival Frog Solo Bivy Tent](https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&clickref=Backpacking+tent&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fsolo-1-person-backpacking-tent)**
+**<a href="https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&clickref=Backpacking+tent&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fsolo-1-person-backpacking-tent" target="_blank" rel="noopener noreferrer">Check Current Price - Survival Frog Solo Bivy Tent</a>**
 
 ## Setup Tips from Actual Use
 
@@ -223,7 +223,7 @@ At $129.97, it's priced where serious backpackers can justify the purchase witho
 
 My brother's been using this style of tent for years. The fact that he keeps buying similar designs (instead of switching to heavier "comfort" tents or trying to go even more ultralight with tarps) tells you something: for solo backpacking trips, this weight-to-functionality ratio is about right.
 
-**[Get the Solo Bivy Tent - Survival Frog](https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&clickref=Backpacking+tent&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fsolo-1-person-backpacking-tent)**
+**<a href="https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&clickref=Backpacking+tent&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fsolo-1-person-backpacking-tent" target="_blank" rel="noopener noreferrer">Get the Solo Bivy Tent - Survival Frog</a>**
 
 ---
 

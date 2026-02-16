@@ -13,7 +13,7 @@ I've owned plenty of jackets that claimed to be "outdoor gear" but were really j
 
 The thing about Kings Camo is they started making gear for serious hunters - the kind who sit in a tree stand at 20 degrees for six hours waiting for a deer. That engineering trickles down to every product they make. You're getting hunting-grade durability and comfort even if you're just wearing it for fishing trips or weekend camping.
 
-**[Check Current Price - Kings Camo Hunter Series Jacket](https://www.tkqlhce.com/click-101452278-15785642?url=https%3A%2F%2Fkingscamo.com%2Fproducts%2Fhunter-series-wind-defender-fleece-jacket%3Fvariant%3D44366014087341)**
+**<a href="https://www.tkqlhce.com/click-101452278-15785642?url=https%3A%2F%2Fkingscamo.com%2Fproducts%2Fhunter-series-wind-defender-fleece-jacket%3Fvariant%3D44366014087341" target="_blank" rel="noopener noreferrer">Check Current Price - Kings Camo Hunter Series Jacket</a>**
 
 ## What Makes Kings Camo Different
 
@@ -105,7 +105,7 @@ Limited color options if you don't want camo. Some models come in solid colors (
 - Outer: Kings Camo jacket
 - Consider adding a down vest underneath for stationary hunting
 
-**[Check Current Price - Kings Camo Hunter Series Jacket](https://www.tkqlhce.com/click-101452278-15785642?url=https%3A%2F%2Fkingscamo.com%2Fproducts%2Fhunter-series-wind-defender-fleece-jacket%3Fvariant%3D44366014087341)**
+**<a href="https://www.tkqlhce.com/click-101452278-15785642?url=https%3A%2F%2Fkingscamo.com%2Fproducts%2Fhunter-series-wind-defender-fleece-jacket%3Fvariant%3D44366014087341" target="_blank" rel="noopener noreferrer">Check Current Price - Kings Camo Hunter Series Jacket</a>**
 
 ## Care and Maintenance
 
@@ -131,16 +131,24 @@ For fishing and general outdoor use, the Hunter Series is the sweet spot. XKG is
 
 ## Technical Specs
 
-**[INSERT DETAILED SPECS]**
+- **Material:** 100% polyester fleece with brushed outer fabric
+- **Membrane:** Wind-Defender waterproof membrane (seams not taped)
+- **Weight:** 33.4 oz (approximately 2.1 lbs)
+- **Water Resistance:** DWR (Durable Water Repellent) finish
+- **Temperature Range:** 30-60°F (depending on layering)
+- **Features:** 
+  - Detachable zip-off hood
+  - Two side zip pockets
+  - One chest zip pocket
+  - Drawstring waist
+  - Velcro adjustable cuffs
+  - Mesh inner liner
+  - Articulated sleeves for mobility
+- **Camo Patterns:** Available in XKG Ridge, Desert Shadow, Hunter Series, Mountain Shadow
+- **Sizes:** S-3XL
+- **Care:** Machine wash cold, air dry or low heat tumble dry
 
-- Material: [Specific fabric type - polyester blend, fleece-lined, etc.]
-- Weight: [Insert weight]
-- Temperature Range: 30-60°F (depending on layering)
-- Water Resistance: [DWR coating or waterproof rating]
-- Features: Articulated sleeves, reinforced elbows, multiple pockets
-- Sizes: S-3XL
-- Camo Patterns: [List available patterns]
-- Made in: [Insert country of origin]
+**Note:** Includes waterproof membrane but seams are not taped or 100% sealed. Water-resistant for normal outdoor use, not submersion-proof.
 
 ## Bottom Line
 
@@ -152,7 +160,7 @@ The camo patterns work for concealment if you hunt, but even if you're just fish
 
 If you need one jacket that handles fishing in April, hiking in October, and hunting in November, this is it.
 
-**[Get the Kings Camo Hunter Series Jacket](https://www.tkqlhce.com/click-101452278-15785642?url=https%3A%2F%2Fkingscamo.com%2Fproducts%2Fhunter-series-wind-defender-fleece-jacket%3Fvariant%3D44366014087341)**
+**<a href="https://www.tkqlhce.com/click-101452278-15785642?url=https%3A%2F%2Fkingscamo.com%2Fproducts%2Fhunter-series-wind-defender-fleece-jacket%3Fvariant%3D44366014087341" target="_blank" rel="noopener noreferrer">Get the Kings Camo Hunter Series Jacket</a>**
 
 ---
 

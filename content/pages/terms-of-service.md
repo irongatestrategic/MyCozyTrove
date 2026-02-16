@@ -10,9 +10,9 @@ title: Terms of Service
 
 ## Agreement to Terms
 
-By accessing and using MyCozyTrove ("Site"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use this Site.
+By accessing and using SafeHarborPrep ("Site"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use this Site.
 
-MyCozyTrove reserves the right to modify these Terms at any time. Changes will be posted on this page with an updated "Last Updated" date. Your continued use of the Site after changes constitutes acceptance of the modified Terms.
+SafeHarborPrep reserves the right to modify these Terms at any time. Changes will be posted on this page with an updated "Last Updated" date. Your continued use of the Site after changes constitutes acceptance of the modified Terms.
 
 ## Use of Site
 
@@ -29,16 +29,16 @@ You may NOT:
 - Use automated systems (bots, scrapers) to access the Site
 - Attempt to interfere with Site functionality or security
 - Post malicious code, viruses, or harmful content
-- Impersonate MyCozyTrove or misrepresent affiliation
+- Impersonate SafeHarborPrep or misrepresent affiliation
 - Use the Site for any illegal purpose
 
 ## Affiliate Relationships and Disclosures
 
 ### FTC Compliance
-MyCozyTrove complies fully with Federal Trade Commission (FTC) guidelines regarding affiliate marketing and endorsements.
+SafeHarborPrep complies fully with Federal Trade Commission (FTC) guidelines regarding affiliate marketing and endorsements.
 
 ### Material Connection
-MyCozyTrove maintains affiliate relationships with various companies and networks. When you purchase products through our affiliate links, we earn commissions at no additional cost to you.
+SafeHarborPrep maintains affiliate relationships with various companies and networks. When you purchase products through our affiliate links, we earn commissions at no additional cost to you.
 
 **Current affiliate programs:**
 - Commission Junction (CJ Affiliate)
@@ -82,7 +82,7 @@ You are responsible for your own purchase decisions. We encourage you to:
 
 ## Third-Party Links and Websites
 
-MyCozyTrove contains links to third-party websites, including:
+SafeHarborPrep contains links to third-party websites, including:
 - Affiliate merchant sites
 - Manufacturer websites
 - Other resources and references
@@ -98,7 +98,7 @@ Third-party websites are governed by their own terms of service and privacy poli
 ## Intellectual Property
 
 ### Our Content
-All content on MyCozyTrove, including text, images, graphics, logos, and design, is owned by MyCozyTrove or licensed to us. This content is protected by copyright, trademark, and other intellectual property laws.
+All content on SafeHarborPrep, including text, images, graphics, logos, and design, is owned by SafeHarborPrep or licensed to us. This content is protected by copyright, trademark, and other intellectual property laws.
 
 ### Limited License
 We grant you a limited, non-exclusive, non-transferable license to access and use Site content for personal, non-commercial purposes. This license does not include:
@@ -113,7 +113,7 @@ If you submit content to us (comments, questions, feedback), you grant us a non-
 ## Disclaimers
 
 ### "As Is" Basis
-MyCozyTrove is provided on an "as is" and "as available" basis. We make no warranties, expressed or implied, regarding:
+SafeHarborPrep is provided on an "as is" and "as available" basis. We make no warranties, expressed or implied, regarding:
 - Site availability or reliability
 - Accuracy of information
 - Fitness for particular purpose
@@ -128,7 +128,7 @@ Product information, pricing, and availability are subject to change without not
 - Suitability for your needs
 
 ### Emergency Preparedness Information
-Information on MyCozyTrove is educational and based on personal experience. It is NOT:
+Information on SafeHarborPrep is educational and based on personal experience. It is NOT:
 - Professional emergency management advice
 - Substitute for official government guidance
 - Appropriate for all situations or locations
@@ -138,7 +138,7 @@ You are responsible for your own preparedness decisions. Consult with appropriat
 
 ## Limitation of Liability
 
-To the fullest extent permitted by law, MyCozyTrove and its operators shall NOT be liable for:
+To the fullest extent permitted by law, SafeHarborPrep and its operators shall NOT be liable for:
 - Direct, indirect, incidental, or consequential damages
 - Lost profits, data, or business opportunities
 - Personal injury or property damage
@@ -152,7 +152,7 @@ Some jurisdictions do not allow limitation of liability for certain damages. In 
 
 ## Indemnification
 
-You agree to indemnify and hold harmless MyCozyTrove, its operators, and affiliates from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+You agree to indemnify and hold harmless SafeHarborPrep, its operators, and affiliates from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
 - Your use of the Site
 - Your violation of these Terms
 - Your violation of any rights of third parties
@@ -170,17 +170,17 @@ We are NOT a party to transactions between you and merchants. Any disputes must 
 
 ## Privacy
 
-Your use of MyCozyTrove is also governed by our [Privacy Policy](/privacy-policy/). Please review it to understand how we collect, use, and protect your information.
+Your use of SafeHarborPrep is also governed by our [Privacy Policy](/privacy-policy/). Please review it to understand how we collect, use, and protect your information.
 
 ## Geographic Restrictions
 
-MyCozyTrove is operated from the United States. We make no representation that Site content is appropriate or available for use in other locations.
+SafeHarborPrep is operated from the United States. We make no representation that Site content is appropriate or available for use in other locations.
 
 If you access the Site from outside the United States, you do so at your own risk and are responsible for compliance with local laws.
 
 ## Termination
 
-We reserve the right to terminate or suspend your access to MyCozyTrove at any time, without notice, for:
+We reserve the right to terminate or suspend your access to SafeHarborPrep at any time, without notice, for:
 - Violation of these Terms
 - Fraudulent or illegal activity
 - Behavior that harms the Site or other users
@@ -194,7 +194,7 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 ## Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and MyCozyTrove regarding use of the Site.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and SafeHarborPrep regarding use of the Site.
 
 ## Governing Law
 
@@ -214,7 +214,7 @@ Questions about these Terms of Service? Contact us:
 ## Specific FTC Compliance Notices
 
 ### Endorsements and Testimonials
-All product endorsements on MyCozyTrove reflect our honest opinions based on actual experience. We have personally tested products we recommend.
+All product endorsements on SafeHarborPrep reflect our honest opinions based on actual experience. We have personally tested products we recommend.
 
 ### Material Connections
 We maintain material connections (affiliate relationships) with companies whose products we review. These relationships are always clearly disclosed.

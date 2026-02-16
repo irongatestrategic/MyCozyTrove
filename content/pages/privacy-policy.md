@@ -8,7 +8,7 @@ title: Privacy Policy
 **Effective Date:** February 3, 2026  
 **Last Updated:** February 3, 2026
 
-MyCozyTrove ("we," "us," or "our") operates https://mycozytrove.com (the "Site"). This Privacy Policy explains how we collect, use, disclose, and protect information from visitors to our Site.
+SafeHarborPrep ("we," "us," or "our") operates https://safeharborprep.com (the "Site"). This Privacy Policy explains how we collect, use, disclose, and protect information from visitors to our Site.
 
 ## Information We Collect
 
@@ -49,7 +49,7 @@ We use collected information to:
 
 ## Affiliate Disclosure and Tracking
 
-MyCozyTrove participates in affiliate marketing programs. When you click affiliate links and make purchases, we may earn commissions.
+SafeHarborPrep participates in affiliate marketing programs. When you click affiliate links and make purchases, we may earn commissions.
 
 **Affiliate tracking includes:**
 - Click tracking (which links you clicked)
@@ -94,7 +94,7 @@ We may share your information with:
 
 **Legal Compliance:** When required by law, court order, or to protect our rights and safety.
 
-**Business Transfers:** If MyCozyTrove is involved in a merger, acquisition, or sale of assets, your information may be transferred. You will be notified of any such change.
+**Business Transfers:** If SafeHarborPrep is involved in a merger, acquisition, or sale of assets, your information may be transferred. You will be notified of any such change.
 
 ## Data Security
 
@@ -202,7 +202,7 @@ Our affiliate networks and analytics providers may set their own cookies. These 
 
 ## Affiliate Relationship Transparency
 
-MyCozyTrove maintains affiliate relationships with:
+SafeHarborPrep maintains affiliate relationships with:
 - Commission Junction (CJ Affiliate)
 - Awin
 - DigitalStore24
