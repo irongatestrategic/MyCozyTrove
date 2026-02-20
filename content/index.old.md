@@ -18,30 +18,12 @@ Tested on camping trips and remote fishing spots. 288Wh capacity powers CPAPs, p
 
 ---
 
-### Jackery 1500 Ultra vs. 2000 Plus: Which Power Station Belongs in Your Kit?
-**IP65 portability vs. expandable basecamp capacity — the comparison**
-
-Moving camp every day or setting up for the week? These two units share the same LFP chemistry but serve completely different mission profiles. Here's how to pick the right one before you leave the driveway.
-
-[Read the comparison →](/reviews/power/jackery-1500-ultra-vs-2000-plus/)
-
----
-
 ### Xtratuf Legacy Fishing Boots
 **The gold standard deck boots fishermen actually wear**
 
 15-inch neoprene construction, Chevron sole that grips wet surfaces. Tested on Mississippi boat decks, muddy banks, and Alabama riverbanks. These boots last 3-5 years of hard use.
 
 [Read full review →](/reviews/gear/xtratuf-fishing-boots/)
-
----
-
-### Xtratuf Legacy 12" vs. 15": Choosing the Right Boot for Your Water
-**Same legendary construction, different coverage — here's how to decide**
-
-The 12" handles dock, deck, and casual bank fishing. The 15" is for wading, marsh, and unpredictable water depth. Both use triple-dipped neoprene. The choice comes down to where you fish.
-
-[Read the comparison →](/reviews/gear/xtratuf-legacy-12-vs-15/)
 
 ---
 
