@@ -30,23 +30,7 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
   
-  <header class="site-header">
-    <div class="container">
-      <div class="header-content">
-        <div class="logo">
-          <a href="/">{{ site.name }}</a>
-        </div>
-        <nav class="main-nav">
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/#featured-reviews">Reviews</a></li>
-            <li><a href="/pages/about/">About</a></li>
-            <li><a href="/pages/contact/">Contact</a></li>
-          </ul>
-        </nav>
-      </div>
-    </div>
-  </header>
+  {% include "partials/header.njk" %}
   
   {% if isHome %}
   <section class="hero">
