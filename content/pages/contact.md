@@ -1,4 +1,4 @@
-# Contact SafeHarborPrep
+# Contact MyCozyTrove
 
 ## Get in Touch
 
@@ -50,7 +50,7 @@ If you're experiencing an active emergency, contact appropriate authorities:
 - **Natural Disaster:** Local emergency management
 - **Water Contamination:** Local health department
 
-SafeHarborPrep provides preparedness information, not emergency response services.
+MyCozyTrove provides preparedness information, not emergency response services.
 
 ### Professional Services
 We are NOT:
@@ -122,7 +122,7 @@ We're selective about media opportunities but open to discussions with legitimat
 
 ## Social Media
 
-**Currently:** SafeHarborPrep focuses on website content quality over social media presence.
+**Currently:** MyCozyTrove focuses on website content quality over social media presence.
 
 **Future:** We may expand to social platforms as the site grows. Updates will be posted on this page.
 
@@ -132,7 +132,7 @@ For now, email is the best way to reach us.
 
 ## Affiliate Program Inquiries
 
-SafeHarborPrep participates in:
+MyCozyTrove participates in:
 - Commission Junction (CJ Affiliate)
 - Awin
 - DigitalStore24
@@ -195,12 +195,12 @@ Well-formed questions receive better, faster responses.
 
 ## Thank You
 
-We appreciate your interest in SafeHarborPrep. Your questions, feedback, and suggestions help us improve and guide our testing priorities.
+We appreciate your interest in MyCozyTrove. Your questions, feedback, and suggestions help us improve and guide our testing priorities.
 
 Whether you're reaching out with questions, corrections, or just to say hello, we value your engagement with our content.
 
 Stay prepared,  
-**The SafeHarborPrep Team**
+**The MyCozyTrove Team**
 
 ---
 
@@ -208,7 +208,7 @@ Stay prepared,
 
 - [Homepage](/)
 - [All Reviews](/reviews/)
-- [About SafeHarborPrep](/about/)
+- [About MyCozyTrove](/about/)
 - [Privacy Policy](/privacy-policy/)
 - [Terms of Service](/terms-of-service/)
 

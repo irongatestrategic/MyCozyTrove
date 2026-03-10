@@ -1,8 +1,8 @@
-// SafeHarborPrep - Main JavaScript
+// MyCozyTrove - Main JavaScript
 
 // Mobile menu toggle (if needed in future)
 document.addEventListener('DOMContentLoaded', function() {
-  console.log('SafeHarborPrep loaded');
+  console.log('MyCozyTrove loaded');
   
   // Add smooth scrolling to anchor links
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {

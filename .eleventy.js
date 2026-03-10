@@ -64,6 +64,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("gearReviews", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/reviews/gear/*.md");
   });
+
+  eleventyConfig.addCollection("waterReviews", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/reviews/water/*.md");
+  });
+
+  eleventyConfig.addCollection("selfSufficiencyReviews", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/reviews/self-sufficiency/*.md");
+  });
   
   // Add collection for all reviews
   eleventyConfig.addCollection("allReviews", function(collectionApi) {

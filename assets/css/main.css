@@ -572,3 +572,66 @@ hr {
   text-align: center;
   margin: var(--space-xl) 0;
 }
+/* Category index pages */
+.category-intro {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 2rem;
+  max-width: 700px;
+}
+
+.review-list {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.review-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.review-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.review-card h2 {
+  margin-top: 0;
+  font-size: 1.25rem;
+}
+
+.review-card h2 a {
+  color: #2c5f2e;
+  text-decoration: none;
+}
+
+.review-card h2 a:hover {
+  text-decoration: underline;
+}
+
+.review-card time {
+  display: block;
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 0.75rem;
+}
+
+.review-card .read-more {
+  display: inline-block;
+  margin-top: 0.75rem;
+  color: #2c5f2e;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.review-card .read-more:hover {
+  text-decoration: underline;
+}
+
+.coming-soon {
+  color: #888;
+  font-style: italic;
+}
