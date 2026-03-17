@@ -39,7 +39,7 @@ The v2 series standardizes LiFePO4 chemistry across the lineup. For recreational
 
 ## Model Reviews
 
-### Jackery Explorer 1000 v2
+### [Jackery Explorer 1000 v2](https://www.kqzyfj.com/click-101526571-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2%3F_pos%3D2%26_psq%3DExplorer%2B1000%2Bv2%26_ss%3De%26_v%3D1.0%26variant%3D40910606205015)
 
 The 1000 v2 is built for the 48-hour trip profile — enough capacity for a portable fridge, device charging, and CPAP use over a weekend, in a package light enough to carry to a remote shoreline.
 
@@ -65,7 +65,7 @@ The 1000 v2 is built for the 48-hour trip profile — enough capacity for a port
 
 ---
 
-### Jackery Explorer 2000 v2
+### [Jackery Explorer 2000 v2](https://www.tkqlhce.com/click-101526571-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-2000-v2%3F_pos%3D3%26_sid%3D2312154f6%26_ss%3Dr)
 
 The 2000 v2 targets multi-day off-grid use without the weight penalty typical of 2kWh units. At 39.5 lbs it's roughly 40% lighter than comparable LFP stations in its capacity class.
 
@@ -154,6 +154,6 @@ Yes. The app connects via Bluetooth, not cellular. It functions normally in remo
 
 ## Bottom Line
 
-The Explorer 1000 v2 is the current benchmark for lightweight 1kWh camping power. If you're carrying the unit any meaningful distance — kayak, trail, boat deck — the weight advantage over competitors is real and compounds over a long day. The Explorer 2000 v2 solves the multi-day capacity problem in a surprisingly manageable package, with the honest caveat that its 400W solar ceiling means you need good sun and light loads to maintain a positive energy balance on extended trips.
+The [Explorer 1000 v2](https://www.kqzyfj.com/click-101526571-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2%3F_pos%3D2%26_psq%3DExplorer%2B1000%2Bv2%26_ss%3De%26_v%3D1.0%26variant%3D40910606205015) is the current benchmark for lightweight 1kWh camping power. If you're carrying the unit any meaningful distance — kayak, trail, boat deck — the weight advantage over competitors is real and compounds over a long day. The [Explorer 2000 v2](https://www.tkqlhce.com/click-101526571-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-2000-v2%3F_pos%3D3%26_sid%3D2312154f6%26_ss%3Dr) solves the multi-day capacity problem in a surprisingly manageable package, with the honest caveat that its 400W solar ceiling means you need good sun and light loads to maintain a positive energy balance on extended trips.
 
 Both units are serious outdoor tools, not consumer gadgets. The LFP upgrade makes them worth owning for the long term.
