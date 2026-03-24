@@ -42,7 +42,7 @@ Portable power for camping comes down to two components: something that generate
 | Output Types | AC, DC, USB-A/C | DC (XT60 or DC7909 connector) |
 | Limiting Factor | Runtime ends when battery depletes | Generation stops when sun sets |
 
-> [Jackery SolarSaga 100W Portable Solar Panel →]([AFFILIATE_LINK_NEEDED])
+> [Jackery SolarSaga 100W Portable Solar Panel →](https://www.kqzyfj.com/click-101526571-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2%3F_pos%3D2%26_psq%3DExplorer%2B1000%2Bv2%26_ss%3De%26_v%3D1.0%26variant%3D40910606205015)
 
 ---
 
@@ -86,7 +86,7 @@ Tent campers who stay stationary for multiple days don't have that option. For a
 
 **On compatibility:** Verify that the panel's output connector matches your power station's solar input port before buying. Most quality stations use XT60 or DC7909 connectors and ship with adapters, but confirming compatibility upfront avoids a frustrating workaround at camp.
 
-> [Jackery Explorer 1000 v2 →]([AFFILIATE_LINK_NEEDED])
+> [Jackery Explorer 1000 v2 →](https://www.kqzyfj.com/click-101526571-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2%3F_pos%3D2%26_psq%3DExplorer%2B1000%2Bv2%26_ss%3De%26_v%3D1.0%26variant%3D40910606205015)
 
 ---
 
