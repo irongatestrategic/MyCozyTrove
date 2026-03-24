@@ -1,0 +1,7 @@
+# Junk pages - permanently gone
+/index.old/                  /404  410
+/test/                       /404  410
+
+# Empty category placeholders - permanently gone
+/reviews/self-sufficiency/   /404  410
+/reviews/water/              /404  410
