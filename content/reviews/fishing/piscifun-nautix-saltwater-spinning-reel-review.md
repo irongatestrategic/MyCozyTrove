@@ -1,4 +1,5 @@
 ---
+layout: base
 title: "Piscifun NautiX Saltwater Spinning Reel Review: Why IPX5 Sealing and Aluminum Bodies Win"
 description: "Technical review of the Piscifun NautiX—IPX5 sealing, aluminum alloy body, 8+1 double-shielded bearings, and 33lb drag for saltwater inshore and light offshore applications."
 date: 2026-03-25
@@ -123,4 +124,4 @@ The NautiX is optimized for braided line and includes a braid-ready rubber gaske
 
 ---
 
-*Related: [Professional Angler's Infrastructure Guide](/fishing/professional-angler-infrastructure-guide/) | [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)*
+*Related: [Professional Angler's Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) | [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)*
