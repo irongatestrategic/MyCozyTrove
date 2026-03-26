@@ -1,4 +1,5 @@
 ---
+layout: base
 title: "The Physics of the Fight: Drag Systems and Gear Rigidity Explained"
 description: "How frame flex, drag stack composition, and bearing sealing determine reel longevity under heavy load—engineering principles for serious freshwater and saltwater anglers."
 date: 2026-03-25
