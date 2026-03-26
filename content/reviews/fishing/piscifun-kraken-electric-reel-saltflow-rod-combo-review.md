@@ -1,4 +1,5 @@
 ---
+layout: base
 title: "Piscifun Kraken Electric Reel & Saltflow Rod Combo Review: Deep-Sea Power for the DIY Angler"
 description: "Technical review of the Piscifun Kraken electric reel combo—brushless motor efficiency, 5000mAh battery, 33lb drag, and fatigue management for deep-drop fishing at 150ft+."
 date: 2026-03-25
@@ -113,4 +114,4 @@ Piscifun primarily markets the Saltflow as part of the Kraken combo. It is occas
 
 ---
 
-*Related: [Professional Angler's Infrastructure Guide](/fishing/professional-angler-infrastructure-guide/) | [Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System](/fishing/manual-vs-electric-kraken-deep-drop-roi/)*
+*Related: [Professional Angler's Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) | [Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System](/reviews/fishing/manual-vs-electric-kraken-deep-drop-roi/)*
