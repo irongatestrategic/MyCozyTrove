@@ -1,4 +1,5 @@
 ---
+layout: base
 title: "Piscifun AlinoX 400 Review: The Heavy-Duty Casting Standard for Trophy Hunting"
 description: "Technical review of the Piscifun AlinoX 400—38lb Hercules Carbon Drag, aluminum alloy frame, and independent bait clicker for trophy catfish and offshore casting applications."
 date: 2026-03-25
@@ -111,4 +112,4 @@ The aluminum frame and shielded bearings are built for saltwater exposure, but a
 
 ---
 
-*Related: [Professional Angler's Infrastructure Guide](/fishing/professional-angler-infrastructure-guide/) | [Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System](/fishing/manual-vs-electric-kraken-deep-drop-roi/)*
+*Related: [Professional Angler's Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) | [Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System](/reviews/fishing/manual-vs-electric-kraken-deep-drop-roi/)*
