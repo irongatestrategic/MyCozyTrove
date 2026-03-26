@@ -1,4 +1,5 @@
 ---
+layout: base
 title: "Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System"
 description: "AlinoX 400 vs. Piscifun Kraken Electric Combo—a workflow efficiency comparison using depth range, session load, and time-on-water calculations to determine which tool fits your fishing."
 date: 2026-03-25
@@ -115,4 +116,4 @@ The AlinoX. It's a mechanical device requiring a freshwater rinse and periodic l
 
 ---
 
-*Related: [Piscifun Kraken Electric Reel & Saltflow Rod Combo Review](/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) | [Piscifun AlinoX 400 Review](/fishing/piscifun-alinox-400-baitcasting-reel-review/) | [Professional Angler's Infrastructure Guide](/fishing/professional-angler-infrastructure-guide/)*
+*Related: [Piscifun Kraken Electric Reel & Saltflow Rod Combo Review](/reviews/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) | [Piscifun AlinoX 400 Review](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/) | [Professional Angler's Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)*
