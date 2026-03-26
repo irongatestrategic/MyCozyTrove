@@ -1,4 +1,5 @@
 ---
+layout: base
 title: "The 2026 Professional Angler's Infrastructure Guide: Power, Precision, and Durability"
 description: "How to evaluate electric deep-drop, heavy-casting, and sealed spinning reels for saltwater and high-demand freshwater fishing—specs that determine longevity."
 date: 2026-03-25
@@ -30,7 +31,7 @@ This guide covers three equipment categories where the engineering gap between c
 
 ## Pillar 1: Does Motorized Retrieval Make Sense for Deep-Drop Fishing?
 
-Manual retrieval at depths of 150ft or more means cranking several pounds of lead weight on every drop. Do that 15 to 20 times in a session and the accumulated physical output is real before you've fought a single fish. A motorized system like the [Piscifun Kraken Electric Reel Combo](/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) transfers that load to a brushless motor, reserving the angler's energy for the fight.
+Manual retrieval at depths of 150ft or more means cranking several pounds of lead weight on every drop. Do that 15 to 20 times in a session and the accumulated physical output is real before you've fought a single fish. A motorized system like the [Piscifun Kraken Electric Reel Combo](/reviews/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) transfers that load to a brushless motor, reserving the angler's energy for the fight.
 
 This is a throughput calculation, not a comfort feature. More drops per hour, less fatigue accumulation, more consistent attention during the retrieve. The efficiency argument holds wherever manual retrieval is costing meaningful physical output by mid-session.
 
@@ -40,7 +41,7 @@ This is a throughput calculation, not a comfort feature. More drops per hour, le
 
 Under a 30lb catfish run or a hard offshore fight, a composite frame flexes. That flex shifts gear mesh alignment by a small but measurable margin—enough to introduce inconsistency in drag output and enough, under sustained load, to accelerate gear wear.
 
-An aluminum alloy frame, like the one in the [Piscifun AlinoX 400](/fishing/piscifun-alinox-400-baitcasting-reel-review/), maintains geometry under load. When the frame doesn't move, the gears stay in mesh and the drag stays consistent. For high-drag applications—trophy catfish, heavy offshore casting—aluminum is the correct material choice. Carbon fiber components reduce weight but give up the rigidity margin that matters when running 30+ lbs of sustained drag.
+An aluminum alloy frame, like the one in the [Piscifun AlinoX 400](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/), maintains geometry under load. When the frame doesn't move, the gears stay in mesh and the drag stays consistent. For high-drag applications—trophy catfish, heavy offshore casting—aluminum is the correct material choice. Carbon fiber components reduce weight but give up the rigidity margin that matters when running 30+ lbs of sustained drag.
 
 ---
 
@@ -48,7 +49,7 @@ An aluminum alloy frame, like the one in the [Piscifun AlinoX 400](/fishing/pisc
 
 IPX ratings are defined under IEC standard 60529. IPX5 certifies resistance to water projected from a nozzle at any angle—spray, wash-downs, and rain are within spec. It does not cover sustained submersion; that requires IPX7 or IPX8.
 
-For saltwater applications, the relevant failure mode is bearing ingress: moisture and salt particles entering unsealed bearings during the cool-down cycle after use. Double-shielded stainless steel bearings reduce that ingress path significantly. The [Piscifun NautiX](/fishing/piscifun-nautix-saltwater-spinning-reel-review/) pairs IPX5 certification with an aluminum body and 8+1 double-shielded bearings to address this failure mode directly.
+For saltwater applications, the relevant failure mode is bearing ingress: moisture and salt particles entering unsealed bearings during the cool-down cycle after use. Double-shielded stainless steel bearings reduce that ingress path significantly. The [Piscifun NautiX](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/) pairs IPX5 certification with an aluminum body and 8+1 double-shielded bearings to address this failure mode directly.
 
 ---
 
@@ -93,4 +94,4 @@ Carbon reduces weight but has lower rigidity under sustained high-torque loads. 
 
 ---
 
-*Individual reviews: [Piscifun Kraken Electric Combo](/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) | [Piscifun AlinoX 400](/fishing/piscifun-alinox-400-baitcasting-reel-review/) | [Piscifun NautiX](/fishing/piscifun-nautix-saltwater-spinning-reel-review/)*
+*Individual reviews: [Piscifun Kraken Electric Combo](/reviews/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) | [Piscifun AlinoX 400](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/) | [Piscifun NautiX](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)*
