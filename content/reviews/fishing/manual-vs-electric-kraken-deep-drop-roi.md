@@ -46,7 +46,9 @@ Fishing over 100 feet with heavy lead across a full session: the Kraken combo ju
 | Target Depth Range | 0–150 ft | 100–1,000+ ft |
 | Price Point | ~$149.99 | ~$679–$849 (combo) |
 
-> [AlinoX 400 at Piscifun →](https://tidd.ly/4bxcDxB) | [Kraken Electric Combo at Piscifun →](https://tidd.ly/4sEfISA)
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun AlinoX 400</a>**
+
+**<a href="https://tidd.ly/4sEfISA" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun Kraken Electric Combo</a>**
 
 ---
 
@@ -72,6 +74,10 @@ For freshwater trophy hunting — 40lb flatheads in a river, musky on heavy lure
 
 ---
 
+
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun AlinoX 400</a>**
+
+**<a href="https://tidd.ly/4sEfISA" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun Kraken Electric Combo</a>**
 ## Where the Kraken Combo Wins
 
 Once depth exceeds 100 feet and lead weight exceeds 2 pounds, the efficiency gap between the two systems becomes concrete and session-length dependent. The 13,500 foot-pound manual workload calculated above grows with depth and lead weight — at 300 feet with 8lb lead, the numbers roughly triple.
@@ -96,10 +102,16 @@ For anglers with physical limitations — shoulder injuries, wrist issues, reduc
 - Physical limitations make high-repetition manual cranking painful or unsustainable across a full session
 - You want to maximize bait-in-water time on offshore trips where each additional drop has catch probability value
 
-> [AlinoX 400 at Piscifun →](https://tidd.ly/4bxcDxB) | [Kraken Electric Combo at Piscifun →](https://tidd.ly/4sEfISA)
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun AlinoX 400</a>**
+
+**<a href="https://tidd.ly/4sEfISA" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun Kraken Electric Combo</a>**
 
 ---
 
+
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun AlinoX 400</a>**
+
+**<a href="https://tidd.ly/4sEfISA" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun Kraken Electric Combo</a>**
 ## Frequently Asked Questions
 
 **Can the Kraken be used for shallow-water fishing where electric retrieval isn't needed?**
