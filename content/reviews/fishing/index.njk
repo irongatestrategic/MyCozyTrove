@@ -1,0 +1,26 @@
+---
+layout: base
+title: "Fishing Gear Reviews"
+description: "Technical reviews of saltwater and freshwater fishing reels, rods, and tackle—specs, drag systems, and honest assessments for serious anglers."
+permalink: /reviews/fishing/
+---
+
+<div class="container" style="padding-top: 2rem;">
+
+  <h1>Fishing Gear Reviews</h1>
+  <p class="category-intro">Engineering-focused reviews of reels, rods, and tackle — drag systems, frame materials, and sealing specs for anglers who fish hard.</p>
+
+  <div class="review-list">
+    {% for review in collections.fishingReviews | reverse %}
+    <article class="review-card">
+      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
+      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
+      <a href="{{ review.url }}" class="read-more">Read full review →</a>
+    </article>
+    {% endfor %}
+    {% if collections.fishingReviews.length == 0 %}
+    <p class="coming-soon">Fishing gear reviews coming soon.</p>
+    {% endif %}
+  </div>
+
+</div>
