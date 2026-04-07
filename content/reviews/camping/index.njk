@@ -1,0 +1,26 @@
+---
+layout: base
+title: "Camping Gear Reviews"
+description: "Technical reviews of solo camping shelters, sleep systems, cooking gear, and outdoor essentials—specs, materials, and honest assessments for serious campers."
+permalink: /reviews/camping/
+---
+
+<div class="container" style="padding-top: 2rem;">
+
+  <h1>Camping Gear Reviews</h1>
+  <p class="category-intro">Engineering-focused reviews of tents, sleeping bags, stoves, and camp essentials — materials, insulation ratings, and real-world performance for campers who don't want to haul junk into the field.</p>
+
+  <div class="review-list">
+    {% for review in collections.campingReviews | reverse %}
+    <article class="review-card">
+      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
+      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
+      <a href="{{ review.url }}" class="read-more">Read full review →</a>
+    </article>
+    {% endfor %}
+    {% if collections.campingReviews.length == 0 %}
+    <p class="coming-soon">Camping gear reviews coming soon.</p>
+    {% endif %}
+  </div>
+
+</div>
