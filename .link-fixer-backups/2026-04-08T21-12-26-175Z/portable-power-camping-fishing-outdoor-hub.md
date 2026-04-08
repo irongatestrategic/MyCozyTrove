@@ -1,6 +1,6 @@
 ---
 title: "Portable Power for Camping, Fishing, and Outdoor Adventure"
-description: "A technical guide to mobile power for outdoor use [288Wh Explorer 300 Plus](/reviews/power/jackery-explorer-300-plus/) — weight-to-power ratios, IP ratings, DC efficiency, and how to choose the right system for camping, fishing, or van life."
+description: "A technical guide to mobile power for outdoor use — weight-to-power ratios, IP ratings, DC efficiency, and how to choose the right system for camping, fishing, or van life."
 date: 2026-03-16
 author: Jeff M.
 category: power

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Jackery 1500 Ultra vs. 2000 Plus: Which Power Station Belongs in Your Kit?"
-description: "Comparing the Jackery Explorer 1500 Ultra and 2000 Plus for camping [Jackery v2 lineup](/reviews/power/jackery-explorer-1000-2000-v2-camping-review/), fishing, and off-grid use. IP65 vs. expandable capacity — here's how to pick the right one for your trip."
+description: "Comparing the Jackery Explorer 1500 Ultra and 2000 Plus for camping, fishing, and off-grid use. IP65 vs. expandable capacity — here's how to pick the right one for your trip."
 date: 2026-02-19
 author: "Jeff M."
 category: "Power"
@@ -13,9 +13,9 @@ canonical: "https://mycozytrove.com/reviews/power/jackery-1500-ultra-vs-2000-plu
 
 ![Jackery Explorer power station on a dock at sunset with bell tent and solar panel in background](/assets/images/products/jackery-comparison.png)
 
-Planning a week-long fishing expedition or an extended camping trip means making one critical call before you leave the driveway: how much power do you actually need [best portable power stations](/reviews/power/best-portable-power-station-camping/), and how are you hauling it there?
+Planning a week-long fishing expedition or an extended camping trip means making one critical call before you leave the driveway: how much power do you actually need, and how are you hauling it there?
 
-The Jackery lineup covers both ends of that question. The **1500 Ultra** is built for the angler or overlander who moves camp frequently. The **2000 Plus** is built for the crew that sets up base and stays put. Same brand, different mission profiles [solar panels and portable power setup](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/) — and picking the wrong one will cost you either in capability or portability.
+The Jackery lineup covers both ends of that question. The **1500 Ultra** is built for the angler or overlander who moves camp frequently. The **2000 Plus** is built for the crew that sets up base and stays put. Same brand, different mission profiles — and picking the wrong one will cost you either in capability or portability.
 
 Here's the breakdown.
 

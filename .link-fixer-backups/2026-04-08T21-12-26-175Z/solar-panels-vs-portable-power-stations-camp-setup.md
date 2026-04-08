@@ -1,6 +1,6 @@
 ---
 title: "Solar Panels vs. Portable Power Stations: What's the Right Camp Power Setup?"
-description: "Solar panels or a portable power station for camping? This guide breaks down trip length, campsite type, and budget [Jackery 1500 Ultra and 2000 Plus](/reviews/power/jackery-1500-ultra-vs-2000-plus/) to help you build the right off-grid power setup."
+description: "Solar panels or a portable power station for camping? This guide breaks down trip length, campsite type, and budget to help you build the right off-grid power setup."
 date: 2026-03-22
 author: Jeff M.
 category: outdoor
@@ -24,11 +24,11 @@ Portable power for camping comes down to two components: something that generate
 
 ## Quick Answer: Generation vs. Storage
 
-**Portable power stations store energy [best portable power stations for camping](/reviews/power/best-portable-power-station-camping/).** They're large-capacity lithium batteries with built-in inverters. They hold a charge from a wall outlet, a car port, or a solar panel and deliver it to your gear on demand. They don't create energy.
+**Portable power stations store energy.** They're large-capacity lithium batteries with built-in inverters. They hold a charge from a wall outlet, a car port, or a solar panel and deliver it to your gear on demand. They don't create energy.
 
 **Solar panels generate energy.** They convert sunlight into DC electricity but have no storage capacity. Without a battery to receive the charge, the output is wasted.
 
-**The practical threshold:** If you camp for 48 hours or less, a power station charged at home before you leave is usually enough. For trips of 3 days or more without access to shore power [Jackery Explorer 1000 v2 vs. 2000 Plus](/reviews/outdoor/jackery-1000-pro-v2-vs-2000-pro-v2/), solar panels are the only way to replenish that storage without driving back to a campground hookup.
+**The practical threshold:** If you camp for 48 hours or less, a power station charged at home before you leave is usually enough. For trips of 3 days or more without access to shore power, solar panels are the only way to replenish that storage without driving back to a campground hookup.
 
 ---
 

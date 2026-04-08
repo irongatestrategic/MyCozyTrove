@@ -21,5 +21,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.86.1"
+  }
 }

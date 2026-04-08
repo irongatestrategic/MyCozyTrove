@@ -13,7 +13,7 @@ canonical: "https://mycozytrove.com/reviews/gear/xtratuf-legacy-12-vs-15/"
 
 ![Xtratuf Legacy boots on a wet dock with fishing vessel in foggy background](/assets/images/products/xtratuf-comparison.png)
 
-The Xtratuf Legacy has been the default boot [broader Xtratuf boot lineup](/reviews/gear/xtratuf-fishing-boots/) on commercial fishing decks from Alaska to the Gulf Coast [professional angler infrastructure](/reviews/fishing/professional-angler-infrastructure-guide/) for decades. Not because of marketing — because triple-dipped neoprene construction, a non-marking chevron outsole, and genuine waterproofing hold up in conditions that destroy lesser footwear.
+The Xtratuf Legacy has been the default boot on commercial fishing decks from Alaska to the Gulf Coast for decades. Not because of marketing — because triple-dipped neoprene construction, a non-marking chevron outsole, and genuine waterproofing hold up in conditions that destroy lesser footwear.
 
 The question most buyers face isn't whether to buy Xtratufs. It's which height to buy.
 

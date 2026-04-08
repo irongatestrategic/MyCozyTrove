@@ -11,7 +11,7 @@ title: Kings Camo Hunter Series Jacket Review - Outdoor Apparel
 
 I've owned plenty of jackets that claimed to be "outdoor gear" but were really just fashion statements with camo patterns. Kings Camo makes jackets designed for guys who actually spend time in the woods, on the water, and in conditions where your gear either performs or you're miserable.
 
-The thing about Kings Camo is they started making gear for serious hunters - the kind who sit in a tree stand at 20 degrees for six hours waiting for a deer. That engineering trickles down to every product they make. You're getting hunting-grade durability and comfort even if you're just wearing it for fishing trips or weekend camping [fishing boots that complement outdoor apparel](/reviews/gear/xtratuf-fishing-boots/) [solo camping gear for weekend trips](/reviews/camping/best-solo-camping-gear-weekend-trips/).
+The thing about Kings Camo is they started making gear for serious hunters - the kind who sit in a tree stand at 20 degrees for six hours waiting for a deer. That engineering trickles down to every product they make. You're getting hunting-grade durability and comfort even if you're just wearing it for fishing trips or weekend camping.
 
 **<a href="https://www.tkqlhce.com/click-101452278-15785642?url=https%3A%2F%2Fkingscamo.com%2Fproducts%2Fhunter-series-wind-defender-fleece-jacket%3Fvariant%3D44366014087341" target="_blank" rel="noopener noreferrer">Check Current Price - Kings Camo Hunter Series Jacket</a>**
 

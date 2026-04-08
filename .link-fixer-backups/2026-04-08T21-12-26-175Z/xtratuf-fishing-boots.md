@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Xtratuf Fishing Boots Review - Gold Standard Deck Boots [12-inch vs 15-inch height comparison](/reviews/gear/xtratuf-legacy-12-vs-15/)
+title: Xtratuf Fishing Boots Review - Gold Standard Deck Boots
 ---
 
 # Xtratuf Fishing Boots Review: Are They Worth the Hype?
@@ -9,7 +9,7 @@ title: Xtratuf Fishing Boots Review - Gold Standard Deck Boots [12-inch vs 15-in
 
 ## The Gold Standard for Deck Boots
 
-If you spend any time around commercial fishermen in Alaska, the Gulf, or the Great Lakes [professional-grade fishing infrastructure](/reviews/fishing/professional-angler-infrastructure-guide/), you'll notice something: they're all wearing the same boots. Not because of some sponsorship deal, but because Xtratuf boots are what actually works [choosing between 12 and 15 inch heights](/reviews/gear/xtratuf-legacy-12-vs-15/) when your deck is covered in fish slime, diesel fuel, and salt water.
+If you spend any time around commercial fishermen in Alaska, the Gulf, or the Great Lakes, you'll notice something: they're all wearing the same boots. Not because of some sponsorship deal, but because Xtratuf boots are what actually works when your deck is covered in fish slime, diesel fuel, and salt water.
 
 I'm not a commercial fisherman, but I've spent enough weekends on the water in Mississippi and Alabama to know the difference between boots that say they're waterproof and boots that actually keep your feet dry when you're standing in three inches of water cleaning fish at 2 AM.
 

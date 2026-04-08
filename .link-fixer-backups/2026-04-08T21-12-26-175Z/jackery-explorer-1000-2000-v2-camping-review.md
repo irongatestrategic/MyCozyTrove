@@ -21,9 +21,9 @@ page_type: review
 
 ## Jackery's Engineering Shift
 
-Jackery built their reputation on portability and ease of use. The v2 lineup adds something more important for long-term field use: LiFePO4 battery chemistry. That shift moves these units from occasional-use gadgets to genuine multi-year outdoor infrastructure [best portable power stations](/reviews/power/best-portable-power-station-camping/).
+Jackery built their reputation on portability and ease of use. The v2 lineup adds something more important for long-term field use: LiFePO4 battery chemistry. That shift moves these units from occasional-use gadgets to genuine multi-year outdoor infrastructure.
 
-The practical framing: these are the indoor half of a two-part system. The power station stays in your tent, vehicle, or cabin. Solar panels sit outside in direct sunlight and connect via a PV cable routed through a window or door gap. In a remote basecamp or on a multi-day fishing expedition [weekend camping setup](/reviews/camping/best-solo-camping-gear-weekend-trips/), that indoor/outdoor energy loop is what keeps you running without resupply.
+The practical framing: these are the indoor half of a two-part system. The power station stays in your tent, vehicle, or cabin. Solar panels sit outside in direct sunlight and connect via a PV cable routed through a window or door gap. In a remote basecamp or on a multi-day fishing expedition, that indoor/outdoor energy loop is what keeps you running without resupply.
 
 ## The LFP Upgrade — Why It Matters
 

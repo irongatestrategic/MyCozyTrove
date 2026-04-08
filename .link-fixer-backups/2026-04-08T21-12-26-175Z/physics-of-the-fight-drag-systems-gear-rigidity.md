@@ -18,7 +18,7 @@ slug: physics-of-the-fight-drag-systems-gear-rigidity
 
 # The Physics of the Fight: Drag Systems and Gear Rigidity Explained
 
-A fishing reel is a winch managing high-torque loads in a corrosive environment. When a 30lb catfish or an offshore pelagic puts sustained pressure on the line, that force transfers directly into the reel's internal chassis. What happens next depends almost entirely on how that chassis is built. This article covers the mechanical principles behind gear alignment, frame materials, drag stack composition, and bearing sealing—the specs that determine [bearing sealing specifications for saltwater](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/) whether a reel holds up or fails incrementally over a season.
+A fishing reel is a winch managing high-torque loads in a corrosive environment. When a 30lb catfish or an offshore pelagic puts sustained pressure on the line, that force transfers directly into the reel's internal chassis. What happens next depends almost entirely on how that chassis is built. This article covers the mechanical principles behind gear alignment, frame materials, drag stack composition, and bearing sealing—the specs that determine whether a reel holds up or fails incrementally over a season.
 
 **<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun AlinoX 400</a>**
 
@@ -30,7 +30,7 @@ A fishing reel is a winch managing high-torque loads in a corrosive environment.
 
 Mechanical failure in a fishing reel rarely starts with a single catastrophic event. It starts with gear flex. To understand why, the relevant concept is gear mesh alignment: the teeth of the drive gear and pinion gear must meet at a consistent angle to distribute pressure across the full contact surface. When that angle shifts, pressure concentrates on the tooth edges instead of the face, and wear accelerates.
 
-When a reel takes a heavy load—an offshore run, the dead-weight pull of a large catfish—the force transmits through [Piscifun AlinoX 400's aluminum alloy frame](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/) the spool and into the frame. A composite or low-modulus graphite chassis flexes under that strain. As the frame distorts, the gears shift out of their intended mesh position. Two things happen immediately: pressure concentrates at the gear tooth edges rather than distributing across the full face, and the drag output becomes inconsistent because the spool shaft is no longer rotating on a centered axis. Anglers often feel this as stuttering or pulsing during a run.
+When a reel takes a heavy load—an offshore run, the dead-weight pull of a large catfish—the force transmits through the spool and into the frame. A composite or low-modulus graphite chassis flexes under that strain. As the frame distorts, the gears shift out of their intended mesh position. Two things happen immediately: pressure concentrates at the gear tooth edges rather than distributing across the full face, and the drag output becomes inconsistent because the spool shaft is no longer rotating on a centered axis. Anglers often feel this as stuttering or pulsing during a run.
 
 The failure is cumulative, which makes it easy to misdiagnose. One hard fight doesn't strip the gears. It creates micro-deformations. The next fight adds to them. By the time the reel feels "crunchy," the damage is months old and is typically attributed to a single bad encounter or insufficient lubrication. The root cause is frame geometry, not maintenance.
 

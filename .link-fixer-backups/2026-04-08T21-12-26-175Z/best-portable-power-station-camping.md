@@ -1,6 +1,6 @@
 ---
 title: "Best Portable Power Station for Camping (2026)"
-description: "A spec-driven comparison of the best 1000Wh-class portable power stations [Jackery Explorer 300 Plus](/reviews/power/jackery-explorer-300-plus/) [Jackery Explorer 1000 v2 and 2000 v2](/reviews/power/jackery-explorer-1000-2000-v2-camping-review/) [understanding the difference between solar generation and storage](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/) for camping — weight, solar input, output, and which unit fits [Jackery 1500 Ultra vs. 2000 Plus comparison](/reviews/power/jackery-1500-ultra-vs-2000-plus/) which outdoor scenario."
+description: "A spec-driven comparison of the best 1000Wh-class portable power stations for camping — weight, solar input, output, and which unit fits which outdoor scenario."
 date: 2026-03-16
 author: Jeff M.
 category: power

@@ -11,7 +11,7 @@ title: Survival Frog Solo Bivy Tent Review - Ultralight Backpacking Shelter
 
 My brother boondocks. Not at established campsites with fire rings and picnic tables - he packs a backpack and hikes until he finds a spot that feels right. Sometimes that's two miles in, sometimes it's ten. When you're carrying your entire camp on your back, the difference between a 5-pound tent and a 2-pound tent isn't trivial - it's the difference between enjoying the hike and suffering through it.
 
-The Survival Frog Solo Bivy 1-Person Tent is what he carries when weight matters more than comfort. At around 2.5 pounds packed [ultralight bivy alternatives](/reviews/camping/traverseon-830g-ultralight-bivy-tent-review/), it's light enough for serious backpacking but tough enough for real backcountry conditions.
+The Survival Frog Solo Bivy 1-Person Tent is what he carries when weight matters more than comfort. At around 2.5 pounds packed, it's light enough for serious backpacking but tough enough for real backcountry conditions.
 
 **<a href="https://www.awin1.com/cread.php?awinmid=88727&awinaffid=2541595&clickref=Backpacking+tent&ued=https%3A%2F%2Fwww.survivalfrog.com%2Fproducts%2Fsolo-1-person-backpacking-tent" target="_blank" rel="noopener noreferrer">Check Current Price - Survival Frog Solo Bivy Tent</a>**
 
@@ -24,7 +24,7 @@ Car camping? You can bring a 7-pound tent, folding chairs, a cooler, and a camp 
 Backpacking? Every pound you add to your pack is a pound you're carrying for miles. After the first hour, that extra weight isn't theoretical - it's real pain in your shoulders, knees, and back.
 
 The Solo Bivy weighs approximately 2.5 pounds. That's:
-- Your sleeping bag: 2-3 pounds [build a complete sleep system](/reviews/camping/solo-camping-sleep-system-guide/)
+- Your sleeping bag: 2-3 pounds
 - Your sleeping pad: 1 pound  
 - Your tent: 2.5 pounds
 - **Total sleep system: ~6 pounds**

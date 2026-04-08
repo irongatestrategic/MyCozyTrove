@@ -11,7 +11,7 @@ title: Piscifun Fishing Backpack Review - Organized Tackle Storage [hunting-grad
 
 I've owned $200 fishing backpacks with more pockets than I could ever use and $30 backpacks that fell apart after one season. The Piscifun Fishing Backpack sits right in the middle - around $50, built well enough to last, and designed by people who actually understand how fishermen organize gear.
 
-This isn't some generic backpack with "FISHING" slapped on the label. It's purpose-built with rod holders, tackle box storage, and MOLLE webbing for adding accessories. [Piscifun casting reels](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/) For bass fishermen who walk to spots or kayak anglers who need hands-free gear transport, this backpack solves real problems.
+This isn't some generic backpack with "FISHING" slapped on the label. It's purpose-built with rod holders, tackle box storage, and MOLLE webbing for adding accessories. For bass fishermen who walk to spots or kayak anglers who need hands-free gear transport, this backpack solves real problems.
 
 **<a href="https://www.awin1.com/cread.php?awinmid=89509&awinaffid=2541595&clickref2=Piscifun+backpack&ued=https%3A%2F%2Fwww.piscifun.com%2Fproducts%2Fpiscifun-fishing-backpack-with-rod-gear-holder%3F_pos%3D3%26_sid%3Da16765a91%26_ss%3Dr" target="_blank" rel="noopener noreferrer">Check Current Price - Piscifun Fishing Backpack</a>**
 
@@ -25,7 +25,7 @@ The side-mounted rod tubes secure up to 2 rods (some models hold 4) with adjusta
 - Frees up your hands for carrying other gear
 - No more rods sliding around in your truck bed
 
-I've hiked a mile to a farm pond with two rods, a tackle box, and lunch all carried comfortably. [quality fishing boots](/reviews/gear/xtratuf-fishing-boots/) Try that with a traditional tackle box.
+I've hiked a mile to a farm pond with two rods, a tackle box, and lunch all carried comfortably. Try that with a traditional tackle box.
 
 **Main Compartment Capacity**
 

@@ -11,7 +11,7 @@ title: Jackery Explorer 300 Plus Review - Portable Power for Camping  Fishing
 
 After spending 20+ years in enterprise IT managing datacenter power systems, I know what reliable portable power looks like. The Jackery Explorer 300 Plus isn't some gimmick solar gadget - it's a legitimate 288Wh lithium battery system that'll keep your essentials running when you're 40 miles from the nearest outlet.
 
-I've tested portable power stations from the $50 Amazon specials to the $2,000 Bluetti monsters. [best portable power stations](/reviews/power/best-portable-power-station-camping/) The Explorer 300 Plus hits that sweet spot where you get enough capacity for a real weekend trip without needing a forklift to load it in the boat.
+I've tested portable power stations from the $50 Amazon specials to the $2,000 Bluetti monsters. The Explorer 300 Plus hits that sweet spot where you get enough capacity for a real weekend trip without needing a forklift to load it in the boat.
 
 **<a href="https://www.kqzyfj.com/click-101452278-17093989?url=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fexplorer-300-portable-power-station%3F_pos%3D2%26_psq%3D300%2Bplus%26_ss%3De%26_v%3D1.0" target="_blank" rel="noopener noreferrer">Check Current Price - Jackery Explorer 300 Plus</a>**
 
@@ -35,7 +35,7 @@ That's not marketing math - that's what you actually get when you're sitting in 
 - 2x USB-A ports (18W)
 - 1x 12V car port
 
-Translation: You can charge your phone, run a fan, power a laptop, and keep the fish finder battery topped off [run a fan](/reviews/camping/traverseon-20000mah-camping-fan-review/) - all at the same time.
+Translation: You can charge your phone, run a fan, power a laptop, and keep the fish finder battery topped off - all at the same time.
 
 **Solar Charging Ready**
 
