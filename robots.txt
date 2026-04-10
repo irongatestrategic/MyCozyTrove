@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /tl62/
+Disallow: /cdn-cgi/
 
 User-agent: Amazonbot
 Disallow: /
