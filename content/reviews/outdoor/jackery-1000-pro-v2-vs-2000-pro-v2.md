@@ -1,4 +1,5 @@
 ---
+layout: base
 title: "Jackery Explorer 1000 v2 vs. 2000 Plus: Which Is Right for Your Camp Setup?"
 description: "Jackery Explorer 1000 v2 vs. 2000 Plus compared for camping and overlanding. Weight, output, solar input, and real-world runtime broken down by use case."
 date: 2026-03-22
@@ -129,3 +130,4 @@ Both charge at roughly 100–120W from a standard 12V outlet, which means the 20
 
 **Can I add external batteries to expand capacity?**
 No. The Pro v2 series does not support external battery expansion. If expandability is a priority, look at Jackery's Plus series or the Bluetti AC300 platform instead.
+
