@@ -74,6 +74,10 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("content/reviews/self-sufficiency/*.md");
   });
   
+  eleventyConfig.addCollection("outdoorReviews", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/reviews/outdoor/*.md");
+  });
+  
   // Add collection for all reviews
   eleventyConfig.addCollection("allReviews", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/reviews/**/*.md");

@@ -1,10 +1,20 @@
 // MyCozyTrove - Main JavaScript
 
-// Mobile menu toggle (if needed in future)
 document.addEventListener('DOMContentLoaded', function() {
   console.log('MyCozyTrove loaded');
-  
-  // Add smooth scrolling to anchor links
+
+  // Mobile nav toggle
+  var toggle = document.querySelector('.nav-toggle');
+  var menu = document.getElementById('nav-menu');
+  if (toggle && menu) {
+    toggle.addEventListener('click', function() {
+      var isOpen = menu.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', isOpen);
+      toggle.querySelector('.nav-toggle-icon').textContent = isOpen ? '✕' : '☰';
+    });
+  }
+
+  // Smooth scrolling to anchor links
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
       e.preventDefault();

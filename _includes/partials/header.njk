@@ -4,13 +4,17 @@
       <div class="logo">
         <a href="/">{{ site.name }}</a>
       </div>
-      <nav class="main-nav">
-        <ul>
+      <nav class="main-nav" aria-label="Main navigation">
+        <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="nav-menu">
+          <span class="nav-toggle-icon">☰</span>
+        </button>
+        <ul id="nav-menu" class="nav-menu">
           <li><a href="/reviews/power/">Power</a></li>
           <li><a href="/reviews/water/">Water</a></li>
           <li><a href="/reviews/gear/">Gear</a></li>
           <li><a href="/reviews/fishing/">Fishing</a></li>
           <li><a href="/reviews/camping/">Camping</a></li>
+          <li><a href="/reviews/outdoor/">Outdoor</a></li>
           <li><a href="/reviews/self-sufficiency/">Self-Sufficiency</a></li>
           <li><a href="/pages/about/">About</a></li>
           <li><a href="/pages/contact/">Contact</a></li>
