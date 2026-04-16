@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Outdoor Gear Reviews"
-description: "Reviews of fishing gear, camping equipment, outdoor apparel, and backcountry essentials. Bought it, used it, telling you what we actually think."
+description: "Reviews of fishing gear, camping equipment, outdoor apparel [fishing gear reviews](/reviews/fishing/index/) [camping gear reviews](/reviews/camping/index/) [camping gear reviews](/reviews/camping/index/), and backcountry essentials. Bought it, used it, telling you what we actually think."
 permalink: /reviews/gear/
 ---
 

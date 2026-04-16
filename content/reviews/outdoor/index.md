@@ -7,7 +7,7 @@ permalink: /reviews/outdoor/
 
 # Outdoor Gear Reviews
 
-<p class="category-intro">Technical analysis of portable power and outdoor energy gear — specs, real-world runtime, and honest trade-offs for camp setups and off-grid use.</p>
+<p class="category-intro">Technical analysis of portable power [portable power stations](/reviews/power/index/) and outdoor energy gear — specs, real-world runtime, and honest trade-offs for camp setups and off-grid use [camp power setup decisions](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/).</p>
 
 <div class="review-list">
   {% for review in collections.outdoorReviews %}

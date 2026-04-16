@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "The Best Solo Camping Gear for Weekend Trips (2026 Guide)"
-description: "A complete solo camping kit for Gulf Coast and Mississippi weekenders [building the right camp power setup](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/) — shelter, sleep system, cooking, and comfort gear [ultralight tent options](/reviews/gear/survival-frog-solo-bivy-tent/) [durable outdoor jacket for camp conditions](/reviews/gear/kings-camo-outdoor-jacket/) that fits in one pack and sets up in under 10 minutes."
+description: "A complete solo camping kit for Gulf Coast and Mississippi weekenders [building the right camp power setup [portable power solutions](/reviews/power/index/) [outdoor energy gear](/reviews/outdoor/index/)](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/) — shelter, sleep system, cooking, and comfort gear [portable water filtration systems](/reviews/water/index/) [ultralight tent options](/reviews/gear/survival-frog-solo-bivy-tent/) [durable outdoor jacket for camp conditions [outdoor gear reviews](/reviews/gear/index/)](/reviews/gear/kings-camo-outdoor-jacket/) that fits in one pack and sets up in under 10 minutes."
 date: 2026-04-06
 author: Jeff M.
 category: camping

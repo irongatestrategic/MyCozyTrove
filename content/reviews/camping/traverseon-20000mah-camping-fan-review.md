@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Traverseon 20000mAh Cordless Camping Fan Review: The One Piece of Gear Mississippi Summers Demand"
-description: "Traverseon 20000mAh camping fan review — 32-hour runtime, 15dB silent operation, integrated LED light, and honest framing of the 16°C cooling claim for Gulf Coast tent camping."
+description: "Traverseon 20000mAh camping fan review — 32-hour runtime, 15dB silent operation, integrated LED light [portable power options](/reviews/power/index/), and honest framing of the 16°C cooling claim for Gulf Coast tent camping."
 date: 2026-04-06
 author: Jeff M.
 category: camping

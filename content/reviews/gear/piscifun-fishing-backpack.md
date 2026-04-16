@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Piscifun Fishing Backpack Review - Organized Tackle Storage [hunting-grade outdoor jacket](/reviews/gear/kings-camo-outdoor-jacket/)
+title: Piscifun Fishing Backpack Review - Organized Tackle Storage [technical fishing gear reviews](/reviews/fishing/index/) [hunting-grade outdoor jacket](/reviews/gear/kings-camo-outdoor-jacket/)
 ---
 
 # Piscifun Fishing Backpack Review: Organized Tackle Without the Premium Price

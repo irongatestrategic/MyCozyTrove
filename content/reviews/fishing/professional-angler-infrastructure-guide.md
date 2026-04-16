@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "The 2026 Professional Angler's Infrastructure Guide: Power, Precision, and Durability"
-description: "How to evaluate electric deep-drop, heavy-casting, and sealed spinning reels for saltwater and high-demand freshwater fishing—specs that determine longevity [how drag systems and frame rigidity affect reel durability](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)."
+description: "How to evaluate electric deep-drop, heavy-casting, and sealed spinning reels for saltwater [fishing gear reviews](/reviews/fishing/index/) and high-demand freshwater fishing—specs that determine longevity [how drag systems and frame rigidity affect reel durability](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)."
 date: 2026-03-25
 author: Jeff M.
 category: fishing

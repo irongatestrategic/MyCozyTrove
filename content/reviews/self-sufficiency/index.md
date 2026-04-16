@@ -8,7 +8,7 @@ permalink: /reviews/self-sufficiency/
 <div class="container" style="padding-top: 2rem;">
 
   <h1>Self-Sufficiency Reviews</h1>
-  <p class="category-intro">Guides, books, and tools for doing more yourself — from growing food to preserving it, and building skills that don't depend on a supply chain.</p>
+  <p class="category-intro">Guides, books, and tools for doing more yourself — from growing food to preserving it, and building skills [portable water filtration for backcountry use](/reviews/water/index/) that don't depend on a supply chain [off-grid power systems for camping](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/).</p>
 
   <div class="review-list">
     {% for review in collections.selfSufficiencyReviews | reverse %}

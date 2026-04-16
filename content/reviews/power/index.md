@@ -1,14 +1,14 @@
 ---
 layout: base
 title: "Portable Power Reviews"
-description: "Honest reviews of portable power stations for camping, fishing trips, and off-grid adventures. Real-world battery tests, not spec-sheet cheerleading."
+description: "Honest reviews of portable power stations for camping, fishing trips, and off-grid adventures [solar panels vs. portable power stations](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/). Real-world battery tests, not spec-sheet cheerleading."
 permalink: /reviews/power/
 ---
 
 <div class="container" style="padding-top: 2rem;">
 
   <h1>Portable Power Reviews</h1>
-  <p class="category-intro">Field-tested reviews of power stations for camping, fishing, and off-grid use. We focus on real-world runtime, charge speed, and whether it's worth the trunk space.</p>
+  <p class="category-intro">Field-tested reviews of power stations [best portable power stations](/reviews/power/best-portable-power-station-camping/) for camping, fishing, and off-grid use. We focus on real-world runtime, charge speed, and whether it's worth the trunk space.</p>
 
   <div class="review-list">
     {% for review in collections.powerReviews | reverse %}

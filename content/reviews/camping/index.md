@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Camping Gear Reviews"
-description: "Technical reviews of solo camping shelters, sleep systems, cooking gear, and outdoor essentials — specs, materials, and honest assessments for serious campers."
+description: "Technical reviews of solo camping shelters, sleep systems, cooking gear, and outdoor essentials [sleep system fundamentals](/reviews/camping/solo-camping-sleep-system-guide/) [complete solo camping kit](/reviews/camping/best-solo-camping-gear-weekend-trips/) — specs, materials, and honest assessments for serious campers."
 permalink: /reviews/camping/
 ---
 

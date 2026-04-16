@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Fishing Gear Reviews"
-description: "Technical reviews of saltwater and freshwater fishing reels, rods, and tackle — specs, drag systems, and honest assessments for serious anglers."
+description: "Technical reviews of saltwater and freshwater fishing reels, rods, and tackle [fishing apparel and tackle storage](/reviews/gear/index/) — specs, drag systems, and honest assessments [drag systems and frame engineering](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/) for serious anglers."
 permalink: /reviews/fishing/
 ---
 
