@@ -109,6 +109,7 @@ The useful framework: if the failure is in a replaceable component — drag wash
 
 **Related:**
 - [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)
+- [When You Should NOT Buy an Electric Reel](/reviews/fishing/when-not-to-buy-electric-reel/)
 - [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)
 - [Piscifun AlinoX 400 Review](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/)
 
