@@ -80,7 +80,7 @@ This stove fits: solo campers and anglers who want a stable cooking platform tha
 
 This stove doesn't fit: high-altitude alpine climbing where isobutane fuel delivery loses efficiency compared to liquid fuel systems; group cooking requiring multiple burners; backpackers where 540g is a significant weight penalty over minimalist alternatives.
 
-For the full kit context, see the [Best Solo Camping Gear for Weekend Trips](/reviews/camping/best-solo-camping-gear-weekend-trips/) hub and the [Traverseon fan review](/reviews/camping/traverseon-20000mah-camping-fan-review/) for managing insects at the cook area.
+For the full kit context, see the [Best Solo Camping Gear for Weekend Trips](/reviews/camping/best-solo-camping-gear-weekend-trips/) hub and the [Traverseon fan review](/reviews/camping/traverseon-20000mah-camping-fan-review/) for managing insects at the cook area. If you're comparing this stove against the MSR PocketRocket 2, see the [head-to-head stove comparison](/reviews/camping/traverseon-stove-vs-msr-pocketrocket/) for the weight vs stability breakdown. For whether the ultralight trade-off makes sense for your trip style, see [when ultralight gear is worth the premium](/reviews/camping/when-ultralight-gear-worth-it/).
 
 ## FAQ
 
