@@ -88,7 +88,7 @@ Matching a left-hand zipper bag with a right-hand zipper model of the same fill 
 
 One note regardless of fill weight: the bag requires a pad with adequate R-value to function at its rated temperature. Without a thermal break from the ground, the down underneath your body compresses to near-zero loft. The [Traverseon inflatable mattress](/reviews/camping/traverseon-inflatable-camping-mattress-review/) at R-9.5 is the correct pairing — it's why the sleep system works as a unit rather than two independent purchases.
 
-For a full breakdown of how these pieces work together, see the [solo camping sleep system guide](/reviews/camping/solo-camping-sleep-system-guide/) and the [Best Solo Camping Gear hub](/reviews/camping/best-solo-camping-gear-weekend-trips/).
+For a full breakdown of how these pieces work together, see the [solo camping sleep system guide](/reviews/camping/solo-camping-sleep-system-guide/) and the [Best Solo Camping Gear hub](/reviews/camping/best-solo-camping-gear-weekend-trips/). If you're comparing this bag against the Big Agnes Anthracite 20° synthetic, see the [down vs synthetic comparison](/reviews/camping/traverseon-down-vs-big-agnes-anthracite/) for the Gulf Coast-specific breakdown. For diagnosing whether your current sleep system has a spec problem, see [5 signs your sleep system is failing you](/reviews/camping/sleep-system-failing-signs/).
 
 ## FAQ
 
