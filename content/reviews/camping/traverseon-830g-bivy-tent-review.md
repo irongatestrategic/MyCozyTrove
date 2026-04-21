@@ -91,7 +91,7 @@ This shelter fits: solo anglers who need a low-profile basecamp near the water w
 
 This shelter doesn't fit: anyone camping with a partner (interior volume is single-occupant only); sustained storm camping where week-long rain events would stress a PU2000mm fly; alpine winter use where snow load and extreme gusts exceed what this structure handles.
 
-For a complete solo kit built around this shelter, see the [Best Solo Camping Gear for Weekend Trips](/reviews/camping/best-solo-camping-gear-weekend-trips/) hub, and the [solo sleep system guide](/reviews/camping/solo-camping-sleep-system-guide/) for what to pair underneath it.
+For a complete solo kit built around this shelter, see the [Best Solo Camping Gear for Weekend Trips](/reviews/camping/best-solo-camping-gear-weekend-trips/) hub, and the [solo sleep system guide](/reviews/camping/solo-camping-sleep-system-guide/) for what to pair underneath it. If you're comparing this shelter against the Big Agnes Copper Spur UL1, see the [head-to-head comparison](/reviews/camping/traverseon-bivy-vs-big-agnes-copper-spur/) for the full spec breakdown. For whether ultralight is the right call for your trip style, see [when ultralight gear is worth the premium](/reviews/camping/when-ultralight-gear-worth-it/).
 
 ## FAQ
 
