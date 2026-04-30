@@ -104,6 +104,7 @@ One cable note: standard PV cables are 10–15 feet. If your setup requires more
 
 These pages narrow the hardware selection by specific use case:
 
+- [Jackery Explorer 1000 V2 Review: Solo Camping Power Budget Analysis](/reviews/power/jackery-explorer-1000-v2-review/) — 48-hour load math, LFP chemistry breakdown, honest pros and cons
 - [Best Solar Generator for Camping](/reviews/power/best-solar-generator-camping/) — car camping and base camp setups, weight vs. capacity tradeoffs
 - [Best Solar Generator for Van Camping](/reviews/power/best-solar-generator-van-camping/) — high-capacity builds, roof panel integration, continuous use
 - [Best Solar Generator for Backpacking](/reviews/power/best-solar-generator-backpacking/) — ultralight options, Wh/lb optimization
