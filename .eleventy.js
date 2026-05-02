@@ -77,6 +77,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("outdoorReviews", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/reviews/outdoor/*.md");
   });
+
+  eleventyConfig.addCollection("backpackReviews", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/reviews/backpacks/*.md")
+      .filter(item => !item.inputPath.includes("index.md"));
+  });
   
   // Add collection for all reviews
   eleventyConfig.addCollection("allReviews", function(collectionApi) {
