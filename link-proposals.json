@@ -1,16 +1,17 @@
 [
   {
     "orphan": {
-      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\camping\\index.md",
-      "category": "camping",
+      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\backpacks\\index.md",
+      "category": "backpacks",
       "slug": "index",
-      "url": "/reviews/camping/index/",
-      "content": "---\nlayout: base\ntitle: \"Camping Gear Reviews\"\ndescription: \"Technical reviews of solo camping shelters, sleep systems, cooking gear, and outdoor essentials — specs, materials, and honest assessments for serious campers.\"\npermalink: /reviews/camping/\n---\n\n<div class=\"container\" style=\"padding-top: 2rem;\">\n\n  <h1>Camping Gear Reviews</h1>\n  <p class=\"category-intro\">Engineering-focused reviews of tents, sleeping bags, stoves, and camp essentials — materials, insulation ratings, and real-world performance for campers who don't want to haul junk into the field.</p>\n\n  <div class=\"review-list\">\n    {% for review in collections.campingReviews | reverse %}\n    <article class=\"review-card\">\n      <h2><a href=\"{{ review.url }}\">{{ review.data.title }}</a></h2>\n      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}\n      <a href=\"{{ review.url }}\" class=\"read-more\">Read full review →</a>\n    </article>\n    {% endfor %}\n    {% if collections.campingReviews.length == 0 %}\n    <p class=\"coming-soon\">Camping gear reviews coming soon.</p>\n    {% endif %}\n  </div>\n\n</div>\n",
+      "url": "/reviews/backpacks/index/",
+      "content": "---\nlayout: base\ntitle: \"Backpack Reviews & Buying Guides | MyCozyTrove\"\ndescription: \"Backpack reviews and buying guides for hiking, camping, and outdoor use. Daypacks, overnight packs, and backpacking systems reviewed by specs and real-world use.\"\nauthor: Jeff M.\neleventyExcludeFromCollections: true\n---\n\n# Backpacks\n\nBackpack reviews and buying guides for hikers, campers, and outdoor enthusiasts. We cover daypacks, overnight packs, and multi-day backpacking systems — evaluated on fit, load transfer, materials, and real-world durability.\n\n<ul>\n{% for post in collections.backpackReviews %}\n  <li><a href=\"{{ post.url }}\">{{ post.data.title }}</a></li>\n{% endfor %}\n</ul>\n",
       "fm": {
         "layout": "base",
-        "title": "Camping Gear Reviews",
-        "description": "Technical reviews of solo camping shelters, sleep systems, cooking gear, and outdoor essentials — specs, materials, and honest assessments for serious campers.",
-        "permalink": "/reviews/camping/"
+        "title": "Backpack Reviews & Buying Guides | MyCozyTrove",
+        "description": "Backpack reviews and buying guides for hiking, camping, and outdoor use. Daypacks, overnight packs, and backpacking systems reviewed by specs and real-world use.",
+        "author": "Jeff M.",
+        "eleventyExcludeFromCollections": "true"
       },
       "outboundLinks": [],
       "inboundLinks": []
@@ -18,333 +19,98 @@
     "suggestion": {
       "outbound": [
         {
-          "target_url": "/reviews/camping/best-solo-camping-gear-weekend-trips/",
-          "anchor_text": "complete solo camping kit",
-          "insertion_point": "shelters, sleep systems, cooking gear, and outdoor essentials",
-          "link_text_to_insert": "[complete solo camping kit](/reviews/camping/best-solo-camping-gear-weekend-trips/)",
-          "reasoning": "This hub page should direct readers to a comprehensive guide that demonstrates how individual gear reviews combine into a functional system."
+          "target_url": "/reviews/backpacks/how-to-fit-a-backpack/",
+          "anchor_text": "fit, load transfer",
+          "insertion_point": "evaluated on fit, load transfer, materials",
+          "link_text_to_insert": "[fit, load transfer](/reviews/backpacks/how-to-fit-a-backpack/)",
+          "reasoning": "Readers landing on this hub page need foundational fitting knowledge before diving into specific pack reviews."
         },
         {
-          "target_url": "/reviews/camping/solo-camping-sleep-system-guide/",
-          "anchor_text": "sleep system fundamentals",
-          "insertion_point": "shelters, sleep systems, cooking gear, and outdoor essentials",
-          "link_text_to_insert": "[sleep system fundamentals](/reviews/camping/solo-camping-sleep-system-guide/)",
-          "reasoning": "The hub should link to foundational guides that explain *how* to evaluate gear categories, not just individual product reviews."
+          "target_url": "/reviews/backpacks/how-much-pack-capacity-do-you-need/",
+          "anchor_text": "daypacks, overnight packs, and multi-day",
+          "insertion_point": "We cover daypacks, overnight packs, and multi-day backpacking systems",
+          "link_text_to_insert": "[daypacks, overnight packs, and multi-day](/reviews/backpacks/how-much-pack-capacity-do-you-need/)",
+          "reasoning": "Hub visitors need guidance on capacity selection before browsing specific pack models."
         }
       ],
       "inbound": [
         {
-          "source_url": "/reviews/gear/index/",
-          "anchor_text": "camping gear reviews",
-          "insertion_point": "fishing gear, camping equipment, outdoor apparel",
-          "link_text_to_insert": "[camping gear reviews](/reviews/camping/index/)",
-          "reasoning": "The main Outdoor Gear Reviews hub should reference the dedicated camping reviews section to help users navigate subcategories."
-        }
-      ]
-    }
-  },
-  {
-    "orphan": {
-      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\fishing\\index.md",
-      "category": "fishing",
-      "slug": "index",
-      "url": "/reviews/fishing/index/",
-      "content": "---\nlayout: base\ntitle: \"Fishing Gear Reviews\"\ndescription: \"Technical reviews of saltwater and freshwater fishing reels, rods, and tackle — specs, drag systems, and honest assessments for serious anglers.\"\npermalink: /reviews/fishing/\n---\n\n<div class=\"container\" style=\"padding-top: 2rem;\">\n\n  <h1>Fishing Gear Reviews</h1>\n  <p class=\"category-intro\">Engineering-focused reviews of reels, rods, and tackle — drag systems, frame materials, and sealing specs for anglers who fish hard.</p>\n\n  <div class=\"review-list\">\n    {% for review in collections.fishingReviews | reverse %}\n    <article class=\"review-card\">\n      <h2><a href=\"{{ review.url }}\">{{ review.data.title }}</a></h2>\n      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}\n      <a href=\"{{ review.url }}\" class=\"read-more\">Read full review →</a>\n    </article>\n    {% endfor %}\n    {% if collections.fishingReviews.length == 0 %}\n    <p class=\"coming-soon\">Fishing gear reviews coming soon.</p>\n    {% endif %}\n  </div>\n\n</div>\n",
-      "fm": {
-        "layout": "base",
-        "title": "Fishing Gear Reviews",
-        "description": "Technical reviews of saltwater and freshwater fishing reels, rods, and tackle — specs, drag systems, and honest assessments for serious anglers.",
-        "permalink": "/reviews/fishing/"
-      },
-      "outboundLinks": [],
-      "inboundLinks": []
-    },
-    "suggestion": {
-      "outbound": [
-        {
-          "target_url": "/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/",
-          "anchor_text": "drag systems and frame engineering",
-          "insertion_point": "drag systems, and honest assessments",
-          "link_text_to_insert": "[drag systems and frame engineering](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)",
-          "reasoning": "Deepens the intro's mention of drag systems by linking to the technical guide that explains the engineering principles behind them."
-        },
-        {
-          "target_url": "/reviews/gear/index/",
-          "anchor_text": "fishing apparel and tackle storage",
-          "insertion_point": "reels, rods, and tackle",
-          "link_text_to_insert": "[fishing apparel and tackle storage](/reviews/gear/index/)",
-          "reasoning": "Expands the fishing gear ecosystem by connecting rods/reels to complementary gear like boots, jackets, and backpacks that serious anglers need."
-        }
-      ],
-      "inbound": [
-        {
-          "source_url": "/reviews/fishing/professional-angler-infrastructure-guide/",
-          "anchor_text": "fishing gear reviews",
-          "insertion_point": "sealed spinning reels for saltwater",
-          "link_text_to_insert": "[fishing gear reviews](/reviews/fishing/index/)",
-          "reasoning": "The professional angler guide should reference the hub page so readers can browse individual reel and rod reviews after reading the infrastructure overview."
+          "source_url": "/reviews/camping/best-solo-camping-gear-weekend-trips/",
+          "anchor_text": "backpack for your trip",
+          "insertion_point": "that fits in one pack",
+          "link_text_to_insert": "[backpack for your trip](/reviews/backpacks/index/)",
+          "reasoning": "Solo camping gear guide should reference the backpack hub since pack selection is critical to the kit."
         },
         {
           "source_url": "/reviews/gear/piscifun-fishing-backpack/",
-          "anchor_text": "technical fishing gear reviews",
+          "anchor_text": "other backpack options",
           "insertion_point": "Organized Tackle Storage",
-          "link_text_to_insert": "[technical fishing gear reviews](/reviews/fishing/index/)",
-          "reasoning": "The fishing backpack review should link to the fishing reviews hub to help readers find complementary reel and rod reviews for their complete setup."
+          "link_text_to_insert": "[other backpack options](/reviews/backpacks/index/)",
+          "reasoning": "Fishing backpack review should link to the broader backpack hub for readers comparing pack types."
         }
       ]
     }
   },
   {
     "orphan": {
-      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\gear\\index.md",
-      "category": "gear",
-      "slug": "index",
-      "url": "/reviews/gear/index/",
-      "content": "---\nlayout: base\ntitle: \"Outdoor Gear Reviews\"\ndescription: \"Reviews of fishing gear, camping equipment, outdoor apparel, and backcountry essentials. Bought it, used it, telling you what we actually think.\"\npermalink: /reviews/gear/\n---\n\n<div class=\"container\" style=\"padding-top: 2rem;\">\n\n  <h1>Outdoor Gear Reviews</h1>\n  <p class=\"category-intro\">Boots, jackets, backpacks, tents — gear that goes where you go. We review what we've actually put to work in the field.</p>\n\n  <div class=\"review-list\">\n    {% for review in collections.gearReviews | reverse %}\n    <article class=\"review-card\">\n      <h2><a href=\"{{ review.url }}\">{{ review.data.title }}</a></h2>\n      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}\n      <a href=\"{{ review.url }}\" class=\"read-more\">Read full review →</a>\n    </article>\n    {% endfor %}\n  </div>\n\n</div>\n",
+      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\backpacks\\when-a-daypack-is-enough.md",
+      "category": "backpacks",
+      "slug": "when-a-daypack-is-enough",
+      "url": "/reviews/backpacks/when-a-daypack-is-enough/",
+      "content": "---\nlayout: base\ntitle: \"When a Daypack Is Enough (And When It Isn't)\"\ndescription: \"Honest guide to when a daypack handles the job and when you actually need a backpacking pack. Load thresholds, volume limits, and specific use cases explained.\"\ndate: 2026-05-01\nauthor: Jeff M.\ncategory: backpacks\ntags:\n  - daypack vs backpacking pack\n  - when do you need a backpacking pack\n  - daypack size guide\naffiliate: false\nsite: MyCozytTrove\nslug: when-a-daypack-is-enough\n---\n\n# When a Daypack Is Enough (And When It Isn't)\n\n*Jeff M. evaluates gear based on technical specifications, manufacturer data, and aggregated owner feedback rather than direct long-term personal use.*\n\nA daypack stops being sufficient when your gear list includes overnight equipment or your total load exceeds 20 pounds. The two things a daypack physically can't do: transfer load to your hips through a structural hip belt, and hold a modern sleep system internally. That said, most casual hikers are better served by a well-fitted daypack than an oversized backpacking pack they don't actually need.\n\n**Key Takeaways**\n- Below 20 lbs, shoulder carry is manageable — a structural hip belt adds weight without meaningful benefit\n- Above 20 lbs, a padded hip belt and rigid frame aren't optional — they're the difference between a comfortable hike and an injury\n- Any overnight trip pushes past what a daypack can carry, even a minimalist one\n- The 25–35L \"technical daypack\" category bridges the gap for long day summits with emergency gear\n- If you're consistently stuffing a 20L pack, step to 35L before jumping to a full backpacking pack\n- A 30L pack is a large daypack, not a backpacking pack — it lacks the suspension for overnight loads\n\n---\n\n## What a Daypack Is Actually Built For\n\nDaypacks are built for high-exertion trips where you're back at the car by dark. They operate in the 10–30L volume range and the 5–15 lb load range. The suspension is intentionally simple — a thin plastic framesheet or no frame at all. That flexibility works in the daypack's favor at light loads, letting the pack move with your torso during fast-paced hiking or scrambling.\n\nBecause the expected load is light, daypack design prioritizes breathability and quick access over the structural support needed to carry heavy gear. Trying to load a daypack past its design range doesn't just make the hike uncomfortable — it puts the load in the wrong place on your body.\n\n---\n\n## The Hip Belt Difference\n\nThe structural difference between a daypack and a backpacking pack comes down to hip belt design and what it connects to.\n\n**Below 20 lbs:** Your shoulders and upper back handle the weight without issue. A simple webbing strap around the waist keeps the pack from bouncing but isn't actually load-bearing.\n\n**Above 20 lbs:** The physics change. Without a padded, structurally integrated hip belt connected to a rigid frame, 100% of the weight pulls down on your trapezius muscles and compresses your spine. Thin daypack straps dig into soft tissue at this load range, restricting circulation and accelerating fatigue.\n\nIf you're regularly hitting 20+ lbs, you've outgrown the daypack category regardless of how good the pack is. For how a proper hip belt should distribute load, see [How to Fit a Backpack Properly](/reviews/backpacks/how-to-fit-a-backpack/).\n\n---\n\n## When a Daypack Handles the Job\n\nA daypack is the right tool in these scenarios:\n\n**Standard day hikes.** Any trip under 12 miles where you're carrying the ten essentials, 2–3 liters of water, and a rain shell. A 20–25L pack covers this without the weight penalty of a full backpacking setup.\n\n**Car camping day trips.** Base camp is set up. You need a bag for lunch and a camera for a nearby overlook. A daypack is all you need.\n\n**Trail running.** Specialized 10–15L vests and packs built for bounce-free, tight-fit movement at running pace. A backpacking pack would be actively wrong here.\n\n**Gym-to-trail use.** Commuter daypacks with laptop sleeves that double for weekend morning loops. Functional for both without over-engineering either.\n\n---\n\n## When You've Outgrown a Daypack\n\nThree specific triggers:\n\n**Any overnight trip.** Even a minimalist overnight requires a tent, sleeping bag, and pad. Those three items alone exceed the useful volume of a 30L daypack and need a frame to carry safely.\n\n**Loads over 20 lbs.** Carrying extra water for arid conditions, heavy winter layers, or cold-weather insulation pushes you into frame territory regardless of trip length.\n\n**Specialized gear on top of trail kit.** A full-sized tripod, multiple camera lenses, or fishing tackle alongside your standard trail kit adds up fast. Once you're stacking hobby gear on top of hiking essentials, a daypack is working against you.\n\n**<a href=\"https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26\" target=\"_blank\" rel=\"noopener noreferrer\">Check Frame Specs and Current Price — Osprey Atmos AG LT 50 →</a>**\n\n---\n\n## The \"Daypack Plus\" Category\n\nBetween a standard daypack and a full backpacking pack sits a bridge category — 25–35L technical daypacks with slightly beefier padding and sometimes a light wire frame. These handle long high-altitude day summits where you need emergency shelter and extra insulation but aren't carrying overnight food.\n\nThey won't support a multi-day food supply or a full sleep system. But if you're consistently overstuffing a 20L pack on serious day objectives, a 35L technical daypack is the logical next step before committing to a full internal frame pack.\n\n---\n\n## Choosing the Right Daypack Size\n\n**10–15L:** Minimalist use. Trail running, short hikes under 2 hours, water and a phone. Nothing more.\n\n**20–25L:** The practical range for most hikers. Fits a lunch, a liter of water, a first aid kit, and a light jacket. Covers 90% of day hiking scenarios without excess.\n\n**30–35L:** The step-up size for parents carrying gear for kids, hikers in unpredictable mountain weather needing significant extra layers, or anyone doing long technical day objectives. This is the top of the daypack range — not the bottom of the backpacking range.\n\nIf your needs consistently fall into the 35L+ range, you're in backpacking pack territory. A pack like the Kelty Asher 55 provides a stable platform for those volumes with the frame support a daypack can't offer. For the full sizing breakdown, see [How Much Pack Capacity Do You Actually Need?](/reviews/backpacks/how-much-pack-capacity-do-you-need/)\n\n**<a href=\"https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F72788088020%3FqueryID%3Dd3f5e92c3e84e995\" target=\"_blank\" rel=\"noopener noreferrer\">Check Frame Specs and Current Price — Kelty Asher 55 →</a>**\n\n---\n\n## FAQ\n\n**Can I use a daypack for overnight hiking?**\nOnly if you're running an extreme minimalist kit with very compressible, expensive gear. For most hikers, a daypack is both too small and too structurally weak to carry a tent and sleeping bag safely over distance.\n\n**What size daypack do I need for a day hike?**\n20–25L covers most day hiking scenarios. It holds the essentials without unnecessary bulk or weight. Step up to 30L if you regularly carry camera gear or extra layers for unpredictable conditions.\n\n**Is a 30L pack a daypack or a backpacking pack?**\nA large daypack. Some ultralight hikers use 30L for overnight minimalist trips, but it lacks the suspension system and volume for standard overnight loads. Don't try to force overnight gear into a 30L unless your entire kit weighs under 20 lbs.\n\n---\n\n**Related:**\n- [Best Backpacking Packs for Hiking and Camping](/reviews/backpacks/best-backpacking-packs/)\n- [How Much Pack Capacity Do You Actually Need?](/reviews/backpacks/how-much-pack-capacity-do-you-need/)\n- [How to Fit a Backpack Properly](/reviews/backpacks/how-to-fit-a-backpack/)\n- [Osprey Atmos AG LT 50 Review](/reviews/backpacks/osprey-atmos-ag-lt-50-review/)\n",
       "fm": {
         "layout": "base",
-        "title": "Outdoor Gear Reviews",
-        "description": "Reviews of fishing gear, camping equipment, outdoor apparel, and backcountry essentials. Bought it, used it, telling you what we actually think.",
-        "permalink": "/reviews/gear/"
+        "title": "When a Daypack Is Enough (And When It Isn't)",
+        "description": "Honest guide to when a daypack handles the job and when you actually need a backpacking pack. Load thresholds, volume limits, and specific use cases explained.",
+        "date": "2026-05-01",
+        "author": "Jeff M.",
+        "category": "backpacks",
+        "tags": "",
+        "affiliate": "false",
+        "site": "MyCozytTrove",
+        "slug": "when-a-daypack-is-enough"
       },
-      "outboundLinks": [],
+      "outboundLinks": [
+        "/reviews/backpacks/how-to-fit-a-backpack/",
+        "/reviews/backpacks/how-much-pack-capacity-do-you-need/",
+        "/reviews/backpacks/best-backpacking-packs/",
+        "/reviews/backpacks/how-much-pack-capacity-do-you-need/",
+        "/reviews/backpacks/how-to-fit-a-backpack/",
+        "/reviews/backpacks/osprey-atmos-ag-lt-50-review/"
+      ],
       "inboundLinks": []
     },
     "suggestion": {
       "outbound": [
         {
-          "target_url": "/reviews/camping/index/",
-          "anchor_text": "camping gear reviews",
-          "insertion_point": "fishing gear, camping equipment, outdoor apparel",
-          "link_text_to_insert": "[camping gear reviews](/reviews/camping/index/)",
-          "reasoning": "This hub page covers multiple gear categories and should link to the dedicated camping reviews section to help readers navigate related content by activity type."
+          "target_url": "/reviews/backpacks/how-to-fit-a-backpack/",
+          "anchor_text": "how to fit a backpack correctly",
+          "insertion_point": "a padded hip belt and rigid frame aren't optional",
+          "link_text_to_insert": "[how to fit a backpack correctly](/reviews/backpacks/how-to-fit-a-backpack/)",
+          "reasoning": "Readers need practical guidance on hip belt fitting when deciding between daypack and backpacking pack, which is directly addressed in the fit guide."
         },
         {
-          "target_url": "/reviews/fishing/index/",
-          "anchor_text": "fishing gear reviews",
-          "insertion_point": "fishing gear, camping equipment, outdoor apparel",
-          "link_text_to_insert": "[fishing gear reviews](/reviews/fishing/index/)",
-          "reasoning": "Parallel navigation structure—readers looking at this general gear hub should have easy access to the specialized fishing reviews section."
+          "target_url": "/reviews/backpacks/how-much-pack-capacity-do-you-need/",
+          "anchor_text": "pack capacity for your actual trips",
+          "insertion_point": "If you're consistently stuffing a 20L pack, step to 35L",
+          "link_text_to_insert": "[pack capacity for your actual trips](/reviews/backpacks/how-much-pack-capacity-do-you-need/)",
+          "reasoning": "This article makes a volume-based recommendation (20L to 35L) that leads naturally to the capacity guide for deeper analysis of actual needs."
         }
       ],
       "inbound": [
         {
-          "source_url": "/reviews/camping/best-solo-camping-gear-weekend-trips/",
-          "anchor_text": "outdoor gear reviews",
-          "insertion_point": "durable outdoor jacket for camp conditions",
-          "link_text_to_insert": "[outdoor gear reviews](/reviews/gear/index/)",
-          "reasoning": "This comprehensive solo camping guide references specific gear items (jacket, tent, sleeping bag) that all exist in the main gear reviews hub, making a hub link natural for readers seeking broader gear comparisons."
+          "source_url": "/reviews/backpacks/how-much-pack-capacity-do-you-need/",
+          "anchor_text": "when a daypack is sufficient",
+          "insertion_point": "Backpack volume explained by trip length and gear compressibility",
+          "link_text_to_insert": "[when a daypack is sufficient](/reviews/backpacks/when-a-daypack-is-enough/)",
+          "reasoning": "The capacity guide should reference this article's threshold analysis before diving into volume calculations, giving readers context on whether they need a pack at all."
         },
         {
-          "source_url": "/reviews/power/best-portable-power-station-camping/",
-          "anchor_text": "outdoor gear",
-          "insertion_point": "which outdoor scenario",
-          "link_text_to_insert": "[outdoor gear](/reviews/gear/index/)",
-          "reasoning": "This power station buying guide covers camping applications and should reference the main gear hub as a complement to specialized power equipment reviews."
-        }
-      ]
-    }
-  },
-  {
-    "orphan": {
-      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\outdoor\\index.md",
-      "category": "outdoor",
-      "slug": "index",
-      "url": "/reviews/outdoor/index/",
-      "content": "---\nlayout: base\ntitle: Outdoor Gear Reviews\ndescription: Technical reviews of portable power stations, solar panels, and outdoor energy gear for camping and off-grid use.\npermalink: /reviews/outdoor/\n---\n\n# Outdoor Gear Reviews\n\n<p class=\"category-intro\">Technical analysis of portable power and outdoor energy gear — specs, real-world runtime, and honest trade-offs for camp setups and off-grid use.</p>\n\n<div class=\"review-list\">\n  {% for review in collections.outdoorReviews %}\n    {% if review.url != page.url %}\n    <div class=\"review-card\">\n      <h2><a href=\"{{ review.url }}\">{{ review.data.title }}</a></h2>\n      <time datetime=\"{{ review.date | dateToRfc3339 }}\">{{ review.date | dateToRfc3339 | truncate(10, true, '') }}</time>\n      {% if review.data.description %}\n        <p>{{ review.data.description }}</p>\n      {% endif %}\n      <a href=\"{{ review.url }}\" class=\"read-more\">Read Review →</a>\n    </div>\n    {% endif %}\n  {% endfor %}\n</div>\n",
-      "fm": {
-        "layout": "base",
-        "title": "Outdoor Gear Reviews",
-        "description": "Technical reviews of portable power stations, solar panels, and outdoor energy gear for camping and off-grid use.",
-        "permalink": "/reviews/outdoor/"
-      },
-      "outboundLinks": [],
-      "inboundLinks": []
-    },
-    "suggestion": {
-      "outbound": [
-        {
-          "target_url": "/reviews/power/index/",
-          "anchor_text": "portable power stations",
-          "insertion_point": "Technical analysis of portable power",
-          "link_text_to_insert": "[portable power stations](/reviews/power/index/)",
-          "reasoning": "This hub page naturally leads to deeper power station reviews and comparisons that support the outdoor energy gear focus."
-        },
-        {
-          "target_url": "/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/",
-          "anchor_text": "camp power setup decisions",
-          "insertion_point": "for camp setups and off-grid use",
-          "link_text_to_insert": "[camp power setup decisions](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/)",
-          "reasoning": "This strategic guide helps readers understand the core decision between solar and battery storage before diving into specific product reviews."
-        }
-      ],
-      "inbound": [
-        {
-          "source_url": "/reviews/camping/best-solo-camping-gear-weekend-trips/",
-          "anchor_text": "outdoor energy gear",
-          "insertion_point": "building the right camp power setup",
-          "link_text_to_insert": "[outdoor energy gear](/reviews/outdoor/index/)",
-          "reasoning": "The solo camping guide already references power station decisions and should link directly to the outdoor gear reviews hub for comprehensive power options."
-        },
-        {
-          "source_url": "/reviews/power/best-portable-power-station-camping/",
-          "anchor_text": "outdoor gear reviews",
-          "insertion_point": "understanding the difference between solar generation and storage",
-          "link_text_to_insert": "[outdoor gear reviews](/reviews/outdoor/index/)",
-          "reasoning": "This power station buying guide naturally complements the broader outdoor gear review hub as the authoritative source for energy solutions in camping context."
-        }
-      ]
-    }
-  },
-  {
-    "orphan": {
-      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\power\\index.md",
-      "category": "power",
-      "slug": "index",
-      "url": "/reviews/power/index/",
-      "content": "---\nlayout: base\ntitle: \"Portable Power Reviews\"\ndescription: \"Honest reviews of portable power stations for camping, fishing trips, and off-grid adventures. Real-world battery tests, not spec-sheet cheerleading.\"\npermalink: /reviews/power/\n---\n\n<div class=\"container\" style=\"padding-top: 2rem;\">\n\n  <h1>Portable Power Reviews</h1>\n  <p class=\"category-intro\">Field-tested reviews of power stations for camping, fishing, and off-grid use. We focus on real-world runtime, charge speed, and whether it's worth the trunk space.</p>\n\n  <div class=\"review-list\">\n    {% for review in collections.powerReviews | reverse %}\n    <article class=\"review-card\">\n      <h2><a href=\"{{ review.url }}\">{{ review.data.title }}</a></h2>\n      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}\n      <a href=\"{{ review.url }}\" class=\"read-more\">Read full review →</a>\n    </article>\n    {% endfor %}\n  </div>\n\n</div>\n",
-      "fm": {
-        "layout": "base",
-        "title": "Portable Power Reviews",
-        "description": "Honest reviews of portable power stations for camping, fishing trips, and off-grid adventures. Real-world battery tests, not spec-sheet cheerleading.",
-        "permalink": "/reviews/power/"
-      },
-      "outboundLinks": [],
-      "inboundLinks": []
-    },
-    "suggestion": {
-      "outbound": [
-        {
-          "target_url": "/reviews/power/best-portable-power-station-camping/",
-          "anchor_text": "best portable power stations",
-          "insertion_point": "Field-tested reviews of power stations",
-          "link_text_to_insert": "[best portable power stations](/reviews/power/best-portable-power-station-camping/)",
-          "reasoning": "Links hub page to detailed comparison article that helps readers narrow down specific models and use cases."
-        },
-        {
-          "target_url": "/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/",
-          "anchor_text": "solar panels vs. portable power stations",
-          "insertion_point": "off-grid adventures",
-          "link_text_to_insert": "[solar panels vs. portable power stations](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/)",
-          "reasoning": "Contextualizes power station reviews within the larger decision of how to set up off-grid power for different trip types."
-        }
-      ],
-      "inbound": [
-        {
-          "source_url": "/reviews/camping/best-solo-camping-gear-weekend-trips/",
-          "anchor_text": "portable power solutions",
-          "insertion_point": "building the right camp power setup",
-          "link_text_to_insert": "[portable power solutions](/reviews/power/index/)",
-          "reasoning": "Solo camping gear guide should reference power reviews hub since power is critical component of complete camp setup."
-        },
-        {
-          "source_url": "/reviews/camping/traverseon-20000mah-camping-fan-review/",
-          "anchor_text": "portable power options",
-          "insertion_point": "integrated LED light",
-          "link_text_to_insert": "[portable power options](/reviews/power/index/)",
-          "reasoning": "Camping fan review demonstrates practical power consumption; linking to power reviews hub shows readers other power solutions for tent camping."
-        }
-      ]
-    }
-  },
-  {
-    "orphan": {
-      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\self-sufficiency\\index.md",
-      "category": "self-sufficiency",
-      "slug": "index",
-      "url": "/reviews/self-sufficiency/index/",
-      "content": "---\nlayout: base\ntitle: \"Self-Sufficiency Reviews\"\ndescription: \"Reviews of books, tools, and resources for living more independently — homesteading, foraging, food preservation, and off-grid skills.\"\npermalink: /reviews/self-sufficiency/\n---\n\n<div class=\"container\" style=\"padding-top: 2rem;\">\n\n  <h1>Self-Sufficiency Reviews</h1>\n  <p class=\"category-intro\">Guides, books, and tools for doing more yourself — from growing food to preserving it, and building skills that don't depend on a supply chain.</p>\n\n  <div class=\"review-list\">\n    {% for review in collections.selfSufficiencyReviews | reverse %}\n    <article class=\"review-card\">\n      <h2><a href=\"{{ review.url }}\">{{ review.data.title }}</a></h2>\n      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}\n      <a href=\"{{ review.url }}\" class=\"read-more\">Read full review →</a>\n    </article>\n    {% endfor %}\n    {% if collections.selfSufficiencyReviews.length == 0 %}\n    <p class=\"coming-soon\">Self-sufficiency reviews coming soon.</p>\n    {% endif %}\n  </div>\n\n</div>\n",
-      "fm": {
-        "layout": "base",
-        "title": "Self-Sufficiency Reviews",
-        "description": "Reviews of books, tools, and resources for living more independently — homesteading, foraging, food preservation, and off-grid skills.",
-        "permalink": "/reviews/self-sufficiency/"
-      },
-      "outboundLinks": [],
-      "inboundLinks": []
-    },
-    "suggestion": {
-      "outbound": [
-        {
-          "target_url": "/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/",
-          "anchor_text": "off-grid power systems for camping",
-          "insertion_point": "building skills that don't depend on a supply chain",
-          "link_text_to_insert": "[off-grid power systems for camping](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/)",
-          "reasoning": "Self-sufficiency overlaps directly with off-grid camping skills, making portable power and solar systems a natural related topic for independence-focused readers."
-        },
-        {
-          "target_url": "/reviews/water/index/",
-          "anchor_text": "portable water filtration for backcountry use",
-          "insertion_point": "preserving it, and building skills",
-          "link_text_to_insert": "[portable water filtration for backcountry use](/reviews/water/index/)",
-          "reasoning": "Water purification is a core self-sufficiency skill for camping and off-grid living, making this a logical companion resource for independent-minded readers."
-        }
-      ],
-      "inbound": [
-        {
-          "source_url": "/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/",
-          "anchor_text": "self-sufficiency skills and resources",
-          "insertion_point": "help you build the right off-grid power setup",
-          "link_text_to_insert": "[self-sufficiency skills and resources](/reviews/self-sufficiency/index/)",
-          "reasoning": "Off-grid power is part of broader self-sufficiency, so linking from the power setup guide to the self-sufficiency hub helps readers explore related independence topics."
-        },
-        {
-          "source_url": "/reviews/power/portable-power-camping-fishing-outdoor-hub/",
-          "anchor_text": "self-sufficiency and off-grid living guides",
-          "insertion_point": "weight-to-power ratios, IP ratings, DC efficiency",
-          "link_text_to_insert": "[self-sufficiency and off-grid living guides](/reviews/self-sufficiency/index/)",
-          "reasoning": "The portable power hub covers mobile power for outdoor independence, making a bridge to comprehensive self-sufficiency resources valuable for readers pursuing off-grid setups."
-        }
-      ]
-    }
-  },
-  {
-    "orphan": {
-      "filePath": "F:\\Affiliate-Sites\\MyCozyTrove\\content\\reviews\\water\\index.md",
-      "category": "water",
-      "slug": "index",
-      "url": "/reviews/water/index/",
-      "content": "---\nlayout: base\ntitle: \"Water Filtration Reviews\"\ndescription: \"Reviews of portable water filters, purifiers, and filtration systems for camping, fishing, and backcountry use. Clean water wherever you are.\"\npermalink: /reviews/water/\n---\n\n<div class=\"container\" style=\"padding-top: 2rem;\">\n\n  <h1>Water Filtration Reviews</h1>\n  <p class=\"category-intro\">From squeeze filters to gravity systems — reviews of the water purification gear that actually belongs in your pack.</p>\n\n  <div class=\"review-list\">\n    {% for review in collections.waterReviews | reverse %}\n    <article class=\"review-card\">\n      <h2><a href=\"{{ review.url }}\">{{ review.data.title }}</a></h2>\n      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}\n      <a href=\"{{ review.url }}\" class=\"read-more\">Read full review →</a>\n    </article>\n    {% endfor %}\n    {% if collections.waterReviews.length == 0 %}\n    <p class=\"coming-soon\">Water filtration reviews coming soon.</p>\n    {% endif %}\n  </div>\n\n</div>\n",
-      "fm": {
-        "layout": "base",
-        "title": "Water Filtration Reviews",
-        "description": "Reviews of portable water filters, purifiers, and filtration systems for camping, fishing, and backcountry use. Clean water wherever you are.",
-        "permalink": "/reviews/water/"
-      },
-      "outboundLinks": [],
-      "inboundLinks": []
-    },
-    "suggestion": {
-      "outbound": [
-        {
-          "target_url": "/reviews/camping/index/",
-          "anchor_text": "camping gear reviews",
-          "insertion_point": "reviews of the water purification gear",
-          "link_text_to_insert": "[camping gear reviews](/reviews/camping/index/)",
-          "reasoning": "Water filtration is essential camping gear, and linking to the main camping hub creates natural topical clustering and guides users to related outdoor equipment reviews."
-        },
-        {
-          "target_url": "/reviews/camping/best-solo-camping-gear-weekend-trips/",
-          "anchor_text": "solo camping kit essentials",
-          "insertion_point": "Clean water wherever you are",
-          "link_text_to_insert": "[solo camping kit essentials](/reviews/camping/best-solo-camping-gear-weekend-trips/)",
-          "reasoning": "Water filtration is a critical component of complete camping loadouts, and this guide covers integrated camp systems where filtration belongs."
-        }
-      ],
-      "inbound": [
-        {
-          "source_url": "/reviews/camping/best-solo-camping-gear-weekend-trips/",
-          "anchor_text": "portable water filtration systems",
-          "insertion_point": "shelter, sleep system, cooking, and comfort gear",
-          "link_text_to_insert": "[portable water filtration systems](/reviews/water/index/)",
-          "reasoning": "The solo camping guide mentions complete gear kits but doesn't link to dedicated water filtration reviews, creating a natural opportunity to reference this category."
-        },
-        {
-          "source_url": "/reviews/camping/solo-camping-sleep-system-guide/",
-          "anchor_text": "water filtration for backcountry camping",
-          "insertion_point": "specific setups for Gulf Coast summer",
-          "link_text_to_insert": "[water filtration for backcountry camping](/reviews/water/index/)",
-          "reasoning": "A guide building complete camping sleep systems should reference water safety and filtration options as part of the broader backcountry preparation narrative."
+          "source_url": "/reviews/backpacks/best-backpacking-packs/",
+          "anchor_text": "when you actually need a backpacking pack",
+          "insertion_point": "Osprey, Gregory, and Kelty backpacking packs compared by capacity, fit, suspension",
+          "link_text_to_insert": "[when you actually need a backpacking pack](/reviews/backpacks/when-a-daypack-is-enough/)",
+          "reasoning": "The backpacking pack review should clarify use cases upfront by linking to this article's decision framework before presenting overnight-specific models."
         }
       ]
     }

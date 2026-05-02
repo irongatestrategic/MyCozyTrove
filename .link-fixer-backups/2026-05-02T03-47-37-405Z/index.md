@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 
 # Backpacks
 
-Backpack reviews and buying guides for hikers, campers, and outdoor enthusiasts. We cover daypacks, overnight packs, and multi-day backpacking systems [daypacks, overnight packs, and multi-day](/reviews/backpacks/how-much-pack-capacity-do-you-need/) — evaluated on fit, load transfer, materials [fit, load transfer](/reviews/backpacks/how-to-fit-a-backpack/), and real-world durability.
+Backpack reviews and buying guides for hikers, campers, and outdoor enthusiasts. We cover daypacks, overnight packs, and multi-day backpacking systems — evaluated on fit, load transfer, materials, and real-world durability.
 
 <ul>
 {% for post in collections.backpackReviews %}

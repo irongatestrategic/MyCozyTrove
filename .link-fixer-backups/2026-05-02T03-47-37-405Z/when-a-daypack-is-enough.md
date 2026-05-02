@@ -22,10 +22,10 @@ A daypack stops being sufficient when your gear list includes overnight equipmen
 
 **Key Takeaways**
 - Below 20 lbs, shoulder carry is manageable — a structural hip belt adds weight without meaningful benefit
-- Above 20 lbs, a padded hip belt and rigid frame aren't optional [how to fit a backpack correctly](/reviews/backpacks/how-to-fit-a-backpack/) — they're the difference between a comfortable hike and an injury
+- Above 20 lbs, a padded hip belt and rigid frame aren't optional — they're the difference between a comfortable hike and an injury
 - Any overnight trip pushes past what a daypack can carry, even a minimalist one
 - The 25–35L "technical daypack" category bridges the gap for long day summits with emergency gear
-- If you're consistently stuffing a 20L pack, step to 35L [pack capacity for your actual trips](/reviews/backpacks/how-much-pack-capacity-do-you-need/) before jumping to a full backpacking pack
+- If you're consistently stuffing a 20L pack, step to 35L before jumping to a full backpacking pack
 - A 30L pack is a large daypack, not a backpacking pack — it lacks the suspension for overnight loads
 
 ---
