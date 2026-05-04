@@ -1,26 +1,16 @@
 ---
 layout: base
-title: "Camping Gear Reviews"
-description: "Technical reviews of solo camping shelters, sleep systems, cooking gear, and outdoor essentials [sleep system fundamentals](/reviews/camping/solo-camping-sleep-system-guide/) [complete solo camping kit](/reviews/camping/best-solo-camping-gear-weekend-trips/) — specs, materials, and honest assessments for serious campers."
-permalink: /reviews/camping/
+title: "Camping Reviews & Buying Guides | MyCozyTrove"
+description: "Solo and group camping gear reviews covering tents, sleep systems, stoves, and camp power. Evaluated on weight, packability, and real-world field performance."
+eleventyExcludeFromCollections: true
 ---
 
-<div class="container" style="padding-top: 2rem;">
+# Camping
 
-  <h1>Camping Gear Reviews</h1>
-  <p class="category-intro">Engineering-focused reviews of tents, sleeping bags, stoves, and camp essentials — materials, insulation ratings, and real-world performance for campers who don't want to haul junk into the field.</p>
+Solo and group camping gear evaluated on weight, packability, and field reliability — not spec sheets.
 
-  <div class="review-list">
-    {% for review in collections.campingReviews | reverse %}
-    <article class="review-card">
-      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
-      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
-      <a href="{{ review.url }}" class="read-more">Read full review →</a>
-    </article>
-    {% endfor %}
-    {% if collections.campingReviews.length == 0 %}
-    <p class="coming-soon">Camping gear reviews coming soon.</p>
-    {% endif %}
-  </div>
-
-</div>
+<ul>
+{% for post in collections.campingReviews %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ul>
