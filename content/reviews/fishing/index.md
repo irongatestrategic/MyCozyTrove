@@ -1,26 +1,16 @@
 ---
 layout: base
-title: "Fishing Gear Reviews"
-description: "Technical reviews of saltwater and freshwater fishing reels, rods, and tackle [fishing apparel and tackle storage](/reviews/gear/index/) — specs, drag systems, and honest assessments [drag systems and frame engineering](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/) for serious anglers."
-permalink: /reviews/fishing/
+title: "Fishing Gear Reviews & Buying Guides | MyCozyTrove"
+description: "Fishing rod, reel, and combo reviews evaluated on sensitivity, build quality, and value at each price point. Spinning, baitcasting, and electric reel options covered."
+eleventyExcludeFromCollections: true
 ---
 
-<div class="container" style="padding-top: 2rem;">
+# Fishing
 
-  <h1>Fishing Gear Reviews</h1>
-  <p class="category-intro">Engineering-focused reviews of reels, rods, and tackle — drag systems, frame materials, and sealing specs for anglers who fish hard.</p>
+Rods, reels, and combos evaluated on sensitivity, build quality, and value — not marketing claims.
 
-  <div class="review-list">
-    {% for review in collections.fishingReviews | reverse %}
-    <article class="review-card">
-      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
-      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
-      <a href="{{ review.url }}" class="read-more">Read full review →</a>
-    </article>
-    {% endfor %}
-    {% if collections.fishingReviews.length == 0 %}
-    <p class="coming-soon">Fishing gear reviews coming soon.</p>
-    {% endif %}
-  </div>
-
-</div>
+<ul>
+{% for post in collections.fishingReviews %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ul>
