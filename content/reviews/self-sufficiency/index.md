@@ -1,26 +1,16 @@
 ---
 layout: base
-title: "Self-Sufficiency Reviews"
-description: "Reviews of books, tools, and resources for living more independently — homesteading, foraging, food preservation, and off-grid skills."
-permalink: /reviews/self-sufficiency/
+title: "Self-Sufficiency Guides | MyCozyTrove"
+description: "Field craft and backcountry skills guides for campers and outdoor travelers. Navigation, shelter, water sourcing, and self-reliance skills covered."
+eleventyExcludeFromCollections: true
 ---
 
-<div class="container" style="padding-top: 2rem;">
+# Self-Sufficiency
 
-  <h1>Self-Sufficiency Reviews</h1>
-  <p class="category-intro">Guides, books, and tools for doing more yourself — from growing food to preserving it, and building skills [portable water filtration for backcountry use](/reviews/water/index/) that don't depend on a supply chain [off-grid power systems for camping](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/).</p>
+Field craft and backcountry skills for campers and outdoor travelers — navigation, shelter, and self-reliance in the field.
 
-  <div class="review-list">
-    {% for review in collections.selfSufficiencyReviews | reverse %}
-    <article class="review-card">
-      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
-      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
-      <a href="{{ review.url }}" class="read-more">Read full review →</a>
-    </article>
-    {% endfor %}
-    {% if collections.selfSufficiencyReviews.length == 0 %}
-    <p class="coming-soon">Self-sufficiency reviews coming soon.</p>
-    {% endif %}
-  </div>
-
-</div>
+<ul>
+{% for post in collections.selfSufficiencyReviews %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ul>

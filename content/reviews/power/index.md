@@ -1,23 +1,16 @@
 ---
 layout: base
-title: "Portable Power Reviews"
-description: "Honest reviews of portable power stations for camping, fishing trips, and off-grid adventures [solar panels vs. portable power stations](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/). Real-world battery tests, not spec-sheet cheerleading."
-permalink: /reviews/power/
+title: "Portable Power Reviews & Buying Guides | MyCozyTrove"
+description: "Portable power station and solar generator reviews for camping and off-grid use. Evaluated on runtime, recharge options, and weight for field use."
+eleventyExcludeFromCollections: true
 ---
 
-<div class="container" style="padding-top: 2rem;">
+# Power
 
-  <h1>Portable Power Reviews</h1>
-  <p class="category-intro">Field-tested reviews of power stations [best portable power stations](/reviews/power/best-portable-power-station-camping/) for camping, fishing, and off-grid use. We focus on real-world runtime, charge speed, and whether it's worth the trunk space.</p>
+Portable power stations and solar generators evaluated on runtime, recharge options, and packability for camp and field use.
 
-  <div class="review-list">
-    {% for review in collections.powerReviews | reverse %}
-    <article class="review-card">
-      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
-      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
-      <a href="{{ review.url }}" class="read-more">Read full review →</a>
-    </article>
-    {% endfor %}
-  </div>
-
-</div>
+<ul>
+{% for post in collections.powerReviews %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ul>
