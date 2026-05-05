@@ -91,7 +91,7 @@ function crawl() {
   // Collect all markdown files
   for (const category of categories) {
     const categoryDir = path.join(CONTENT_DIR, category);
-    const mdFiles = fs.readdirSync(categoryDir).filter(f => f.endsWith('.md'));
+    const mdFiles = fs.readdirSync(categoryDir).filter(f => f.endsWith('.md') && f !== 'index.md');
     for (const file of mdFiles) {
       const filePath = path.join(categoryDir, file);
       const content = fs.readFileSync(filePath, 'utf8');
