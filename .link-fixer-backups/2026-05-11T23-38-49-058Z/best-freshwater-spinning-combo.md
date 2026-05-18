@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Best All-Around Freshwater Spinning Combo Under $150: Abu Garcia Max Elite"
-description: "Abu Garcia Max Elite Spinning Combo review for freshwater anglers [Piscifun NautiX vs Abu Garcia Max Elite comparison](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/). 30-ton carbon blank, 6.2:1 retrieve, 14 lb drag — honest assessment of who this is and isn't for."
+description: "Abu Garcia Max Elite Spinning Combo review for freshwater anglers. 30-ton carbon blank, 6.2:1 retrieve, 14 lb drag — honest assessment of who this is and isn't for."
 date: 2026-05-11
 author: Jeff M.
 category: fishing

@@ -1,5 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
+{% if layout == "base" and date %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "{{ site.url }}/#organization",
+        "name": "{{ site.name }}",
+        "url": "{{ site.url }}"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ site.url }}/#website",
+        "url": "{{ site.url }}",
+        "name": "{{ site.name }}",
+        "publisher": { "@id": "{{ site.url }}/#organization" }
+      },
+      {
+        "@type": "Article",
+        "@id": "{{ site.url }}{{ page.url }}#article",
+        "headline": "{{ title | escape }}",
+        "description": "{{ description | escape }}",
+        "url": "{{ site.url }}{{ page.url }}",
+        "datePublished": "{{ date | htmlDateString }}",
+        "dateModified": "{{ date | htmlDateString }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ author }}",
+          "url": "{{ site.url }}/pages/about/"
+        },
+        "publisher": { "@id": "{{ site.url }}/#organization" },
+        "inLanguage": "en-US",
+        "isPartOf": { "@id": "{{ site.url }}/#website" }
+      }
+    ]
+  }
+  </script>
+  {% endif %}
+  
 <head>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

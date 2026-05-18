@@ -20,12 +20,12 @@ slug: best-weekend-shore-fishing-setup
 
 *Jeff M. evaluates products based on technical specifications, manufacturer data, and aggregated owner feedback rather than direct long-term personal use.*
 
-For a weekend shore fishing trip targeting mixed freshwater species, the Abu Garcia Max Elite Spinning Combo spooled with 10 lb mono [Abu Garcia Max Elite Spinning Combo](/reviews/fishing/best-freshwater-spinning-combo/) covers the ground you need without carrying multiple setups. Pair it with four lure types — inline spinner, soft plastic on a jig head, topwater popper, and a live bait rig — and you have a kit that handles bass, walleye, and panfish across most freshwater conditions from a fixed bank position.
+For a weekend shore fishing trip targeting mixed freshwater species, the Abu Garcia Max Elite Spinning Combo spooled with 10 lb mono covers the ground you need without carrying multiple setups. Pair it with four lure types — inline spinner, soft plastic on a jig head, topwater popper, and a live bait rig — and you have a kit that handles bass, walleye, and panfish across most freshwater conditions from a fixed bank position.
 
 **Key Takeaways**
 - 7'0" rod length is a functional advantage for shore fishing — clears bank vegetation and reaches the drop-offs where fish hold
 - 6.2:1 retrieve keeps tension on a fish hooked at distance; a slow-retrieve reel lets fish find brush before you can close the gap
-- 10 lb mono is the right default for most shore situations [10 lb mono is the right default](/reviews/fishing/fishing-line-types-explained/) — abrasion resistance matters more than invisibility when you're fishing rocky banks
+- 10 lb mono is the right default for most shore situations — abrasion resistance matters more than invisibility when you're fishing rocky banks
 - Four lures covers three depth zones and two light conditions — no need for a full tackle box
 - The "large assortment pack" from the checkout aisle is the most common money-wasting purchase in freshwater fishing
 - Budget option: Gen Ike at $74.99 uses the same 7'0" length and reliable drag, saves $55

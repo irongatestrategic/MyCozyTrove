@@ -5,9 +5,15 @@ module.exports = function(eleventyConfig) {
     return new Date(dateObj).toISOString();
   });
   
+  // ISO date for schema JSON-LD
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    return new Date(dateObj).toISOString().split('T')[0] + "T00:00:00+00:00";
+  });
+  
   // Copy static assets
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("robots.txt");
+  eleventyConfig.addPassthroughCopy("llms.txt");
    
   // Watch for changes in CSS/JS
   eleventyConfig.addWatchTarget("assets/css/");

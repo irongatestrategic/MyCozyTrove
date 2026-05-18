@@ -20,12 +20,12 @@ slug: piscifun-vs-mid-range-spinning-combo
 
 *Jeff M. evaluates products based on technical specifications, manufacturer data, and aggregated owner feedback rather than direct long-term personal use.*
 
-The Piscifun NautiX gives you an IPX5-waterproofed, aluminum-body reel with 8+1 sealed bearings for around $52 — but it's a reel only. You still need to buy a rod. The Abu Garcia Max Elite is a $129.99 full combo [Abu Garcia Max Elite Spinning Combo review](/reviews/fishing/best-freshwater-spinning-combo/) with a factory-matched rod and reel. The trade-off is real: the NautiX wins on raw reel specs (sealed bearings, aluminum body, higher drag ceiling) at the reel-only level, while the Max Elite wins on the integrated system — a 30-ton carbon rod that the NautiX's budget pairing typically can't match.
+The Piscifun NautiX gives you an IPX5-waterproofed, aluminum-body reel with 8+1 sealed bearings for around $52 — but it's a reel only. You still need to buy a rod. The Abu Garcia Max Elite is a $129.99 full combo with a factory-matched rod and reel. The trade-off is real: the NautiX wins on raw reel specs (sealed bearings, aluminum body, higher drag ceiling) at the reel-only level, while the Max Elite wins on the integrated system — a 30-ton carbon rod that the NautiX's budget pairing typically can't match.
 
 **Key Takeaways**
 - NautiX has sealed bearings (IPX5 rated); Max Elite reel bearings are unsealed — in wet or sandy conditions, the NautiX internals hold up longer
 - NautiX max drag is 26 lb vs Max Elite's 14 lb — both are more than you need for freshwater, but the NautiX margin is genuinely larger
-- The real Max Elite advantage isn't the reel — it's the 30-ton carbon rod, which a $40 budget rod paired with a NautiX can't replicate [how rod quality affects sensitivity](/reviews/fishing/fishing-rod-power-action-guide/)
+- The real Max Elite advantage isn't the reel — it's the 30-ton carbon rod, which a $40 budget rod paired with a NautiX can't replicate
 - If you fish 10–15 times per year casually, the NautiX + a decent budget rod saves $70+ and doesn't limit your performance
 - If you fish 20+ times per season and need finesse sensitivity, the Max Elite's integrated system is worth the price difference
 - Piscifun is a legitimate brand — not a department store throwaway; the NautiX has real engineering behind it

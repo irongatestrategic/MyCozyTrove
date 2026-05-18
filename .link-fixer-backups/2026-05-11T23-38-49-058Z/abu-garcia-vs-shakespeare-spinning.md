@@ -20,12 +20,12 @@ slug: abu-garcia-vs-shakespeare-spinning
 
 *Jeff M. evaluates products based on technical specifications, manufacturer data, and aggregated owner feedback rather than direct long-term personal use.*
 
-For most buyers learning lure fishing, the Abu Garcia Gen Ike is the better technical starting point. [rod power and action](/reviews/fishing/fishing-rod-power-action-guide/) The 24-ton graphite composite blank transmits strikes clearly enough to feel a bite, not just see the rod tip move. For anglers who prioritize durability over sensitivity — rough storage, heavy bait fishing, gear for kids — the Ugly Stik GX2 is the right call. Both are solid entry-level options; which one wins depends entirely on how you fish.
+For most buyers learning lure fishing, the Abu Garcia Gen Ike is the better technical starting point. The 24-ton graphite composite blank transmits strikes clearly enough to feel a bite, not just see the rod tip move. For anglers who prioritize durability over sensitivity — rough storage, heavy bait fishing, gear for kids — the Ugly Stik GX2 is the right call. Both are solid entry-level options; which one wins depends entirely on how you fish.
 
 **Key Takeaways**
 - The core trade-off: Gen Ike is more sensitive (24-ton graphite); GX2 is more durable (graphite/fiberglass Ugly Tech blend)
 - GX2's Ugly Tuff one-piece stainless steel guides have no ceramic inserts — nothing to crack or pop out, which is a real advantage in rough-handling situations
-- Both reels use 3BB + 1 anti-reverse — same bearing count, different drag feel; Gen Ike drag engagement is tighter based on owner reports [reel drag performance issues](/reviews/fishing/five-signs-reel-failing/)
+- Both reels use 3BB + 1 anti-reverse — same bearing count, different drag feel; Gen Ike drag engagement is tighter based on owner reports
 - Neither is appropriate for saltwater — unsealed drags and non-corrosion-resistant internal components at this price point
 - GX2 10-year rod warranty is the longest in this price category by a significant margin
 - If you're buying a "beater" rod for a truck, kids, or live bait fishing — GX2. If you're learning lure fishing and want to feel what you're doing — Gen Ike.
