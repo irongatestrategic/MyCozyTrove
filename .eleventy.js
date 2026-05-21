@@ -68,18 +68,10 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("content/reviews/camping/*.md");
   });
   
-  eleventyConfig.addCollection("gearReviews", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("content/reviews/gear/*.md");
-  });
-
-  eleventyConfig.addCollection("waterReviews", function(collectionApi) {
+   eleventyConfig.addCollection("waterReviews", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/reviews/water/*.md");
   });
 
-  eleventyConfig.addCollection("selfSufficiencyReviews", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("content/reviews/self-sufficiency/*.md");
-  });
-  
   eleventyConfig.addCollection("outdoorReviews", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/reviews/outdoor/*.md");
   });
@@ -93,6 +85,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("allReviews", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/reviews/**/*.md");
   });
+  
+  eleventyConfig.addCollection("clothingReviews", function(collectionApi) {
+     return collectionApi.getFilteredByGlob("content/reviews/clothing/*.md")
+     .filter(item => item.inputPath.split('/').pop() !== 'index.md');
+});
   
   return {
     dir: {

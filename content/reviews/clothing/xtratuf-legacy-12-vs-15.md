@@ -1,10 +1,10 @@
----
+﻿---
 layout: base
 title: "Xtratuf Legacy 12\" vs. 15\": Choosing the Right Boot for Your Water [Xtratuf Fishing Boots Review](/reviews/gear/xtratuf-fishing-boots/)"
 description: "Comparing the Xtratuf Legacy 12-inch and 15-inch boots for fishing, dock work, and wet terrain. [hands-free gear transport](/reviews/gear/piscifun-fishing-backpack/) Same legendary construction, different coverage — here's how to pick your height."
 date: 2026-02-19
 author: "Jeff M."
-category: "Gear"
+category: clothing
 permalink: /reviews/gear/xtratuf-legacy-12-vs-15/
 canonical: "https://mycozytrove.com/reviews/gear/xtratuf-legacy-12-vs-15/"
 ---
@@ -112,3 +112,4 @@ For the complete breakdown on construction details, fit considerations, and how 
 ---
 
 *MyCozyTrove participates in affiliate advertising programs. Links to products may earn us a commission at no additional cost to you. We recommend products based on real-world use and honest assessment — not commission rates.*
+

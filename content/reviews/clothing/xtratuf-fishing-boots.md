@@ -1,4 +1,4 @@
----
+﻿---
 layout: base
 title: Xtratuf Fishing Boots Review - Gold Standard Deck Boots [12-inch vs 15-inch height comparison](/reviews/gear/xtratuf-legacy-12-vs-15/)
 ---
@@ -134,3 +134,4 @@ Order a half-size down, give them a couple trips to break in, and you'll underst
 ---
 
 *Full disclosure: I earn a commission if you purchase through the links above, at no extra cost to you. These are boots I actually wear and recommend based on years of use, not just specs on a website.*
+

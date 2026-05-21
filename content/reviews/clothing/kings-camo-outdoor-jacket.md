@@ -1,4 +1,4 @@
----
+﻿---
 layout: base
 title: Kings Camo Hunter Series Jacket Review - Outdoor Apparel
 ---
@@ -165,3 +165,4 @@ If you need one jacket that handles fishing in April, hiking in October, and hun
 ---
 
 *Full disclosure: I earn a commission if you purchase through the links above. This is gear I wear regularly in Mississippi woods and on the water, not just something I researched online.*
+

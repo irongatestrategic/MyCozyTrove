@@ -1,4 +1,4 @@
----
+﻿---
 layout: base
 title: Piscifun Fishing Backpack Review - Organized Tackle Storage [other backpack options](/reviews/backpacks/index/) [technical fishing gear reviews](/reviews/fishing/index/) [hunting-grade outdoor jacket](/reviews/gear/kings-camo-outdoor-jacket/)
 ---
@@ -145,3 +145,4 @@ At $50, it's an easy recommendation for anyone who's tired of juggling a tackle 
 ---
 
 *Full disclosure: I earn a commission if you purchase through the links above. This is gear I use regularly and recommend based on actual fishing trips, not just product descriptions.*
+

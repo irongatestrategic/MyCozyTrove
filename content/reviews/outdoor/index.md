@@ -1,13 +1,13 @@
 ---
 layout: base
-title: "Outdoor Gear Reviews & Guides | MyCozyTrove"
-description: "Outdoor gear reviews and guides for hikers, campers, and backcountry travelers. Covers portable power, navigation, and field equipment evaluated on real-world performance."
+title: "Camping Gear & Outdoor Equipment Reviews | MyCozyTrove"
+description: "Camp stoves, portable showers, camp kitchen gear, and outdoor accessories reviewed for real-world use."
 eleventyExcludeFromCollections: true
 ---
 
-# Outdoor
+# Outdoor Camping Equipment
 
-Gear for hikers, campers, and backcountry travelers — evaluated on what it actually does in the field.
+Everything you set up, light, cook on, or clean up with. Stoves, portable showers, camp kitchen systems, and outdoor accessories reviewed against how they actually perform at a campsite.
 
 <ul>
 {% for post in collections.outdoorReviews %}

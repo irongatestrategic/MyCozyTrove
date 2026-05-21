@@ -1,13 +1,13 @@
 ---
 layout: base
 title: "Camping Water Filtration Reviews | MyCozyTrove"
-description: "Water filters, purifiers, and treatment options for backpacking and camp use. Evaluated on flow rate, weight, and filter life for field conditions."
+description: "Water filters, purifiers, and treatment systems reviewed for backpacking, fishing trips, and extended camp use."
 eleventyExcludeFromCollections: true
 ---
 
-# Water
+# Camping Water Filtration
 
-Filters, purifiers, and water treatment for backcountry and camp use — evaluated on flow rate, weight, and reliability in the field.
+The right filter depends on your group size, trip length, and water source. Filters, gravity systems, and purifiers reviewed for real camp conditions.
 
 <ul>
 {% for post in collections.waterReviews %}
