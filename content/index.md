@@ -5,72 +5,15 @@ title: MyCozyTrove - Fishing, Camping & Outdoor Gear Reviews
 description: Honest gear reviews for fishermen, campers, and outdoor enthusiasts. Real experience from 20+ years in Mississippi and Alabama wilderness. No BS.
 ---
 
-<div id="featured-reviews">
+## Browse by Category
 
-## Featured Gear Reviews
-
-### Jackery Explorer 300 Plus Portable Power Station
-**Weekend backup power that actually works**
-
-Tested on camping trips and remote fishing spots. 288Wh capacity powers CPAPs, phones, lights, and 12V coolers without idling your truck all night. LiFePO4 battery lasts 3,000+ cycles.
-
-[Read full review →](/reviews/power/jackery-explorer-300-plus/)
-
----
-
-### Jackery 1500 Ultra vs. 2000 Plus: Which Power Station Belongs in Your Kit?
-**IP65 portability vs. expandable basecamp capacity — the comparison**
-
-Moving camp every day or setting up for the week? These two units share the same LFP chemistry but serve completely different mission profiles. Here's how to pick the right one before you leave the driveway.
-
-[Read the comparison →](/reviews/power/jackery-1500-ultra-vs-2000-plus/)
-
----
-
-### Xtratuf Legacy Fishing Boots
-**The gold standard deck boots fishermen actually wear**
-
-15-inch neoprene construction, Chevron sole that grips wet surfaces. Tested on Mississippi boat decks, muddy banks, and Alabama riverbanks. These boots last 3-5 years of hard use.
-
-[Read full review →](/reviews/gear/xtratuf-fishing-boots/)
-
----
-
-### Xtratuf Legacy 12" vs. 15": Choosing the Right Boot for Your Water
-**Same legendary construction, different coverage — here's how to decide**
-
-The 12" handles dock, deck, and casual bank fishing. The 15" is for wading, marsh, and unpredictable water depth. Both use triple-dipped neoprene. The choice comes down to where you fish.
-
-[Read the comparison →](/reviews/gear/xtratuf-legacy-12-vs-15/)
-
----
-
-### Piscifun Fishing Backpack
-**Organized tackle storage at $50**
-
-Rod holders, MOLLE webbing, 20L capacity fits 4-6 tackle boxes. Perfect for bank fishermen and kayak anglers who need hands-free gear transport. Tested on multi-mile hikes to remote fishing spots.
-
-[Read full review →](/reviews/gear/piscifun-fishing-backpack/)
-
----
-
-### Kings Camo Hunter Series Jacket
-**Hunting-grade durability for outdoor use**
-
-Quiet fabric, articulated sleeves, weather protection. Tested in 30-60°F conditions from spring bass fishing to late fall camping. One jacket that handles three seasons.
-
-[Read full review →](/reviews/gear/kings-camo-outdoor-jacket/)
-
----
-
-### Survival Frog Solo Bivy Tent
-**Ultralight shelter for backpackers and boondockers**
-
-2.5 pounds, packs to football size. My brother uses this for boondocking trips - hiking until he finds the right spot. Sets up in 5 minutes, handles backcountry weather.
-
-[Read full review →](/reviews/gear/survival-frog-solo-bivy-tent/)
-
-</div>
+- [Power & Portable Energy](/reviews/power/) &mdash; Portable power stations, solar chargers, camping electronics
+- [Fishing Gear](/reviews/fishing/) &mdash; Boots, tackle storage, rods, reels, accessories
+- [Camping Equipment](/reviews/camping/) &mdash; Tents, sleeping systems, camp lighting, cookware
+- [Outdoor Gear](/reviews/outdoor/) &mdash; Packs, tools, field equipment
+- [Backpacks](/reviews/backpacks/) &mdash; Fishing backpacks, hiking packs, school and travel
+- [Outdoor Apparel](/reviews/clothing/) &mdash; Jackets, boots, layering systems, weather protection
+- [Water & Hydration](/reviews/water/) &mdash; Filters, purification, hydration systems
 
 ---
 
@@ -87,7 +30,7 @@ Most outdoor gear reviews come from people who test products for a weekend and m
 ## Our Testing Standards
 
 ### Real-World Use
-We don't write reviews from product descriptions—we use gear on actual fishing trips, camping weekends, and backcountry hikes. Performance on the water and in the woods matters more than marketing claims.
+We don't write reviews from product descriptions &mdash; we use gear on actual fishing trips, camping weekends, and backcountry hikes. Performance on the water and in the woods matters more than marketing claims.
 
 ### Long-Term Testing
 First impressions lie. We test gear over multiple trips, through different seasons and conditions. Equipment that works initially but fails after two months doesn't get recommendations.
@@ -97,21 +40,10 @@ Perfect products don't exist. Every review includes what the product *cannot* do
 
 ---
 
-## Get Started
-
-Browse reviews by category:
-
-- [Power & Portable Energy](/reviews/power/) - Portable power stations, solar chargers, camping electronics
-- [Fishing Gear](/reviews/fishing/) - Boots, tackle storage, rods, reels, accessories
-- [Camping Equipment](/reviews/camping/) - Tents, sleeping systems, camp lighting, cookware
-- [Outdoor Apparel](/reviews/gear/) - Jackets, boots, layering systems, weather protection
-
----
-
 ## Affiliate Disclosure
 
 MyCozyTrove participates in affiliate programs. When you purchase through our links, we earn a commission at no additional cost to you.
 
-**Our promise:** We recommend products we genuinely use and trust. Affiliate relationships never influence our honest assessments. If gear doesn't perform, we say so clearly—regardless of commission rates.
+**Our promise:** We recommend products we genuinely use and trust. Affiliate relationships never influence our honest assessments. If gear doesn't perform, we say so clearly &mdash; regardless of commission rates.
 
 We value your trust more than any affiliate payment.

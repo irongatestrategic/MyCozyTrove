@@ -1,17 +1,79 @@
 ---
+layout: null
 permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for page in collections.all %}
-  {%- if not page.data.eleventyExcludeFromCollections %}
+
   <url>
-    <loc>{{ site.url }}{{ page.url | url }}</loc>
-    <lastmod>{{ page.date | dateToRfc3339 }}</lastmod>
+    <loc>https://mycozytrove.com/</loc>
     <changefreq>weekly</changefreq>
-    <priority>{% if page.url == '/' %}1.0{% else %}0.8{% endif %}</priority>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://mycozytrove.com/reviews/power/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/reviews/fishing/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/reviews/camping/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/reviews/outdoor/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/reviews/backpacks/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/reviews/clothing/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/reviews/water/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/pages/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/pages/affiliate-disclosure/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mycozytrove.com/pages/privacy-policy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  {%- for post in collections.all %}
+  {%- if post.url and post.url != "/" %}
+  <url>
+    <loc>https://mycozytrove.com{{ post.url }}</loc>
+    {%- if post.date %}
+    <lastmod>{{ post.date | dateToRfc3339 }}</lastmod>
+    {%- endif %}
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   {%- endif %}
-{%- endfor %}
+  {%- endfor %}
+
 </urlset>

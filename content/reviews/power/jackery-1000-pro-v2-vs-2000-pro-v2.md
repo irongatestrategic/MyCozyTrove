@@ -19,7 +19,7 @@ slug: jackery-1000-pro-v2-vs-2000-pro-v2
 
 *Jeff M. evaluates products based on technical specifications, manufacturer data, and aggregated owner feedback rather than direct long-term personal use.*
 
-Both units in Jackery's Pro v2 series share the same LiFePO4 chemistry and fast-charge architecture, so the choice between them isn't about quality — it's about weight, capacity, and what you're actually running at camp [best portable power stations for camping](/reviews/power/best-portable-power-station-camping/). The 1000 v2 is a manageable 24 lbs with enough storage for a well-equipped weekend. The 2000 Plus nearly doubles the capacity at 39.5 lbs, which changes what's possible in the kitchen but changes what's practical to carry.
+Both units in Jackery's Pro v2 series share the same LiFePO4 chemistry and fast-charge architecture, so the choice between them isn't about quality — it's about weight, capacity, and what you're actually running at camp [best portable power stations for camping](/reviews/power/best-portable-power-station-camping/). The 1000 v2 is a manageable 24 lbs with enough storage for a well-equipped weekend [best portable power stations for camping](/reviews/power/best-portable-power-station-camping/). The 2000 Plus nearly doubles the capacity at 39.5 lbs, which changes what's possible in the kitchen but changes what's practical to carry.
 
 > For help deciding whether a power station alone covers your setup [Solar Panels vs. Portable Power Stations guide](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/) or whether you need solar panels too, see our [Solar Panels vs. Portable Power Stations guide](/outdoor/solar-panels-vs-portable-power-stations-camp-setup/).
 
@@ -27,7 +27,7 @@ Both units in Jackery's Pro v2 series share the same LiFePO4 chemistry and fast-
 
 ## Quick Verdict
 
-**Best for most campers: Jackery Explorer 1000 v2.** At 23.8 lbs with a 1,500W inverter and 800W solar input ceiling, it handles a 12V fridge, device charging, and small appliances without making you think twice about carrying it.
+**Best for most campers: Jackery Explorer 1000 v2.** At 23.8 lbs with a 1,500W inverter and 800W solar input ceiling, it handles a 12V fridge, device charging, and small appliances without making you think twice [12V camping appliances](/reviews/camping/traverseon-20000mah-camping-fan-review/) about carrying it.
 
 **Best for high-draw overlanders: Jackery Explorer 2000 Plus.** If you're running an induction cooktop, a travel microwave, or an electric kettle — or staying off-grid for 4+ days — the 2,042Wh capacity and 2,200W output are the practical floor.
 
