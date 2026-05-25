@@ -72,8 +72,8 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("content/reviews/water/*.md");
   });
 
-  eleventyConfig.addCollection("outdoorReviews", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("content/reviews/outdoor/*.md");
+   eleventyConfig.addCollection("tentReviews", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/reviews/tents/*.md");
   });
 
   eleventyConfig.addCollection("backpackReviews", function(collectionApi) {

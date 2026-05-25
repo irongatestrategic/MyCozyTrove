@@ -84,14 +84,31 @@ function crawl() {
   log('=== MCT LINK CRAWLER STARTING ===');
 
   const files = [];
+  const hubs = {};  // category -> hub data
   const categories = fs.readdirSync(CONTENT_DIR).filter(f => {
     return fs.statSync(path.join(CONTENT_DIR, f)).isDirectory();
   });
 
-  // Collect all markdown files
+  // Collect all markdown files — spokes AND hubs
   for (const category of categories) {
     const categoryDir = path.join(CONTENT_DIR, category);
-    const mdFiles = fs.readdirSync(categoryDir).filter(f => f.endsWith('.md') && f !== 'index.md');
+    const allMd = fs.readdirSync(categoryDir).filter(f => f.endsWith('.md'));
+
+    // Load hub (index.md) separately
+    if (allMd.includes('index.md')) {
+      const hubPath = path.join(categoryDir, 'index.md');
+      const hubContent = fs.readFileSync(hubPath, 'utf8');
+      hubs[category] = {
+        filePath: hubPath,
+        category,
+        url: `${BASE_URL}/${category}/`,
+        content: hubContent,
+        outboundLinks: extractLinks(hubContent)
+      };
+    }
+
+    // Load spoke articles
+    const mdFiles = allMd.filter(f => f !== 'index.md');
     for (const file of mdFiles) {
       const filePath = path.join(categoryDir, file);
       const content = fs.readFileSync(filePath, 'utf8');
@@ -102,9 +119,10 @@ function crawl() {
     }
   }
 
-  log(`Found ${files.length} markdown files across ${categories.length} categories`);
+  log(`Found ${files.length} articles across ${categories.length} categories`);
+  log(`Found ${Object.keys(hubs).length} hub (index.md) pages`);
 
-  // Build link map
+  // Build link map (spokes only — hubs are validated separately)
   const linkMap = {};
   for (const file of files) {
     linkMap[file.url] = {
@@ -114,10 +132,9 @@ function crawl() {
     };
   }
 
-  // Calculate inbound links
+  // Calculate inbound links between spokes
   for (const [url, data] of Object.entries(linkMap)) {
     for (const link of data.outboundLinks) {
-      // Normalize link — strip trailing slash variations
       const normalized = link.endsWith('/') ? link : link + '/';
       if (linkMap[normalized]) {
         linkMap[normalized].inboundLinks.push(url);
@@ -125,64 +142,146 @@ function crawl() {
     }
   }
 
-  // Identify orphans
+  // ─── ORPHAN DETECTION (unchanged) ─────────────────────────────────────────
+
   const orphans = Object.values(linkMap).filter(f => {
     const hasNoInbound = f.inboundLinks.length === 0;
     const hasNoOutbound = f.outboundLinks.filter(l => l.startsWith('/reviews')).length === 0;
     return hasNoInbound || hasNoOutbound;
   });
 
+  // ─── HUB VALIDATION (new) ─────────────────────────────────────────────────
+
+  // 1. Spokes missing a link back up to their category hub
+  const missingHubLink = Object.values(linkMap).filter(f => {
+    const hubUrl = `${BASE_URL}/${f.category}/`;
+    return !f.outboundLinks.some(l => {
+      const normalized = l.endsWith('/') ? l : l + '/';
+      return normalized === hubUrl;
+    });
+  });
+
+  // 2. Hubs missing links down to their spokes
+  // Note: if hub uses a Nunjucks collection loop, links won't appear
+  // as literal URLs — flag those hubs so Jeff knows to verify manually.
+  const spokesNotLinkedFromHub = [];
+  for (const [category, hub] of Object.entries(hubs)) {
+    const spokes = Object.values(linkMap).filter(f => f.category === category);
+    const hubLinks = hub.outboundLinks.map(l => l.endsWith('/') ? l : l + '/');
+    const usesNunjucksLoop = hub.content.includes('for post in collections.');
+
+    for (const spoke of spokes) {
+      const linkedFromHub = hubLinks.includes(spoke.url);
+      if (!linkedFromHub) {
+        spokesNotLinkedFromHub.push({
+          ...spoke,
+          hubUrl: hub.url,
+          usesNunjucksLoop
+        });
+      }
+    }
+  }
+
   // ─── REPORT ───────────────────────────────────────────────────────────────
 
   console.log('\n' + '═'.repeat(60));
   console.log('  MCT INTERNAL LINK REPORT');
   console.log('═'.repeat(60));
-  console.log(`  Total articles:     ${files.length}`);
-  console.log(`  Orphaned articles:  ${orphans.length}`);
-  console.log(`  Well-linked:        ${files.length - orphans.length}`);
+  console.log(`  Total articles:        ${files.length}`);
+  console.log(`  Orphaned articles:     ${orphans.length}`);
+  console.log(`  Missing hub link ↑:    ${missingHubLink.length}`);
+  console.log(`  Not linked from hub ↓: ${spokesNotLinkedFromHub.filter(s => !s.usesNunjucksLoop).length} confirmed, ${spokesNotLinkedFromHub.filter(s => s.usesNunjucksLoop).length} need manual check (Nunjucks loop)`);
+  console.log(`  Well-linked:           ${files.length - orphans.length}`);
   console.log('═'.repeat(60));
 
-  if (orphans.length === 0) {
-    console.log('\n✅ No orphans found. All articles are linked.\n');
-    return { linkMap, orphans: [] };
+  // Orphan report
+  if (orphans.length > 0) {
+    console.log('\n📋 ORPHANED ARTICLES (no peer links at all):\n');
+    const noInbound = orphans.filter(o => o.inboundLinks.length === 0);
+    const noOutbound = orphans.filter(o =>
+      o.outboundLinks.filter(l => l.startsWith('/reviews')).length === 0
+    );
+    if (noInbound.length > 0) {
+      console.log('  ❌ NO INBOUND LINKS (nothing points to these):');
+      for (const o of noInbound) {
+        console.log(`     ${o.url}`);
+        console.log(`     Title: ${o.fm.title || 'unknown'}`);
+        console.log(`     Category: ${o.category}`);
+        console.log();
+      }
+    }
+    if (noOutbound.length > 0) {
+      console.log('  ⚠️  NO OUTBOUND INTERNAL LINKS (these link nowhere):');
+      for (const o of noOutbound) {
+        console.log(`     ${o.url}`);
+        console.log(`     Title: ${o.fm.title || 'unknown'}`);
+        console.log();
+      }
+    }
+  } else {
+    console.log('\n✅ No orphans found. All articles have peer links.\n');
   }
 
-  console.log('\n📋 ORPHANED ARTICLES:\n');
+  // Hub link report — spokes not linking up
+  if (missingHubLink.length > 0) {
+    console.log('\n🔺 SPOKES MISSING LINK UP TO CATEGORY HUB:\n');
+    console.log('  These articles do not link back to their category index page.');
+    console.log('  Each article should include a link to /reviews/[category]/\n');
+    for (const f of missingHubLink) {
+      console.log(`  ↑ ${f.url}`);
+      console.log(`     Title:    ${f.fm.title || 'unknown'}`);
+      console.log(`     Hub:      ${BASE_URL}/${f.category}/`);
+      console.log();
+    }
+  } else {
+    console.log('✅ All articles link back to their category hub.\n');
+  }
 
-  const noInbound = orphans.filter(o => o.inboundLinks.length === 0);
-  const noOutbound = orphans.filter(o =>
-    o.outboundLinks.filter(l => l.startsWith('/reviews')).length === 0
-  );
+  // Hub link report — hubs not linking down
+  const confirmedMissing = spokesNotLinkedFromHub.filter(s => !s.usesNunjucksLoop);
+  const nunjucksMissing = spokesNotLinkedFromHub.filter(s => s.usesNunjucksLoop);
 
-  if (noInbound.length > 0) {
-    console.log('  ❌ NO INBOUND LINKS (nothing points to these):');
-    for (const o of noInbound) {
-      console.log(`     ${o.url}`);
-      console.log(`     Title: ${o.fm.title || 'unknown'}`);
-      console.log(`     Category: ${o.category}`);
+  if (confirmedMissing.length > 0) {
+    console.log('\n🔻 SPOKES NOT LINKED FROM HUB (confirmed — hub uses manual links):\n');
+    for (const f of confirmedMissing) {
+      console.log(`  ↓ ${f.url}`);
+      console.log(`     Title: ${f.fm.title || 'unknown'}`);
+      console.log(`     Hub:   ${f.hubUrl}`);
       console.log();
     }
   }
 
-  if (noOutbound.length > 0) {
-    console.log('  ⚠️  NO OUTBOUND INTERNAL LINKS (these link nowhere):');
-    for (const o of noOutbound) {
-      console.log(`     ${o.url}`);
-      console.log(`     Title: ${o.fm.title || 'unknown'}`);
+  if (nunjucksMissing.length > 0) {
+    console.log('\n⚠️  SPOKES TO VERIFY MANUALLY (hub uses Nunjucks collection loop):\n');
+    console.log('  These hubs auto-generate links via {% for post in collections.X %}.');
+    console.log('  Verify the collection name in .eleventy.js matches the category folder.\n');
+    const byCategory = {};
+    for (const f of nunjucksMissing) {
+      if (!byCategory[f.category]) byCategory[f.category] = [];
+      byCategory[f.category].push(f);
+    }
+    for (const [cat, items] of Object.entries(byCategory)) {
+      console.log(`  Category: ${cat} (${items.length} articles — verify collection wiring)`);
+      console.log(`  Hub: ${BASE_URL}/${cat}/`);
       console.log();
     }
   }
 
-  // Save report to log
-  log(`Orphans found: ${orphans.length}`);
+  // Save to log
+  log(`Orphans: ${orphans.length} | Missing hub link ↑: ${missingHubLink.length} | Not linked from hub ↓: ${spokesNotLinkedFromHub.length}`);
   for (const o of orphans) {
-    log(`  ORPHAN: ${o.url} | inbound: ${o.inboundLinks.length} | outbound internal: ${o.outboundLinks.filter(l => l.startsWith('/reviews')).length}`);
+    log(`  ORPHAN: ${o.url} | inbound: ${o.inboundLinks.length} | outbound: ${o.outboundLinks.filter(l => l.startsWith('/reviews')).length}`);
+  }
+  for (const f of missingHubLink) {
+    log(`  MISSING HUB LINK ↑: ${f.url} should link to ${BASE_URL}/${f.category}/`);
   }
 
   console.log('═'.repeat(60));
-  console.log('\nRun: node mct-link-crawler.js fix\n  to generate AI link suggestions for these orphans.\n');
+  if (orphans.length > 0) {
+    console.log('\nRun: node mct-link-crawler.js fix\n  to generate AI link suggestions for orphans.\n');
+  }
 
-  return { linkMap, orphans };
+  return { linkMap, hubs, orphans, missingHubLink, spokesNotLinkedFromHub };
 }
 
 // ─── FIXER ───────────────────────────────────────────────────────────────────
@@ -200,6 +299,9 @@ async function fix() {
   log('=== MCT LINK FIXER STARTING ===');
 
   const { linkMap, orphans } = crawl();
+  // Note: hub validation issues (missingHubLink, spokesNotLinkedFromHub) are
+  // reported by crawl() above. The fixer handles spoke orphans only — hub
+  // index pages use Nunjucks loops and require manual fixes.
 
   if (orphans.length === 0) {
     console.log('Nothing to fix.\n');
