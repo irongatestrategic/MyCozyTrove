@@ -129,8 +129,8 @@ If you're not ready to budget for the rack, don't buy the tent yet. The rack is 
 ## Related
 
 - [INTERNAL_LINK_NEEDED — What to Look For in a 4-Season Rooftop Tent] (lateral — sibling answer page, rooftop-tent-guide cluster)
-- [INTERNAL_LINK_NEEDED — Tacoma Bed Rack Options for Overlanding] (lateral — sibling answer page, rooftop-tent-guide cluster)
-- [INTERNAL_LINK_NEEDED — Rooftop Tent Buying Guide] (hub — L1 or L2 hub page, rooftop-tent-guide cluster)
+- [Tacoma Bed Rack Options for Overlanding](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/) (lateral — sibling answer page, rooftop-tent-guide cluster)
+- [Rooftop Tent Buying Guide](/reviews/tents/rooftop-tent-buying-guide/) (hub — L1 or L2 hub page, rooftop-tent-guide cluster)
 
 <!--PROCESSING_SUMMARY
 Processed: rooftop-tent-tacoma-4runner-compatibility.md

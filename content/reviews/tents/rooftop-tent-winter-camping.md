@@ -117,7 +117,7 @@ If your winter use case fits within those parameters, the setup works and works 
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — winter camping gear checklist for vehicle-supported trips]
+- [winter camping gear checklist for vehicle-supported trips](/reviews/tents/rooftop-tent-winter-camping/)
 - [INTERNAL_LINK_NEEDED — sleeping bag temperature ratings explained: what the numbers actually mean]
 - [INTERNAL_LINK_NEEDED — rooftop tent guide hub: how to choose, set up, and maintain an RTT]
 

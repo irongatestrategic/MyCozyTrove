@@ -155,7 +155,7 @@ The calculation shifts if you're at 30+ nights annually, frequently camp at disp
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — rooftop tent buying guide hub page, cluster: rooftop-tent-guide]
+- [rooftop tent buying guide hub page, cluster: rooftop-tent-guide](/reviews/tents/rooftop-tent-buying-guide/)
 - [INTERNAL_LINK_NEEDED — hardshell vs softshell rooftop tent comparison, cluster: rooftop-tent-guide]
 - [INTERNAL_LINK_NEEDED — best 3-season ground tents for car camping, category: tents]
 

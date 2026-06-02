@@ -126,7 +126,7 @@ If your calculated static load exceeds any component's rating, or your vehicle h
 ## Related
 
 - [INTERNAL_LINK_NEEDED — Soft Shell vs. Hard Shell Rooftop Tents: Which Is Right for Your Setup]
-- [INTERNAL_LINK_NEEDED — Essential Accessories for Rooftop Tent Camping]
+- [Essential Accessories for Rooftop Tent Camping](/reviews/tents/rooftop-tent-accessories-worth-buying/)
 - [INTERNAL_LINK_NEEDED — Rooftop Tent Guide Hub — rooftop-tent-guide]
 
 <!--PROCESSING_SUMMARY

@@ -170,7 +170,7 @@ Neither tent is the right choice if your vehicle's static load rating and rack c
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — Best Roof Racks for Rooftop Tents: load ratings and vehicle compatibility]
+- [Best Roof Racks for Rooftop Tents: load ratings and vehicle compatibility](/reviews/tents/rooftop-tent-vehicle-compatibility/)
 - [INTERNAL_LINK_NEEDED — Ground Tent vs. Rooftop Tent: weight, cost, and campsite trade-offs]
 - [INTERNAL_LINK_NEEDED — Car Camping Gear Essentials: what actually earns its place in the kit]
 
@@ -191,17 +191,7 @@ Information Gain Source: Apollo A86 M's 4.5-inch mattress spec called out explic
 END_PROCESSING_SUMMARY-->
 
 **Related:**
-- [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
-- [How Long Do Rooftop Tents Last? And What Kills Them Early](/reviews/tents/how-long-do-rooftop-tents-last/)
 - [Meedo Apolle M Review: The Rooftop Tent for Smaller Rigs](/reviews/tents/meedo-apolle-m-review/)
-- [Meedo Apollo A86 M Review: A $1100 Rooftop Tent That Earns Its Price](/reviews/tents/meedo-apollo-a86-review/)
-- [Meedo Apollo vs Zeus: Which Rooftop Tent Is Right for Your Rig?](/reviews/tents/meedo-apollo-vs-zeus-rooftop-tent/)
-- [Meedo Zeus I M Hard Shell Review: 60-Second Setup Changes Everything](/reviews/tents/meedo-zeus-hard-shell-review/)
-- [Rooftop Tent Accessories That Are Actually Worth It](/reviews/tents/rooftop-tent-accessories-worth-buying/)
 - [Rooftop Tent on a Tacoma or 4Runner: What Fits and What You Need First](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
-- [Does Your Truck or SUV Actually Support a Rooftop Tent?](/reviews/tents/rooftop-tent-vehicle-compatibility/)
 - [Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
 - [Rooftop Tent in Winter: What Actually Changes](/reviews/tents/rooftop-tent-winter-camping/)
-- [Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
-- [When Is a Rooftop Tent Actually Worth the Money?](/reviews/tents/when-rooftop-tent-worth-it/)
-- [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)
