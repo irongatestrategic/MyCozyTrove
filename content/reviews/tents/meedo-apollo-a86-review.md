@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Meedo Apollo A86 M Review: A $1100 Rooftop Tent That Earns Its Price"
-description: "Meedo Apollo A86 M vs Zeus I M: soft-shell vs hard-shell RTT compared on weight, setup time, and price so you buy the right one."
+description: "Meedo Apollo A86 M vs Zeus I M [soft-shell vs hard-shell RTT comparison](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/): soft-shell vs hard-shell RTT compared on weight, setup time, and price [Apollo A86 M vs Zeus I M comparison](/reviews/tents/meedo-apollo-vs-zeus-rooftop-tent/) so you buy the right one."
 date: 2026-06-02
 author: Jeff M.
 category: tents
@@ -14,7 +14,7 @@ cluster: rooftop-tent-guide
 cluster_layer: L4
 ---
 
-The Meedo Apollo A86 M and Zeus I M solve different problems. If you move camp frequently and your roof rack has a dynamic load rating under 165 lbs, the Apollo A86 M is the correct choice. If you arrive late, need shelter in under 60 seconds, and your vehicle can handle 170 lbs on the move, the Zeus I M is worth the extra $200. This article gives you the criteria to identify which situation you're in.
+The Meedo Apollo A86 M and Zeus I M solve different problems. If you move camp frequently and your roof rack has a dynamic load rating under 165 lbs [your vehicle's dynamic load rating](/reviews/tents/rooftop-tent-vehicle-compatibility/), the Apollo A86 M is the correct choice. If you arrive late, need shelter in under 60 seconds, and your vehicle can handle 170 lbs on the move, the Zeus I M is worth the extra $200. This article gives you the criteria to identify which situation you're in.
 
 **<a href="https://tidd.ly/4dXRbSn" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Apollo A86 M</a>**
 
@@ -24,7 +24,7 @@ The Meedo Apollo A86 M and Zeus I M solve different problems. If you move camp f
 
 | Feature | Meedo Apollo A86 M | Meedo Zeus I M |
 | :--- | :--- | :--- |
-| Shell Type | Soft shell (clamshell) | Hard shell |
+| Shell Type | Soft shell (clamshell) | Hard shell [soft-shell vs hard-shell RTT comparison](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/) |
 | Setup Time | 3–5 minutes | ~60 seconds |
 | Waterproofing | 3000MM hydrostatic head | 3000MM hydrostatic head + rigid shell |
 | Season Rating | 4-season | 4-season |

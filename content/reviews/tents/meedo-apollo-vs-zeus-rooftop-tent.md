@@ -84,6 +84,9 @@ Solo angler, 300 miles, three fishing spots, two nights. Setup and breakdown at 
 
 ## Meedo Zeus I M
 
+For a full breakdown of the Zeus, see the [Meedo Zeus I M Hard Shell Review](/reviews/tents/meedo-zeus-hard-shell-review/).
+
+
 The Zeus is a hard-shell clamshell. Unlatch, push, and gas struts open it in roughly 60 seconds. Same process in reverse to close. The hard shell eliminates the wet-pack problem entirely — close it damp, it's not absorbing moisture into fabric walls. It also deflects branches, hail, and trail debris in ways a soft shell can't.
 
 The tradeoff is weight: 154 lbs (70 kg). The math on rack load matters here. Two adults at 180 lbs each add 360 lbs. Add the Zeus at 154 lbs and you need a rack and vehicle roof rated for at least 514 lbs static load at the mount points. Most quality aftermarket racks (Rhino-Rack, Front Runner, Thule overland systems) handle this comfortably — but verify your specific rack model, not just the brand. Factory crossbars rated at 150–165 lbs dynamic load are not equivalent and should not be used.

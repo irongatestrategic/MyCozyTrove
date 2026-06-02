@@ -195,3 +195,4 @@ END_PROCESSING_SUMMARY-->
 - [Rooftop Tent on a Tacoma or 4Runner: What Fits and What You Need First](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
 - [Rooftop Tent in Winter: What Actually Changes](/reviews/tents/rooftop-tent-winter-camping/)
+- [Meedo Apollo vs Zeus: Which Rooftop Tent Is Right for Your Rig?](/reviews/tents/meedo-apollo-vs-zeus-rooftop-tent/)

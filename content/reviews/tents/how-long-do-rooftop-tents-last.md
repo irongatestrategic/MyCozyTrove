@@ -14,7 +14,7 @@ cluster: rooftop-tent-guide
 cluster_layer: L3
 ---
 
-A rooftop tent used roughly 10 nights per year and stored in a garage should last **8 to 12 years**. That range assumes consistent post-trip drying, no prolonged UV exposure during storage, and basic mechanical upkeep twice a year. Models built with polycotton fabric rated to 3000MM and aircraft-grade aluminum frames — like the Meedo Apollo A86 M — are built to reach the upper end of that range. Skip the maintenance and you can realistically cut that lifespan in half, primarily through fabric degradation and zipper failure.
+A rooftop tent used roughly 10 nights per year and stored in a garage should last **8 to 12 years**. That range assumes consistent post-trip drying, no prolonged UV exposure during storage, and basic mechanical upkeep twice a year [anti-condensation mats and maintenance gear](/reviews/tents/rooftop-tent-accessories-worth-buying/). Models built with polycotton fabric rated to 3000MM [whether a rooftop tent justifies the investment](/reviews/tents/when-rooftop-tent-worth-it/) and aircraft-grade aluminum frames — like the Meedo Apollo A86 M — are built to reach the upper end of that range. Skip the maintenance and you can realistically cut that lifespan in half, primarily through fabric degradation and zipper failure.
 
 **<a href="https://tidd.ly/4dXRbSn" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Apollo A86 M</a>**
 

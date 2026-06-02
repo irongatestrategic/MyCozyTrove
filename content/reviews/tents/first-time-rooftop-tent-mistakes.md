@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "What Nobody Tells You About Rooftop Tents Before You Buy"
-description: "RTTs cost more than the sticker price and strand your vehicle at camp. Here's what first-time buyers miss before spending $1,500+."
+description: "RTTs cost more than the sticker price [how long rooftop tents typically last](/reviews/tents/how-long-do-rooftop-tents-last/) and strand your vehicle at camp. Here's what first-time buyers miss before spending [rooftop tent accessories worth buying](/reviews/tents/rooftop-tent-accessories-worth-buying/) $1,500+."
 date: 2026-06-02
 author: Jeff M.
 category: tents
@@ -14,7 +14,7 @@ cluster: rooftop-tent-guide
 cluster_layer: L2
 ---
 
-A rooftop tent is probably not for you if you camp at established sites, take day trips from a fixed basecamp, or are working with a tight gear budget. It earns its keep when you're moving camp daily across varied terrain, need rapid deployment in remote locations, and your vehicle stays with you the whole time. If you match that profile, the **Meedo Zeus I M** (hard shell, under 60-second setup) and the **Meedo Apollo A86 M** (soft shell, 3–5 minutes, 130 lbs) are two specific options worth evaluating. If you don't match that profile, stop here — a quality ground tent will serve you better and cost several hundred dollars less.
+A rooftop tent is probably not for you if you camp at established sites, take day trips from a fixed basecamp, or are working with a tight gear budget. It earns its keep when you're moving camp daily across varied terrain, need rapid deployment in remote locations, and your vehicle stays with you the whole time [verify your vehicle's static load rating](/reviews/tents/rooftop-tent-vehicle-compatibility/). If you match that profile, the **Meedo Zeus I M** (hard shell, under 60-second setup) and the **Meedo Apollo A86 M** (soft shell, 3–5 minutes, 130 lbs) are two specific options worth evaluating. If you don't match that profile, stop here — a quality ground tent will serve you better and cost several hundred dollars less [ground tent will serve you better](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/).
 
 **<a href="https://tidd.ly/4vfb66m" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Zeus I M</a>**
 
