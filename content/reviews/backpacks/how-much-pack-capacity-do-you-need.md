@@ -12,6 +12,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: how-much-pack-capacity-do-you-need
+cluster: backpacking-packs-guide
+cluster_layer: L2
+article_type: QUESTION_CAPTURE
 ---
 
 # How Much Pack Capacity Do You Actually Need?

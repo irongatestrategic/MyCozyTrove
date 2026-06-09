@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: solar-panels-vs-portable-power-stations-camp-setup
+cluster: portable-power-guide
+cluster_layer: L2
+article_type: COMPARISON
 ---
 
 # Solar Panels vs. Portable Power Stations: What's the Right Camp Power Setup?

@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: best-ultralight-trout-setup
+cluster: freshwater-fishing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Best Ultralight Trout Setup: Ugly Stik GX2 Spinning Combo (Ultra Light)

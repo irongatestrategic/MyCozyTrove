@@ -142,7 +142,7 @@ If you primarily use established campgrounds, need the vehicle mobile at night, 
 
 - [INTERNAL_LINK_NEEDED — Guide to choosing an aftermarket roof rack for RTT use]
 - [INTERNAL_LINK_NEEDED — Best sleeping setups for dispersed camping]
-- [INTERNAL_LINK_NEEDED — MyCozyTrove tents category hub]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 
 <!--PROCESSING_SUMMARY
 Processed: when-rooftop-tent-worth-it.md

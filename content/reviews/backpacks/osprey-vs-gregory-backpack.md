@@ -12,6 +12,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: osprey-vs-gregory-backpack
+cluster: backpacking-packs-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Osprey Atmos AG LT 50 vs Gregory Maven 68: Which Pack Is Worth the Money?

@@ -13,6 +13,9 @@ tags:
 affiliate: false
 site: MyCozyTrove
 slug: solo-camping-sleep-system-guide
+cluster: solo-camping-gear-guide
+cluster_layer: L2
+article_type: AUTHORITY
 ---
 
 # How to Build a Solo Camping Sleep System That Actually Works

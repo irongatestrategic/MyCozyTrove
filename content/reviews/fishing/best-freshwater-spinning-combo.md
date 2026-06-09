@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: best-freshwater-spinning-combo
+cluster: freshwater-fishing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Best All-Around Freshwater Spinning Combo Under $150: Abu Garcia Max Elite

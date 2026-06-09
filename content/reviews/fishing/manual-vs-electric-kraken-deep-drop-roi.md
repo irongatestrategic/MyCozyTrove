@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: manual-vs-electric-kraken-deep-drop-roi
+cluster: saltwater-fishing-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System

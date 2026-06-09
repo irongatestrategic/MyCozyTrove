@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: survival-frog-solo-bivy-tent
+cluster: solo-camping-gear-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Survival Frog Solo Bivy 1-Person Tent Review: Ultralight Shelter for Backpackers

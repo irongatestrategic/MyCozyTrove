@@ -12,6 +12,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: best-solo-camping-gear-weekend-trips
+cluster: solo-camping-gear-guide
+cluster_layer: L1
+article_type: AUTHORITY
 ---
 
 # The Best Solo Camping Gear for Weekend Trips (2026 Guide)

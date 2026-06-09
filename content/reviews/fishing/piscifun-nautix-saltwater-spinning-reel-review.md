@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: piscifun-nautix-saltwater-spinning-reel-review
+cluster: saltwater-fishing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Piscifun NautiX Saltwater Spinning Reel Review: Why IPX5 Sealing and Aluminum Bodies Win

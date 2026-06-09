@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: do-i-need-snake-gaiters-for-camping
 article_type: QUESTION_CAPTURE
+cluster: fishing-camping-clothing-guide
+cluster_layer: L3
 ---
 
 # Do You Need Snake Gaiters for Camping? What Actually Protects You in the Field

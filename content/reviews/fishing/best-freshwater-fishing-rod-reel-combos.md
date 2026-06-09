@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: best-freshwater-fishing-rod-reel-combos
+cluster: freshwater-fishing-guide
+cluster_layer: L1
+article_type: AUTHORITY
 ---
 
 # Best Freshwater Fishing Rod and Reel Combos: What Actually Works

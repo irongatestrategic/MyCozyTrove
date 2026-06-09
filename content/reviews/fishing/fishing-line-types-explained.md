@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: fishing-line-types-explained
+cluster: freshwater-fishing-guide
+cluster_layer: L2
+article_type: AUTHORITY
 ---
 
 # Fishing Line Types Explained: Mono, Fluorocarbon, and Braid

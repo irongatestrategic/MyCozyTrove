@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: abu-garcia-vs-shakespeare-spinning
+cluster: freshwater-fishing-guide
+cluster_layer: L4
+article_type: COMPARISON
 ---
 
 # Abu Garcia Gen Ike vs Ugly Stik GX2: Entry-Level Spinning Combo Comparison

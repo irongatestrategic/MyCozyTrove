@@ -15,6 +15,9 @@ site: MyCozyTrove
 slug: jackery-explorer-1000-2000-v2-camping-review
 layout: base
 page_type: review
+cluster: portable-power-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Jackery Explorer 1000 v2 and 2000 v2 Reviewed for Camping and Outdoor Use

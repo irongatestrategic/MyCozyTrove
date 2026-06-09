@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: xtratuf-fishing-boots
+cluster: fishing-camping-clothing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Xtratuf Fishing Boots Review: Are They Worth the Hype?

@@ -145,7 +145,7 @@ Neither tent is worth buying without an aftermarket rack rated for the dynamic l
 
 - [INTERNAL_LINK_NEEDED — what to look for in a 4-season rooftop tent]
 - [INTERNAL_LINK_NEEDED — rooftop tent vs. ground tent: which is right for you]
-- [INTERNAL_LINK_NEEDED — rooftop tent guide hub]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 
 <!--PROCESSING_SUMMARY
 Processed: meedo-apollo-a86-review.md

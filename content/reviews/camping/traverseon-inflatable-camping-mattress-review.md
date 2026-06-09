@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: traverseon-inflatable-camping-mattress-review
+cluster: solo-camping-gear-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Traverseon Inflatable Camping Mattress Review: R-9.5 Insulation for Real Ground Conditions

@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: jackery-explorer-1000-v2-review
+cluster: portable-power-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Jackery Explorer 1000 V2 Review: Solo Camping Power Budget Analysis

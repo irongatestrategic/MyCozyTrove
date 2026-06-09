@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: best-backpacking-packs
+cluster: backpacking-packs-guide
+cluster_layer: L1
+article_type: AUTHORITY
 ---
 
 # Best Backpacking Packs for Hiking and Camping (2026)

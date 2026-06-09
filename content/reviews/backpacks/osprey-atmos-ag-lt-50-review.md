@@ -12,6 +12,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: osprey-atmos-ag-lt-50-review
+cluster: backpacking-packs-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Osprey Atmos AG LT 50 Review: Is the Anti-Gravity Suspension Worth It?

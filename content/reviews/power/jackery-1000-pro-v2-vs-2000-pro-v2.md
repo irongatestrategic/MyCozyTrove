@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: jackery-1000-pro-v2-vs-2000-pro-v2
+cluster: portable-power-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Jackery Explorer 1000 v2 vs. 2000 Plus: Which Is Right for Your Camp Setup?

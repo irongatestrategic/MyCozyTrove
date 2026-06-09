@@ -13,6 +13,9 @@ affiliate: false
 site: MyCozyTrove
 slug: when-ultralight-gear-worth-it
 permalink: /reviews/camping/when-ultralight-gear-worth-it/
+cluster: solo-camping-gear-guide
+cluster_layer: L2
+article_type: BUY_DO_NOT_BUY
 ---
 
 # When Ultralight Gear Is Worth the Premium (And When It Isn't)

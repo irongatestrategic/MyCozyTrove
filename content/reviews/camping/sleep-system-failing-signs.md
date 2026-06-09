@@ -13,6 +13,9 @@ affiliate: false
 site: MyCozyTrove
 slug: sleep-system-failing-signs
 permalink: /reviews/camping/sleep-system-failing-signs/
+cluster: solo-camping-gear-guide
+cluster_layer: L3
+article_type: TROUBLESHOOTING
 ---
 
 # 5 Signs Your Sleep System Is Failing You in the Field

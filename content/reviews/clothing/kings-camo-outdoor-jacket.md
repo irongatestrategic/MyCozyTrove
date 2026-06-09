@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: kings-camo-outdoor-jacket
+cluster: fishing-camping-clothing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Kings Camo Outdoor Jacket Review: Tough Enough for the Woods, Comfortable Enough for the Truck

@@ -125,9 +125,9 @@ If your calculated static load exceeds any component's rating, or your vehicle h
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — Soft Shell vs. Hard Shell Rooftop Tents: Which Is Right for Your Setup]
+- [Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
 - [Essential Accessories for Rooftop Tent Camping](/reviews/tents/rooftop-tent-accessories-worth-buying/)
-- [INTERNAL_LINK_NEEDED — Rooftop Tent Guide Hub — rooftop-tent-guide]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 
 <!--PROCESSING_SUMMARY
 Processed: rooftop-tent-vehicle-compatibility.md

@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: jackery-explorer-300-plus
+cluster: portable-power-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Jackery Explorer 300 Plus Portable Power Station Review

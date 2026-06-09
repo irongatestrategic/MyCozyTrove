@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: piscifun-fishing-backpack
+cluster: saltwater-fishing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Piscifun Fishing Backpack Review: Organized Tackle Without the Premium Price

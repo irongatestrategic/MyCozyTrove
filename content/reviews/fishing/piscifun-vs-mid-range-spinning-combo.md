@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: piscifun-vs-mid-range-spinning-combo
+cluster: freshwater-fishing-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Piscifun NautiX vs Abu Garcia Max Elite: Where the Line Is

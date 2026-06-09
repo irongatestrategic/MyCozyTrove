@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: which-fishing-boot-do-i-need
 article_type: COMMERCIAL_DECISION
+cluster: fishing-camping-clothing-guide
+cluster_layer: L2
 ---
 
 # Which Fishing Boot Do You Actually Need? The 3-Tier Decision

@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: water-filter-for-group-camping-4-plus
 article_type: QUESTION_CAPTURE
+cluster: camping-water-guide
+cluster_layer: L3
 ---
 
 # What Water Filter Do You Need for a Group of 4 or More Camping?

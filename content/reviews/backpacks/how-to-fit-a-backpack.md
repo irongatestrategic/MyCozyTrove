@@ -12,6 +12,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: how-to-fit-a-backpack
+cluster: backpacking-packs-guide
+cluster_layer: L2
+article_type: AUTHORITY
 ---
 
 # How to Fit a Backpack: Torso Length, Hip Belt, and Load Transfer Explained

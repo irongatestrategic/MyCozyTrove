@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: spinning-vs-baitcasting-reels
+cluster: freshwater-fishing-guide
+cluster_layer: L2
+article_type: COMPARISON
 ---
 
 # Spinning vs Baitcasting Reels: Which Setup Makes Sense for You

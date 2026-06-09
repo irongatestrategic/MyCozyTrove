@@ -13,6 +13,9 @@ affiliate: true
 site: MyCozyTrove
 slug: traverseon-stove-vs-msr-pocketrocket
 permalink: /reviews/camping/traverseon-stove-vs-msr-pocketrocket/
+cluster: solo-camping-gear-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Traverseon 3800W Camp Stove vs. MSR PocketRocket 2: Power vs. Packability

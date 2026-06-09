@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: when-not-to-buy-electric-reel
+cluster: saltwater-fishing-guide
+cluster_layer: L3
+article_type: BUY_DO_NOT_BUY
 ---
 
 # When You Should NOT Buy an Electric Reel (Save Your Money)

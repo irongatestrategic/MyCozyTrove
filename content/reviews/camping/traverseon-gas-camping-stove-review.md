@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: traverseon-gas-camping-stove-review
+cluster: solo-camping-gear-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Traverseon 3800W Gas Camping Stove Review: How Much Heat Do You Actually Need?

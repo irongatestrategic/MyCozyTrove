@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: piscifun-kraken-electric-reel-saltflow-rod-combo-review
+cluster: saltwater-fishing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Piscifun Kraken Electric Reel & Saltflow Rod Combo Review: Deep-Sea Power for the DIY Angler

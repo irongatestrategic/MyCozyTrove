@@ -127,7 +127,7 @@ Everything in the "do not buy" section either duplicates something simpler, exce
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — hub page: rooftop tent guide overview]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 - [INTERNAL_LINK_NEEDED — lateral: choosing the right roof rack for your RTT setup]
 - [INTERNAL_LINK_NEEDED — lateral: rooftop tent maintenance and longevity guide]
 ```

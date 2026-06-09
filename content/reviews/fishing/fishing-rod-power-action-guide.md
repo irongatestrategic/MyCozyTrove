@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: fishing-rod-power-action-guide
+cluster: freshwater-fishing-guide
+cluster_layer: L2
+article_type: AUTHORITY
 ---
 
 # How to Match Your Rod Power and Action to the Fish You're Targeting

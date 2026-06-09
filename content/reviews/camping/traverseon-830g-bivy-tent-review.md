@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: traverseon-830g-bivy-tent-review
+cluster: solo-camping-gear-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Traverseon 830g Ultralight Bivy Tent Review: Shelter That Earns Its Weight

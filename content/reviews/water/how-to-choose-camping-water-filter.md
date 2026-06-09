@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: how-to-choose-camping-water-filter
 article_type: AUTHORITY
+cluster: camping-water-guide
+cluster_layer: L2
 ---
 
 # How to Choose a Camping Water Filter: The 4-Variable Decision

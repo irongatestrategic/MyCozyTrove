@@ -148,7 +148,7 @@ Condensation is the other recurring owner note. In cold, humid conditions, even 
 
 - [INTERNAL_LINK_NEEDED — Best Roof Racks for Rooftop Tents: Load Ratings and Compatibility Guide]
 - [INTERNAL_LINK_NEEDED — Essential Camping Gear for Anglers: What Actually Goes in the Tent]
-- [INTERNAL_LINK_NEEDED — Ultimate Guide to Rooftop Tents: Hub page for rooftop-tent-guide cluster]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 
 <!--PROCESSING_SUMMARY
 Processed: meedo-zeus-hard-shell-review.md

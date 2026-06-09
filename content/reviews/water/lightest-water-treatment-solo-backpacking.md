@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: lightest-water-treatment-solo-backpacking
 article_type: QUESTION_CAPTURE
+cluster: camping-water-guide
+cluster_layer: L3
 ---
 
 # Lightest Water Treatment for Solo Backpacking: What Actually Works

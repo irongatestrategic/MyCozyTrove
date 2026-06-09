@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: msr-guardian-vs-katadyn-befree-camping
 article_type: COMPARISON
+cluster: camping-water-guide
+cluster_layer: L4
 ---
 
 # MSR Guardian vs Katadyn BeFree for Backcountry Camping

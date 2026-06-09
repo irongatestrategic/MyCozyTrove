@@ -150,7 +150,7 @@ In either case, verify your aftermarket rack's static load rating before purchas
 ## Related
 
 - [INTERNAL_LINK_NEEDED — how to choose an aftermarket roof rack for rooftop tents]
-- [INTERNAL_LINK_NEEDED — rooftop tent guide hub page]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 - [INTERNAL_LINK_NEEDED — solo camping gear checklist for anglers]
 
 <!--PROCESSING_SUMMARY

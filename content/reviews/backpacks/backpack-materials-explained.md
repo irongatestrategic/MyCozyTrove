@@ -12,6 +12,9 @@ tags:
 affiliate: false
 site: MyCozyTrove
 slug: backpack-materials-explained
+cluster: backpacking-packs-guide
+cluster_layer: L2
+article_type: AUTHORITY
 ---
 
 # Backpack Materials Explained: What the Specs Actually Mean

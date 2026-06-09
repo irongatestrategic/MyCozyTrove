@@ -128,7 +128,7 @@ The Meedo Apollo A86 M's 3000MM polycotton fabric and aircraft-grade aluminum fr
 
 - [INTERNAL_LINK_NEEDED — Rooftop Tent Maintenance Checklist] (lateral, same cluster)
 - [INTERNAL_LINK_NEEDED — Hard Shell vs. Soft Shell Rooftop Tents] (lateral, same cluster)
-- [INTERNAL_LINK_NEEDED — The Complete Rooftop Tent Guide] (hub page, rooftop-tent-guide)
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/) (hub page, rooftop-tent-guide)
 ```
 
 <!--PROCESSING_SUMMARY

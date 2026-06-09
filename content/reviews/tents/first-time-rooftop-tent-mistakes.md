@@ -148,7 +148,7 @@ If you camp primarily at developed sites or need your vehicle for day trips, nei
 
 - [INTERNAL_LINK_NEEDED — Guide to Vehicle Roof Rack Static Load Ratings]
 - [INTERNAL_LINK_NEEDED — Hard Shell vs. Soft Shell Rooftop Tents: Full Comparison]
-- [INTERNAL_LINK_NEEDED — Rooftop Tent Guide hub page]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 
 <!--PROCESSING_SUMMARY
 Processed: first-time-rooftop-tent-mistakes.md

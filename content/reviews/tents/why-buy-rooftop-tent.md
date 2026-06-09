@@ -103,7 +103,7 @@ If you camp in developed sites, leave your vehicle at trailheads, or prioritize 
 ---
 
 **Related:**
-- [INTERNAL_LINK_NEEDED — rooftop tent buyer's guide / hub page for rooftop-tent-guide cluster]
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 - [INTERNAL_LINK_NEEDED — vehicle roof rack load ratings: what anglers and overlanders need to verify]
 - [INTERNAL_LINK_NEEDED — 4-season tent comparison: RTT vs ground tent for cold weather camping]
 

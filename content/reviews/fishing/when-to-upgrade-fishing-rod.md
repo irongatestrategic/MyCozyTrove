@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: when-to-upgrade-fishing-rod
+cluster: freshwater-fishing-guide
+cluster_layer: L3
+article_type: QUESTION_CAPTURE
 ---
 
 # When to Upgrade Your Fishing Rod (Real Thresholds)

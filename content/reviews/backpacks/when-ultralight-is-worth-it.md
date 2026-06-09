@@ -12,6 +12,9 @@ tags:
 affiliate: false
 site: MyCozyTrove
 slug: when-ultralight-is-worth-it
+cluster: backpacking-packs-guide
+cluster_layer: L3
+article_type: BUY_DO_NOT_BUY
 ---
 
 # When Ultralight Is Worth the Premium — and When It Isn't

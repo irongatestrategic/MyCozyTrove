@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: best-camping-water-filter-backpacking
 article_type: COMMERCIAL_DECISION
+cluster: camping-water-guide
+cluster_layer: L4
 ---
 
 # Best Camping Water Filter for Backpacking: 3 Options by Trip Type

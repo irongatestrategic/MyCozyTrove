@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: when-not-to-buy-baitcasting
+cluster: freshwater-fishing-guide
+cluster_layer: L3
+article_type: BUY_DO_NOT_BUY
 ---
 
 # When You Should NOT Buy a Baitcasting Setup

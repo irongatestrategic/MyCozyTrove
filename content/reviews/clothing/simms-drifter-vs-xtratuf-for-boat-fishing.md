@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: simms-drifter-vs-xtratuf-for-boat-fishing
 article_type: COMPARISON
+cluster: fishing-camping-clothing-guide
+cluster_layer: L2
 ---
 
 # Simms Drifter vs XtraTuf Legacy for Boat Fishing: Which Deck Boot Do You Need?

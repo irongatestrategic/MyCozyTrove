@@ -12,6 +12,9 @@ tags:
 affiliate: false
 site: MyCozyTrove
 slug: signs-your-pack-doesnt-fit
+cluster: backpacking-packs-guide
+cluster_layer: L3
+article_type: TROUBLESHOOTING
 ---
 
 # 5 Signs Your Current Pack Is Hurting Your Body

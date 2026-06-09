@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: piscifun-alinox-400-baitcasting-reel-review
+cluster: saltwater-fishing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Piscifun AlinoX 400 Review: The Heavy-Duty Casting Standard for Trophy Hunting

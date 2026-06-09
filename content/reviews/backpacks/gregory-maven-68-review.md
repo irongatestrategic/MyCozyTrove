@@ -12,6 +12,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: gregory-maven-68-review
+cluster: backpacking-packs-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Gregory Maven 68 Review: The Right Pack for Longer Trips and Heavier Loads

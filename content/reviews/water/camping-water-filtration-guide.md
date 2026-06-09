@@ -13,6 +13,8 @@ affiliate: false
 site: MyCozyTrove
 slug: camping-water-filtration-guide
 article_type: AUTHORITY
+cluster: camping-water-guide
+cluster_layer: L1
 ---
 
 # Camping Water Filtration Guide: Filters, Purifiers, and How to Choose

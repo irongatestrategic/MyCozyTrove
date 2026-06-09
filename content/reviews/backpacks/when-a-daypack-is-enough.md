@@ -12,6 +12,9 @@ tags:
 affiliate: false
 site: MyCozyTrove
 slug: when-a-daypack-is-enough
+cluster: backpacking-packs-guide
+cluster_layer: L3
+article_type: QUESTION_CAPTURE
 ---
 
 # When a Daypack Is Enough (And When It Isn't)

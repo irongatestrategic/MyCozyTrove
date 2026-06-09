@@ -13,6 +13,9 @@ affiliate: true
 site: MyCozyTrove
 slug: traverseon-down-vs-big-agnes-anthracite
 permalink: /reviews/camping/traverseon-down-vs-big-agnes-anthracite/
+cluster: solo-camping-gear-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Traverseon Down Mummy vs. Big Agnes Anthracite 20°: Down or Synthetic for Gulf Coast Camping?

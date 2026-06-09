@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: traverseon-down-mummy-sleeping-bag-review
+cluster: solo-camping-gear-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Traverseon Down Mummy Sleeping Bag Review: Five Fill Weights, One Decision

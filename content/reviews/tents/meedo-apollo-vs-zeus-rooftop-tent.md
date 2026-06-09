@@ -139,6 +139,7 @@ Neither tent is a casual purchase. Verify your rack's static load rating before 
 - [INTERNAL_LINK_NEEDED — what to look for in a rooftop tent rack system]
 - [INTERNAL_LINK_NEEDED — essential gear for solo overlanding and remote fishing trips]
 - [The Complete Rooftop Tent Guide](/reviews/tents/rooftop-tent-guide/)
+- [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 
 <!--PROCESSING_SUMMARY
 Processed: meedo-apollo-vs-zeus-rooftop-tent.md

@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: best-bass-fishing-combo
+cluster: freshwater-fishing-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Best Mid-Range Bass Fishing Combo: Abu Garcia Jordan Lee Spinning Combo

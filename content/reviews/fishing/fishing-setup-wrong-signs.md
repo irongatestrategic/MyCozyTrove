@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: fishing-setup-wrong-signs
+cluster: freshwater-fishing-guide
+cluster_layer: L3
+article_type: TROUBLESHOOTING
 ---
 
 # 5 Signs Your Fishing Setup Is Working Against You

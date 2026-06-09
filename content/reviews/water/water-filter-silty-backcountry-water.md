@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: water-filter-silty-backcountry-water
 article_type: QUESTION_CAPTURE
+cluster: camping-water-guide
+cluster_layer: L3
 ---
 
 # Best Water Filter for Silty Backcountry Water: What Handles Turbid Sources

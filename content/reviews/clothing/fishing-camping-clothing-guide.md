@@ -13,6 +13,8 @@ affiliate: false
 site: MyCozyTrove
 slug: fishing-camping-clothing-guide
 article_type: AUTHORITY
+cluster: fishing-camping-clothing-guide
+cluster_layer: L1
 ---
 
 # Fishing & Camping Clothing Guide: Footwear, Protection, and What You Actually Need

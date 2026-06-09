@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: are-simms-g3-waders-worth-it
 article_type: BUY_DO_NOT_BUY
+cluster: fishing-camping-clothing-guide
+cluster_layer: L3
 ---
 
 # Are Simms G3 Waders Worth $600? When They Are and When They're Not

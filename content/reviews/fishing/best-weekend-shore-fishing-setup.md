@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: best-weekend-shore-fishing-setup
+cluster: freshwater-fishing-guide
+cluster_layer: L3
+article_type: QUESTION_CAPTURE
 ---
 
 # Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit

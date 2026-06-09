@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: water-filter-2-people-3-day-camping
 article_type: QUESTION_CAPTURE
+cluster: camping-water-guide
+cluster_layer: L3
 ---
 
 # What Water Filter Do You Need for 2 People on a 3-Day Camping Trip?

@@ -15,6 +15,9 @@ site: MyCozyTrove
 slug: portable-power-camping-fishing-outdoor-hub
 layout: base
 page_type: hub
+cluster: portable-power-guide
+cluster_layer: L1
+article_type: AUTHORITY
 ---
 
 # Portable Power for Camping, Fishing, and Outdoor Adventure

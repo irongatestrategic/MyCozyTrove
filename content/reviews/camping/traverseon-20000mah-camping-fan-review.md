@@ -13,6 +13,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: traverseon-20000mah-camping-fan-review
+cluster: solo-camping-gear-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Traverseon 20000mAh Cordless Camping Fan Review: The One Piece of Gear Mississippi Summers Demand

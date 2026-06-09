@@ -12,6 +12,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: kelty-asher-55-review
+cluster: backpacking-packs-guide
+cluster_layer: L4
+article_type: COMMERCIAL_DECISION
 ---
 
 # Kelty Asher 55 Review: The Honest First Backpacking Pack

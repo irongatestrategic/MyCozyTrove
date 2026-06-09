@@ -15,6 +15,9 @@ site: MyCozyTrove
 slug: best-portable-power-station-camping
 layout: base
 page_type: decision
+cluster: portable-power-guide
+cluster_layer: L2
+article_type: AUTHORITY
 ---
 
 # Best Portable Power Station for Camping (2026)

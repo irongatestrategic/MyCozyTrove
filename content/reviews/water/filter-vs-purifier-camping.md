@@ -13,6 +13,8 @@ affiliate: true
 site: MyCozyTrove
 slug: filter-vs-purifier-camping
 article_type: AUTHORITY
+cluster: camping-water-guide
+cluster_layer: L2
 ---
 
 # Camping Water Filter vs Purifier: What's the Difference and When Do You Need Each?

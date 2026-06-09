@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: five-signs-reel-failing
+cluster: saltwater-fishing-guide
+cluster_layer: L3
+article_type: TROUBLESHOOTING
 ---
 
 # 5 Signs Your Fishing Reel Is Already Failing (And What Each One Means)

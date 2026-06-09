@@ -13,6 +13,9 @@ affiliate: true
 site: MyCozyTrove
 slug: traverseon-bivy-vs-big-agnes-copper-spur
 permalink: /reviews/camping/traverseon-bivy-vs-big-agnes-copper-spur/
+cluster: solo-camping-gear-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Traverseon 830g Bivy Tent vs. Big Agnes Copper Spur UL1: Which Solo Shelter Fits Your Trip?

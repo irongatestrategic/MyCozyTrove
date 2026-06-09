@@ -13,6 +13,9 @@ affiliate: false
 site: MyCozyTrove
 slug: do-you-need-4-season-tent
 permalink: /reviews/camping/do-you-need-4-season-tent/
+cluster: solo-camping-gear-guide
+cluster_layer: L3
+article_type: QUESTION_CAPTURE
 ---
 
 # Do You Actually Need a 4-Season Tent? (Honest Answer for Gulf Coast Campers)

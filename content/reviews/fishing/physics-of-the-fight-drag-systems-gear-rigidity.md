@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: physics-of-the-fight-drag-systems-gear-rigidity
+cluster: saltwater-fishing-guide
+cluster_layer: L2
+article_type: AUTHORITY
 ---
 
 # The Physics of the Fight: Drag Systems and Gear Rigidity Explained

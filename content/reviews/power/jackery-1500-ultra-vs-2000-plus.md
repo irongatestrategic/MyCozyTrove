@@ -9,6 +9,9 @@ permalink: /reviews/power/jackery-1500-ultra-vs-2000-plus/
 canonical: "https://mycozytrove.com/reviews/power/jackery-1500-ultra-vs-2000-plus/"
 site: MyCozyTrove
 
+cluster: portable-power-guide
+cluster_layer: L3
+article_type: COMPARISON
 ---
 
 # Jackery 1500 Ultra vs. 2000 Plus: Which Power Station Belongs in Your Kit?

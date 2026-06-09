@@ -9,6 +9,9 @@ permalink: /reviews/clothing/xtratuf-legacy-12-vs-15/
 canonical: "https://mycozytrove.com/reviews/clothing/xtratuf-legacy-12-vs-15/"
 site: MyCozyTrove
 
+cluster: fishing-camping-clothing-guide
+cluster_layer: L4
+article_type: COMPARISON
 ---
 
 # Xtratuf Legacy 12" vs. 15": Choosing the Right Boot for Your Water

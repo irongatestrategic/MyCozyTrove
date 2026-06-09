@@ -14,6 +14,9 @@ tags:
 affiliate: true
 site: MyCozyTrove
 slug: professional-angler-infrastructure-guide
+cluster: saltwater-fishing-guide
+cluster_layer: L1
+article_type: AUTHORITY
 ---
 
 # The 2026 Professional Angler's Infrastructure Guide: Power, Precision, and Durability
