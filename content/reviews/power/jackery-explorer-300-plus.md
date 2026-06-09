@@ -135,3 +135,8 @@ If you're doing multi-week expeditions or running heavy loads, step up to the 50
 ---
 
 *Full disclosure: I earn a commission if you purchase through the links above, at no extra cost to you. I only recommend gear I'd use myself or have actually tested. Your support helps keep this site running and lets me keep testing new equipment.*
+
+
+## Related
+
+- [Portable Power for Camping, Fishing, and Outdoor Adventure](/reviews/power/portable-power-camping-fishing-outdoor-hub/)

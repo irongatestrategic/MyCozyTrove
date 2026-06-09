@@ -85,3 +85,4 @@ For solo domestic backcountry trips with clear water sources, the LifeStraw Peak
 - [MSR Guardian vs Katadyn BeFree for Backcountry Camping](/reviews/water/msr-guardian-vs-katadyn-befree-camping/)
 - [Best Camping Water Filter for Backpacking](/reviews/water/best-camping-water-filter-backpacking/)
 - [How to Choose a Camping Water Filter](/reviews/water/how-to-choose-camping-water-filter/)
+- [Camping Water Filtration Guide: Filters, Purifiers, and How to Choose](/reviews/water/camping-water-filtration-guide/)

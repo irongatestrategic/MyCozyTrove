@@ -135,3 +135,8 @@ Both charge at roughly 100–120W from a standard 12V outlet, which means the 20
 No. The Pro v2 series does not support external battery expansion. If expandability is a priority, look at Jackery's Plus series or the Bluetti AC300 platform instead.
 
 
+
+
+## Related
+
+- [Portable Power for Camping, Fishing, and Outdoor Adventure](/reviews/power/portable-power-camping-fishing-outdoor-hub/)

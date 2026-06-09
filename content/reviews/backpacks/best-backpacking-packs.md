@@ -153,3 +153,8 @@ A reasonable target is 20% of your body weight or less. For a 180-lb hiker, that
 - [Kelty Asher 55 Review](/reviews/backpacks/kelty-asher-55-review/)
 - [How Much Pack Capacity Do You Actually Need?](/reviews/backpacks/how-much-pack-capacity-do-you-need/)
 - [How to Fit a Backpack Properly](/reviews/backpacks/how-to-fit-a-backpack/)
+
+
+## Related
+
+- [Backpack Materials Explained: What the Specs Actually Mean](/reviews/backpacks/backpack-materials-explained/)

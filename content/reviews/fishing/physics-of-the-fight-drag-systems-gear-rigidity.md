@@ -105,3 +105,8 @@ Quality is more important. Four double-shielded stainless steel bearings in a sa
 
 **Can I use a freshwater reel in saltwater if I rinse it after use?**
 A freshwater reel will function initially, but the bearing ingress cycle works against a surface rinse. As the reel cools after use, it draws moisture inward through unshielded bearing races. A freshwater rinse cleans the exterior; it doesn't reverse the internal ingress that happened during the session. Reels without saltwater-rated sealing and shielded bearings degrade faster in marine environments regardless of post-use maintenance.
+
+
+## Related
+
+- [The 2026 Professional Angler's Infrastructure Guide: Power, Precision, and Durability](/reviews/fishing/professional-angler-infrastructure-guide/)

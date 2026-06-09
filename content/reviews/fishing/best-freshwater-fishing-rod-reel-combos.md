@@ -122,6 +122,7 @@ A functional entry-level setup centers on a composite rod and a basic but smooth
 - [5 Signs Your Fishing Setup Is Working Against You](/reviews/fishing/fishing-setup-wrong-signs/)
 - [Best All-Around Freshwater Spinning Combo](/reviews/fishing/best-freshwater-spinning-combo/)
 - [Best Ultralight Trout Setup](/reviews/fishing/best-ultralight-trout-setup/)
+- [Fishing Line Types Explained: Mono, Fluorocarbon, and Braid](/reviews/fishing/fishing-line-types-explained/)
 
 ## Frequently Asked Questions
 

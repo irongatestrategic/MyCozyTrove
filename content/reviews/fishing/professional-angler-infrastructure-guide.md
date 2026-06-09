@@ -104,3 +104,8 @@ Carbon reduces weight but has lower rigidity under sustained high-torque loads. 
 ---
 
 *Individual reviews: [Piscifun Kraken Electric Combo](/reviews/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) | [Piscifun AlinoX 400](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/) | [Piscifun NautiX](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)*
+
+
+## Related
+
+- [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)

@@ -80,3 +80,4 @@ The tradeoff: chemical treatment requires dwell time — up to four hours for di
 - [How to Choose a Camping Water Filter](/reviews/water/how-to-choose-camping-water-filter/)
 - [Best Camping Water Filter for Backpacking](/reviews/water/best-camping-water-filter-backpacking/)
 - [MSR Guardian vs Katadyn BeFree for Backcountry Camping](/reviews/water/msr-guardian-vs-katadyn-befree-camping/)
+- [Camping Water Filtration Guide: Filters, Purifiers, and How to Choose](/reviews/water/camping-water-filtration-guide/)

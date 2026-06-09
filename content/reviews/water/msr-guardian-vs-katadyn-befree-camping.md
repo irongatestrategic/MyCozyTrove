@@ -138,3 +138,4 @@ For silty or turbid water sources, international travel, or anywhere viral conta
 - [How to Choose a Camping Water Filter](/reviews/water/how-to-choose-camping-water-filter/)
 - [Best Camping Water Filter for Backpacking](/reviews/water/best-camping-water-filter-backpacking/)
 - [Water Filter for 2 People on a 3-Day Trip](/reviews/water/water-filter-2-people-3-day-camping/)
+- [Camping Water Filtration Guide: Filters, Purifiers, and How to Choose](/reviews/water/camping-water-filtration-guide/)
