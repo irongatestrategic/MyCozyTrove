@@ -86,7 +86,6 @@ Solo angler, 300 miles, three fishing spots, two nights. Setup and breakdown at 
 
 For a full breakdown of the Zeus, see the [Meedo Zeus I M Hard Shell Review](/reviews/tents/meedo-zeus-hard-shell-review/).
 
-
 The Zeus is a hard-shell clamshell. Unlatch, push, and gas struts open it in roughly 60 seconds. Same process in reverse to close. The hard shell eliminates the wet-pack problem entirely — close it damp, it's not absorbing moisture into fabric walls. It also deflects branches, hail, and trail debris in ways a soft shell can't.
 
 The tradeoff is weight: 154 lbs (70 kg). The math on rack load matters here. Two adults at 180 lbs each add 360 lbs. Add the Zeus at 154 lbs and you need a rack and vehicle roof rated for at least 514 lbs static load at the mount points. Most quality aftermarket racks (Rhino-Rack, Front Runner, Thule overland systems) handle this comfortably — but verify your specific rack model, not just the brand. Factory crossbars rated at 150–165 lbs dynamic load are not equivalent and should not be used.
@@ -140,19 +139,3 @@ Neither tent is a casual purchase. Verify your rack's static load rating before 
 - [INTERNAL_LINK_NEEDED — essential gear for solo overlanding and remote fishing trips]
 - [The Complete Rooftop Tent Guide](/reviews/tents/rooftop-tent-guide/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
-
-<!--PROCESSING_SUMMARY
-Processed: meedo-apollo-vs-zeus-rooftop-tent.md
-Output: meedo-apollo-vs-zeus-rooftop-tent.md
-Site: MyCozyTrove
-Category: tents
-Article Type: COMPARISON
-AI Question: Meedo Apollo vs Zeus: Which Rooftop Tent Is Right for Your Rig?
-Angle: Meedo Apollo A86 M vs Zeus I M — soft shell vs hard shell compared on weight, setup time, wet-pack risk, and rack load math
-Cluster: rooftop-tent-guide
-Prior Coverage: none
-Action Needed - Affiliate Links: yes — https://tidd.ly/4dXRbSn (×2), https://tidd.ly/4vfb66m (×2)
-Hub Update Required: rooftop-tent-guide
-HGD Blocks: n/a
-Information Gain Source: Calculated minimum static rack load requirements for each tent (Apollo: 479 lbs, Zeus: 514 lbs) by adding manufacturer tent weight specs to a representative two-adult occupant load (360 lbs), producing specific rack-selection numbers not present on competing product pages; wet-pack mildew timeline (24–48 hours) sourced from pattern across soft-shell RTT owner reports; cumulative setup time differential (40–80 minutes over 10 nights) derived from manufacturer setup time specs.
-END_PROCESSING_SUMMARY-->

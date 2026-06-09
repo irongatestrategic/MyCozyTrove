@@ -130,19 +130,3 @@ The Meedo Apollo A86 M's 3000MM polycotton fabric and aircraft-grade aluminum fr
 - [INTERNAL_LINK_NEEDED — Hard Shell vs. Soft Shell Rooftop Tents] (lateral, same cluster)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/) (hub page, rooftop-tent-guide)
 ```
-
-<!--PROCESSING_SUMMARY
-Processed: how-long-do-rooftop-tents-last.md
-Output: how-long-do-rooftop-tents-last.md
-Site: MyCozyTrove
-Category: tents
-Article Type: QUESTION_CAPTURE
-AI Question: How many years should a rooftop tent last if I use it 10 nights a year stored in a garage?
-Angle: Meedo Apollo A86 M / Meedo Zeus I M Collection — lifespan expectations, failure modes, and cost-of-ownership calculation for garage-stored RTTs at ~10 nights/year
-Cluster: rooftop-tent-guide
-Prior Coverage: none
-Action Needed - Affiliate Links: yes — 3x https://tidd.ly/4dXRbSn remaining; no /go/ path match found in known paths
-Hub Update Required: rooftop-tent-guide
-HGD Blocks: n/a
-Information Gain Source: Derived cost-per-night figure ($10.96/night over 10 years) calculated by cross-referencing $1,315 total 10-year ownership cost against 120 nights of use (12 nights/year × 10 years) — does not appear on any product or competitor page; also includes owner-forum-sourced finding that standard travel cover zippers degrade at 4–5 years under continuous outdoor exposure, warranting proactive cover replacement budgeting
-END_PROCESSING_SUMMARY-->

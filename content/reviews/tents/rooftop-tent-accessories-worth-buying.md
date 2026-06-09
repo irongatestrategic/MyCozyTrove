@@ -131,19 +131,3 @@ Everything in the "do not buy" section either duplicates something simpler, exce
 - [INTERNAL_LINK_NEEDED — lateral: choosing the right roof rack for your RTT setup]
 - [INTERNAL_LINK_NEEDED — lateral: rooftop tent maintenance and longevity guide]
 ```
-
-<!--PROCESSING_SUMMARY
-Processed: rooftop-tent-accessories-worth-buying.md
-Output: rooftop-tent-accessories-worth-buying.md
-Site: MyCozyTrove
-Category: tents
-Article Type: BUY_DO_NOT_BUY
-AI Question: What accessories do I actually need for a rooftop tent and which are a waste of money?
-Angle: Meedo Apollo A86 M / Apollo M / Zeus I M — buy/do-not-buy breakdown of RTT accessories for anglers and solo campers
-Cluster: rooftop-tent-guide
-Prior Coverage: none
-Action Needed - Affiliate Links: yes — https://tidd.ly/4dXRbSn, [AFFILIATE_LINK_NEEDED — Meedo Apollo M], https://tidd.ly/4vfb66m (no /go/ paths on file for Meedo products; Rakuten token CqK22ZRZna4 should be applied when paths are confirmed)
-Hub Update Required: rooftop-tent-guide
-HGD Blocks: n/a
-Information Gain Source: Owner-reported finding that a moldy mattress underside is the most common first-season discovery for RTT owners without an anti-condensation mat (sourced from owner forum pattern noted in draft); LED strip power draw calculated from spec (0.5A × 12V = 6W) derived from manufacturer-level electrical spec, not restated from competing pages; solar shower weight cross-referenced against Meedo 165 lb static load ceiling to quantify roof load impact
-END_PROCESSING_SUMMARY-->

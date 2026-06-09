@@ -1,4 +1,4 @@
-﻿---
+---
 layout: base
 title: "Rooftop Tent Buying Guide: What to Know Before You Mount One"
 description: "Static vs. dynamic load ratings, hard shell vs. soft shell trade-offs, and rack requirements — what you actually need before buying a rooftop tent."
@@ -176,22 +176,6 @@ Neither tent is the right choice if your vehicle's static load rating and rack c
 - [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
 - [Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
 - [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)
-
-<!--PROCESSING_SUMMARY
-Processed: rooftop-tent-buying-guide.md
-Output: rooftop-tent-buying-guide.md
-Site: MyCozyTrove
-Category: tents
-Article Type: AUTHORITY
-AI Question: Rooftop Tent Buying Guide: What to Know Before You Mount One
-Angle: Meedo Apollo A86 M (soft shell) vs. Meedo Zeus I M (hard shell) — vehicle load capacity and deployment speed as primary decision criteria
-Cluster: rooftop-tent-guide
-Prior Coverage: none
-Action Needed - Affiliate Links: yes — [AFFILIATE_LINK_NEEDED — Meedo Apollo A86 M Soft Shell Tent] (2 instances), [AFFILIATE_LINK_NEEDED — Meedo Zeus I M Hard Shell Tent] (2 instances); no /go/ paths available for these products in known paths list
-Hub Update Required: none — this is L1 hub for rooftop-tent-guide cluster
-HGD Blocks: n/a
-Information Gain Source: Apollo A86 M's 4.5-inch mattress spec called out explicitly as thicker than the 2–3 inch spec common in comparably priced soft shells — derived from draft spec data and cross-referenced against typical RTT mattress specs at this price tier; flagged as differentiated detail in callout block
-END_PROCESSING_SUMMARY-->
 
 **Related:**
 - [Meedo Apolle M Review: The Rooftop Tent for Smaller Rigs](/reviews/tents/meedo-apolle-m-review/)
