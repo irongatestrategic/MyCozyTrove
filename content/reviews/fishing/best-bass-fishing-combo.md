@@ -12,7 +12,7 @@ tags:
   - bass fishing
   - fishing gear review
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: best-bass-fishing-combo
 ---
 

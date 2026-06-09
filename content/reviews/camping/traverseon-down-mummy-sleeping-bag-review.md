@@ -11,7 +11,7 @@ tags:
   - solo camping
   - Traverseon
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: traverseon-down-mummy-sleeping-bag-review
 ---
 

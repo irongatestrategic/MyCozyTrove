@@ -1,6 +1,18 @@
 ---
 layout: base
-title: Jackery Explorer 300 Plus Review - Portable Power for Camping  Fishing
+title: Jackery Explorer 300 Plus Review - Portable Power for Camping and Fishing
+description: "Jackery Explorer 300 Plus review — 288Wh LiFePO4 power station for weekend camping and fishing. Honest assessment of real-world capacity, solar charging, and who this unit is and isn't for."
+date: 2026-02-28
+author: Jeff M.
+category: power
+tags:
+  - portable power station
+  - Jackery
+  - camping power
+  - LiFePO4
+affiliate: true
+site: MyCozyTrove
+slug: jackery-explorer-300-plus
 ---
 
 # Jackery Explorer 300 Plus Portable Power Station Review

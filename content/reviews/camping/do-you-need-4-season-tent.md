@@ -10,7 +10,7 @@ tags:
   - camping tent buying guide
   - Gulf Coast camping
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: do-you-need-4-season-tent
 permalink: /reviews/camping/do-you-need-4-season-tent/
 ---

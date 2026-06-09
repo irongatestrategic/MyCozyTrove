@@ -12,7 +12,7 @@ tags:
   - deep drop fishing reel
   - fishing reel comparison
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: manual-vs-electric-kraken-deep-drop-roi
 ---
 

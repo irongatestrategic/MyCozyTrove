@@ -12,7 +12,7 @@ tags:
   - braided line
   - freshwater fishing
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: fishing-line-types-explained
 ---
 

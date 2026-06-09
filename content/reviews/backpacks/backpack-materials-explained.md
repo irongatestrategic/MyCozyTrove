@@ -10,7 +10,7 @@ tags:
   - denier rating backpack
   - nylon vs polyester backpack
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: backpack-materials-explained
 ---
 

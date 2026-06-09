@@ -12,7 +12,7 @@ tags:
   - panfish
   - fishing gear review
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: best-ultralight-trout-setup
 ---
 

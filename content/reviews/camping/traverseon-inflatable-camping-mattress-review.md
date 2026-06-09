@@ -11,7 +11,7 @@ tags:
   - R-value camping pad
   - Traverseon
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: traverseon-inflatable-camping-mattress-review
 ---
 

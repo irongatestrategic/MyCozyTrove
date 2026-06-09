@@ -12,7 +12,7 @@ tags:
   - freshwater fishing
   - fishing gear
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: piscifun-vs-mid-range-spinning-combo
 ---
 

@@ -12,7 +12,7 @@ tags:
   - saltwater baitcaster
   - heavy duty fishing reel
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: piscifun-alinox-400-baitcasting-reel-review
 ---
 

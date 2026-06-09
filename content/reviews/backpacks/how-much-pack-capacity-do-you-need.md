@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "How Much Pack Capacity Do You Actually Need?"
-description: "Backpack volume explained by trip length and gear compressibility [when a daypack is sufficient](/reviews/backpacks/when-a-daypack-is-enough/). Learn exactly how many liters you need before buying a hiking or backpacking pack."
+description: "Backpack volume explained by trip length and gear compressibility. Learn exactly how many liters you need before buying a hiking or backpacking pack."
 date: 2026-05-01
 author: Jeff M.
 category: backpacks
@@ -10,7 +10,7 @@ tags:
   - how many liters backpack
   - backpacking pack size
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: how-much-pack-capacity-do-you-need
 ---
 

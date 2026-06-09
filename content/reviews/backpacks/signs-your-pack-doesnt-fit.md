@@ -10,7 +10,7 @@ tags:
   - backpack causing back pain
   - hiking pack shoulder pain
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: signs-your-pack-doesnt-fit
 ---
 

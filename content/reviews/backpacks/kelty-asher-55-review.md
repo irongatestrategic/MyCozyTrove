@@ -10,7 +10,7 @@ tags:
   - kelty asher review
   - budget backpacking pack
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: kelty-asher-55-review
 ---
 

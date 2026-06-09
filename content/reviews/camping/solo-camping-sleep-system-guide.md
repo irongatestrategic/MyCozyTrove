@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "How to Build a Solo Camping Sleep System That Actually Works"
-description: "A practical guide to the three variables that determine sleep quality in a tent — ground insulation, bag fill weight, and airflow [pairing with an ultralight tent](/reviews/gear/survival-frog-solo-bivy-tent/) — with specific setups for Gulf Coast summer [pairing with an ultralight tent](/reviews/camping/survival-frog-solo-bivy-tent/) [water filtration for backcountry camping](/reviews/water/index/) and three-season camping."
+description: "A practical guide to the three variables that determine sleep quality in a tent — ground insulation, bag fill weight, and airflow — with specific setups for Gulf Coast summer and three-season camping."
 date: 2026-04-06
 author: Jeff M.
 category: camping
@@ -11,7 +11,7 @@ tags:
   - R-value sleeping pad
   - camping setup Mississippi
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: solo-camping-sleep-system-guide
 ---
 

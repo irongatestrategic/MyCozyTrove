@@ -12,7 +12,7 @@ tags:
   - saltwater reel repair
   - fishing gear
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: five-signs-reel-failing
 ---
 

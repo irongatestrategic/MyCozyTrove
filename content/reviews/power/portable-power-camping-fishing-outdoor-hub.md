@@ -1,6 +1,6 @@
 ---
 title: "Portable Power for Camping, Fishing, and Outdoor Adventure"
-description: "A technical guide to mobile power for outdoor use [288Wh Explorer 300 Plus](/reviews/power/jackery-explorer-300-plus/) — weight-to-power ratios, IP ratings, DC efficiency [self-sufficiency and off-grid living guides](/reviews/self-sufficiency/index/), and how to choose the right system for camping, fishing, or van life."
+description: "A technical guide to mobile power for outdoor use — weight-to-power ratios, IP ratings, DC efficiency, and how to choose the right system for camping, fishing, or van life."
 date: 2026-03-16
 author: Jeff M.
 category: power
@@ -11,7 +11,7 @@ tags:
   - outdoor gear
   - fishing
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: portable-power-camping-fishing-outdoor-hub
 layout: base
 page_type: hub
@@ -105,10 +105,10 @@ One cable note: standard PV cables are 10–15 feet. If your setup requires more
 These pages narrow the hardware selection by specific use case:
 
 - [Jackery Explorer 1000 V2 Review: Solo Camping Power Budget Analysis](/reviews/power/jackery-explorer-1000-v2-review/) — 48-hour load math, LFP chemistry breakdown, honest pros and cons
-- [Best Solar Generator for Camping](/reviews/power/best-solar-generator-camping/) — car camping and base camp setups, weight vs. capacity tradeoffs
-- [Best Solar Generator for Van Camping](/reviews/power/best-solar-generator-van-camping/) — high-capacity builds, roof panel integration, continuous use
-- [Best Solar Generator for Backpacking](/reviews/power/best-solar-generator-backpacking/) — ultralight options, Wh/lb optimization
-- [Best Solar Generator for Fishing & Boats](/reviews/power/best-solar-generator-fishing-boats/) — IP ratings, DC efficiency, trolling motor considerations
+- Best Solar Generator for Camping — car camping and base camp setups, weight vs. capacity tradeoffs *(coming soon)*
+- Best Solar Generator for Van Camping — high-capacity builds, roof panel integration, continuous use *(coming soon)*
+- Best Solar Generator for Backpacking — ultralight options, Wh/lb optimization *(coming soon)*
+- Best Solar Generator for Fishing & Boats — IP ratings, DC efficiency, trolling motor considerations *(coming soon)*
 
 ## FAQ
 

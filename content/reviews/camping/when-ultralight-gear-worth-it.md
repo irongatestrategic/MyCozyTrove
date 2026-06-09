@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "When Ultralight Gear Is Worth the Premium (And When It Isn't)"
-description: "Ultralight gear has a real engineering case [Survival Frog Solo Bivy tent](/reviews/camping/survival-frog-solo-bivy-tent/) — and real trade-offs marketing doesn't mention. Here's how to decide if the premium is justified for your actual camping style."
+description: "Ultralight gear has a real engineering case — and real trade-offs marketing doesn't mention. Here's how to decide if the premium is justified for your actual camping style."
 date: 2026-04-20
 author: Jeff M.
 category: camping
@@ -10,7 +10,7 @@ tags:
   - camping gear buying guide
   - down vs synthetic sleeping bag
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: when-ultralight-gear-worth-it
 permalink: /reviews/camping/when-ultralight-gear-worth-it/
 ---

@@ -12,7 +12,7 @@ tags:
   - fishing tips
   - gear mismatch
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: fishing-setup-wrong-signs
 ---
 

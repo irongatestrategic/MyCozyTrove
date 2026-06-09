@@ -170,7 +170,7 @@ We are NOT a party to transactions between you and merchants. Any disputes must 
 
 ## Privacy
 
-Your use of MyCozyTrove is also governed by our [Privacy Policy](/privacy-policy/). Please review it to understand how we collect, use, and protect your information.
+Your use of MyCozyTrove is also governed by our [Privacy Policy](/pages/privacy-policy/). Please review it to understand how we collect, use, and protect your information.
 
 ## Geographic Restrictions
 

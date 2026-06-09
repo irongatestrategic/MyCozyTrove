@@ -12,7 +12,7 @@ tags:
   - spinning vs baitcasting
   - freshwater fishing
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: when-not-to-buy-baitcasting
 ---
 

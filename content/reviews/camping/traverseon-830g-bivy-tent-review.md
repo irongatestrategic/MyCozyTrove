@@ -11,7 +11,7 @@ tags:
   - solo camping tent
   - Traverseon
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: traverseon-830g-bivy-tent-review
 ---
 

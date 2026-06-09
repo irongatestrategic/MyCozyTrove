@@ -12,7 +12,7 @@ tags:
   - saltwater fishing combo
   - brushless motor reel
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: piscifun-kraken-electric-reel-saltflow-rod-combo-review
 ---
 

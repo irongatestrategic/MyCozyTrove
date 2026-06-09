@@ -10,7 +10,7 @@ tags:
   - camping sleep system
   - sleeping pad R-value
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: sleep-system-failing-signs
 permalink: /reviews/camping/sleep-system-failing-signs/
 ---

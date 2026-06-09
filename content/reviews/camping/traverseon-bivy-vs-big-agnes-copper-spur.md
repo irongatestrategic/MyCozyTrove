@@ -10,7 +10,7 @@ tags:
   - ultralight solo tent comparison
   - Big Agnes Copper Spur review
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: traverseon-bivy-vs-big-agnes-copper-spur
 permalink: /reviews/camping/traverseon-bivy-vs-big-agnes-copper-spur/
 ---

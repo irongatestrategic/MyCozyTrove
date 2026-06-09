@@ -10,7 +10,7 @@ tags:
   - osprey atmos vs gregory maven
   - backpacking pack comparison
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: osprey-vs-gregory-backpack
 ---
 

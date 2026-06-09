@@ -1,3 +1,10 @@
+---
+layout: base
+title: Contact MyCozyTrove
+description: "Questions about our reviews or content? Get in touch with the MyCozyTrove team."
+permalink: /pages/contact/
+---
+
 # Contact MyCozyTrove
 
 ## Get in Touch
@@ -158,7 +165,7 @@ We use this information only to respond to your inquiry. We do NOT:
 - Share your information with partners
 - Use your message for marketing purposes
 
-See our full [Privacy Policy](/privacy-policy/) for details.
+See our full [Privacy Policy](/pages/privacy-policy/) for details.
 
 ---
 
@@ -179,10 +186,10 @@ Check back for updates or email us to be notified when the newsletter launches.
 ## Before You Email
 
 **Please review:**
-- [Existing reviews](/reviews/) - Your question may already be answered
-- [Privacy Policy](/privacy-policy/) - For data handling questions
-- [Terms of Service](/terms-of-service/) - For affiliate and legal questions
-- [About Page](/about/) - For information about our testing process
+- [Existing reviews](/) - Your question may already be answered
+- [Privacy Policy](/pages/privacy-policy/) - For data handling questions
+- [Terms of Service](/pages/terms-of-service/) - For affiliate and legal questions
+- [About Page](/pages/about/) - For information about our testing process
 
 **Include in your message:**
 - Clear, specific question or topic
@@ -207,10 +214,10 @@ Stay prepared,
 ## Quick Links
 
 - [Homepage](/)
-- [All Reviews](/reviews/)
-- [About MyCozyTrove](/about/)
-- [Privacy Policy](/privacy-policy/)
-- [Terms of Service](/terms-of-service/)
+- [All Reviews](/)
+- [About MyCozyTrove](/pages/about/)
+- [Privacy Policy](/pages/privacy-policy/)
+- [Terms of Service](/pages/terms-of-service/)
 
 ---
 

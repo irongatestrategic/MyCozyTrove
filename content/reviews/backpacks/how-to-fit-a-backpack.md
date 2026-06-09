@@ -10,7 +10,7 @@ tags:
   - backpack torso length
   - hip belt adjustment
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: how-to-fit-a-backpack
 ---
 

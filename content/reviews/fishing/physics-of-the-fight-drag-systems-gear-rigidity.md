@@ -12,7 +12,7 @@ tags:
   - baitcasting reel gear flex
   - Piscifun
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: physics-of-the-fight-drag-systems-gear-rigidity
 ---
 

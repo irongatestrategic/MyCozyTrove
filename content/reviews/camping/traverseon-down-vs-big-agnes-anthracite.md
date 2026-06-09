@@ -10,7 +10,7 @@ tags:
   - sleeping bag comparison
   - Gulf Coast camping gear
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: traverseon-down-vs-big-agnes-anthracite
 permalink: /reviews/camping/traverseon-down-vs-big-agnes-anthracite/
 ---

@@ -11,7 +11,7 @@ tags:
   - solo camping cooking
   - Traverseon
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: traverseon-gas-camping-stove-review
 ---
 

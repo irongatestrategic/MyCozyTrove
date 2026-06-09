@@ -12,7 +12,7 @@ tags:
   - fishing rod guide
   - spinning rod
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: fishing-rod-power-action-guide
 ---
 

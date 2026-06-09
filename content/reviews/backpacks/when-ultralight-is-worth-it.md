@@ -10,7 +10,7 @@ tags:
   - ultralight vs standard pack
   - backpack weight comparison
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: when-ultralight-is-worth-it
 ---
 

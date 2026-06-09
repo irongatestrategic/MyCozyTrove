@@ -12,7 +12,7 @@ tags:
   - entry level fishing combo
   - freshwater fishing
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: abu-garcia-vs-shakespeare-spinning
 ---
 

@@ -11,7 +11,7 @@ tags:
   - solo camping power
   - LFP power station
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: jackery-explorer-1000-v2-review
 ---
 
@@ -156,7 +156,7 @@ Options — Jackery Explorer 1000 V2</a>**
 
 **Related:**
 - [Best Portable Power Station for Camping](/reviews/power/best-portable-power-station-camping/)
-- [Solar Panels vs. Portable Power Stations: Camp Setup Guide](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/)
+- [Solar Panels vs. Portable Power Stations: Camp Setup Guide](/reviews/power/solar-panels-vs-portable-power-stations-camp-setup/)
 - [Portable Power for Camping, Fishing, and Outdoor Use](/reviews/power/portable-power-camping-fishing-outdoor-hub/)
 
 ---

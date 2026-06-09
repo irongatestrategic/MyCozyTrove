@@ -10,7 +10,7 @@ tags:
   - MSR PocketRocket 2 review
   - camping stove for fishing
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: traverseon-stove-vs-msr-pocketrocket
 permalink: /reviews/camping/traverseon-stove-vs-msr-pocketrocket/
 ---

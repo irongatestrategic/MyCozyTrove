@@ -12,7 +12,7 @@ tags:
   - freshwater fishing
   - bass fishing
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: when-to-upgrade-fishing-rod
 ---
 

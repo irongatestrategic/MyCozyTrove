@@ -12,7 +12,7 @@ tags:
   - fishing gear buying guide
   - Piscifun Kraken
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: when-not-to-buy-electric-reel
 ---
 

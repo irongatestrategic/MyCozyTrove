@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit"
-description: "Complete freshwater shore fishing kit built around the Abu Garcia Max Elite. [entry-level spinning combo options](/reviews/fishing/abu-garcia-vs-shakespeare-spinning/) Rod, line, four lure types, and what to skip — honest guide for mixed-species bank fishing."
+description: "Complete freshwater shore fishing kit built around the Abu Garcia Max Elite. Rod, line, four lure types, and what to skip — honest guide for mixed-species bank fishing."
 date: 2026-05-11
 author: Jeff M.
 category: fishing
@@ -12,7 +12,7 @@ tags:
   - weekend fishing
   - fishing gear guide
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: best-weekend-shore-fishing-setup
 ---
 

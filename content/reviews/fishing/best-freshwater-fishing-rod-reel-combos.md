@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Best Freshwater Fishing Rod and Reel Combos: What Actually Works"
-description: "Spec-based guide to freshwater spinning and baitcasting combos. [Abu Garcia Gen Ike vs Ugly Stik GX2 comparison](/reviews/fishing/abu-garcia-vs-shakespeare-spinning/) Covers all-around, bass, trout, and budget setups with honest trade-off analysis [shore fishing mixed-species setup](/reviews/fishing/best-weekend-shore-fishing-setup/)."
+description: "Spec-based guide to freshwater spinning and baitcasting combos. Covers all-around, bass, trout, and budget setups with honest trade-off analysis."
 date: 2026-05-11
 author: Jeff M.
 category: fishing
@@ -12,7 +12,7 @@ tags:
   - bass fishing
   - fishing gear
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: best-freshwater-fishing-rod-reel-combos
 ---
 

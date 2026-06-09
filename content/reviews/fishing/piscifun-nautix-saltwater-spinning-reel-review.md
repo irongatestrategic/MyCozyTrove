@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Piscifun NautiX Saltwater Spinning Reel Review: Why IPX5 Sealing and Aluminum Bodies Win"
-description: "Technical review of the Piscifun NautiX—IPX5 sealing, aluminum alloy body [NautiX reel versus mid-range combo comparison](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/), 8+1 double-shielded bearings, and 33lb drag for saltwater inshore and light offshore applications."
+description: "Technical review of the Piscifun NautiX—IPX5 sealing, aluminum alloy body, 8+1 double-shielded bearings, and 33lb drag for saltwater inshore and light offshore applications."
 date: 2026-03-25
 author: Jeff M.
 category: fishing
@@ -12,7 +12,7 @@ tags:
   - aluminum body reel
   - sealed bearings fishing
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: piscifun-nautix-saltwater-spinning-reel-review
 ---
 

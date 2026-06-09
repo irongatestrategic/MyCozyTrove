@@ -1,6 +1,6 @@
 ---
 title: "Jackery Explorer 1000 v2 and 2000 v2 Reviewed for Camping and Outdoor Use"
-description: "Technical review of Jackery's v2 power stations for outdoor recreation [Jackery Explorer 1000 v2 vs. 2000 Plus comparison](/reviews/outdoor/jackery-1000-pro-v2-vs-2000-pro-v2/) — specs, real-world limitations, and which model fits weekend camping vs. multi-day expeditions [Jackery 1000 v2 vs 2000 Plus detailed comparison](/reviews/power/jackery-1000-pro-v2-vs-2000-pro-v2/)."
+description: "Technical review of Jackery's v2 power stations for outdoor recreation — specs, real-world limitations, and which model fits weekend camping vs. multi-day expeditions."
 date: 2026-03-16
 author: Jeff M.
 category: power
@@ -11,7 +11,7 @@ tags:
   - outdoor gear
   - LiFePO4
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: jackery-explorer-1000-2000-v2-camping-review
 layout: base
 page_type: review

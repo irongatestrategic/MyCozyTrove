@@ -10,7 +10,7 @@ tags:
   - gregory maven review
   - large backpacking pack
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: gregory-maven-68-review
 ---
 

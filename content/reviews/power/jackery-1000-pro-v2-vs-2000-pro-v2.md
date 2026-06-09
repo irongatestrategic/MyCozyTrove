@@ -1,4 +1,4 @@
-﻿---
+---
 layout: base
 title: "Jackery Explorer 1000 v2 vs. 2000 Plus: Which Is Right for Your Camp Setup?"
 description: "Jackery Explorer 1000 v2 vs. 2000 Plus compared for camping and overlanding. Weight, output, solar input, and real-world runtime broken down by use case."
@@ -11,7 +11,7 @@ tags:
   - portable power station
   - camp power
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: jackery-1000-pro-v2-vs-2000-pro-v2
 ---
 
@@ -21,7 +21,7 @@ slug: jackery-1000-pro-v2-vs-2000-pro-v2
 
 Both units in Jackery's Pro v2 series share the same LiFePO4 chemistry and fast-charge architecture, so the choice between them isn't about quality — it's about weight, capacity, and what you're actually running at camp [best portable power stations for camping](/reviews/power/best-portable-power-station-camping/). The 1000 v2 is a manageable 24 lbs with enough storage for a well-equipped weekend [best portable power stations for camping](/reviews/power/best-portable-power-station-camping/). The 2000 Plus nearly doubles the capacity at 39.5 lbs, which changes what's possible in the kitchen but changes what's practical to carry.
 
-> For help deciding whether a power station alone covers your setup [Solar Panels vs. Portable Power Stations guide](/reviews/outdoor/solar-panels-vs-portable-power-stations-camp-setup/) or whether you need solar panels too, see our [Solar Panels vs. Portable Power Stations guide](/outdoor/solar-panels-vs-portable-power-stations-camp-setup/).
+> For help deciding whether a power station alone covers your setup or whether you need solar panels too, see our [Solar Panels vs. Portable Power Stations guide](/reviews/power/solar-panels-vs-portable-power-stations-camp-setup/).
 
 ---
 

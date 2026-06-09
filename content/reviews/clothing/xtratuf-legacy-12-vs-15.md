@@ -1,19 +1,21 @@
-﻿---
+---
 layout: base
-title: "Xtratuf Legacy 12\" vs. 15\": Choosing the Right Boot for Your Water [Xtratuf Fishing Boots Review](/reviews/gear/xtratuf-fishing-boots/)"
-description: "Comparing the Xtratuf Legacy 12-inch and 15-inch boots for fishing, dock work, and wet terrain. [hands-free gear transport](/reviews/gear/piscifun-fishing-backpack/) Same legendary construction, different coverage — here's how to pick your height."
+title: "Xtratuf Legacy 12\" vs. 15\": Choosing the Right Boot for Your Water"
+description: "Comparing the Xtratuf Legacy 12-inch and 15-inch boots for fishing, dock work, and wet terrain. Same legendary construction, different coverage — here's how to pick your height."
 date: 2026-02-19
 author: "Jeff M."
 category: clothing
-permalink: /reviews/gear/xtratuf-legacy-12-vs-15/
-canonical: "https://mycozytrove.com/reviews/gear/xtratuf-legacy-12-vs-15/"
+permalink: /reviews/clothing/xtratuf-legacy-12-vs-15/
+canonical: "https://mycozytrove.com/reviews/clothing/xtratuf-legacy-12-vs-15/"
+site: MyCozyTrove
+
 ---
 
 # Xtratuf Legacy 12" vs. 15": Choosing the Right Boot for Your Water
 
 ![Xtratuf Legacy boots on a wet dock with fishing vessel in foggy background](/assets/images/products/xtratuf-comparison.png)
 
-The Xtratuf Legacy has been the default boot [broader Xtratuf boot lineup](/reviews/gear/xtratuf-fishing-boots/) on commercial fishing decks from Alaska to the Gulf Coast [professional angler infrastructure](/reviews/fishing/professional-angler-infrastructure-guide/) for decades. Not because of marketing — because triple-dipped neoprene construction, a non-marking chevron outsole, and genuine waterproofing hold up in conditions that destroy lesser footwear.
+The Xtratuf Legacy has been the default boot [broader Xtratuf boot lineup](/reviews/clothing/xtratuf-fishing-boots/) on commercial fishing decks from Alaska to the Gulf Coast [professional angler infrastructure](/reviews/fishing/professional-angler-infrastructure-guide/) for decades. Not because of marketing — because triple-dipped neoprene construction, a non-marking chevron outsole, and genuine waterproofing hold up in conditions that destroy lesser footwear.
 
 The question most buyers face isn't whether to buy Xtratufs. It's which height to buy.
 
@@ -107,7 +109,7 @@ The 15" also has enough shaft flexibility to roll down fully, which serves two p
 
 For the complete breakdown on construction details, fit considerations, and how the Legacy compares to other deck boot options, read our full review:
 
-**[Xtratuf Legacy Fishing Boots Full Review →](/reviews/gear/xtratuf-fishing-boots/)**
+**[Xtratuf Legacy Fishing Boots Full Review →](/reviews/clothing/xtratuf-fishing-boots/)**
 
 ---
 

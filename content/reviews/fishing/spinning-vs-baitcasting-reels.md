@@ -12,7 +12,7 @@ tags:
   - fishing reel comparison
   - bass fishing
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: spinning-vs-baitcasting-reels
 ---
 

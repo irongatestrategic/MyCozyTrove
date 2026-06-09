@@ -10,7 +10,7 @@ tags:
   - osprey atmos review
   - mid-range backpacking pack
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: osprey-atmos-ag-lt-50-review
 ---
 

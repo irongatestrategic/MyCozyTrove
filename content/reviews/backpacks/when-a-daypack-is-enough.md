@@ -10,7 +10,7 @@ tags:
   - when do you need a backpacking pack
   - daypack size guide
 affiliate: false
-site: MyCozytTrove
+site: MyCozyTrove
 slug: when-a-daypack-is-enough
 ---
 

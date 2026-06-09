@@ -1,7 +1,7 @@
-﻿---
+---
 layout: base
 title: "Solar Panels vs. Portable Power Stations: What's the Right Camp Power Setup?"
-description: "Solar panels or a portable power station for camping? This guide breaks down trip length, campsite type, and budget [Jackery 1500 Ultra and 2000 Plus](/reviews/power/jackery-1500-ultra-vs-2000-plus/) to help you build the right off-grid power setup [self-sufficiency skills and resources](/reviews/self-sufficiency/index/)."
+description: "Solar panels or a portable power station for camping? This guide breaks down trip length, campsite type, and budget to help you build the right off-grid power setup."
 date: 2026-03-22
 author: Jeff M.
 category: power
@@ -11,7 +11,7 @@ tags:
   - camp power
   - overlanding
 affiliate: true
-site: MyCozytTrove
+site: MyCozyTrove
 slug: solar-panels-vs-portable-power-stations-camp-setup
 ---
 
@@ -29,7 +29,7 @@ Portable power for camping comes down to two components: something that generate
 
 **Solar panels generate energy.** They convert sunlight into DC electricity but have no storage capacity. Without a battery to receive the charge, the output is wasted.
 
-**The practical threshold:** If you camp for 48 hours or less [complete solo camping kit for weekend trips](/reviews/camping/best-solo-camping-gear-weekend-trips/), a power station charged at home before you leave is usually enough. For trips of 3 days or more without access to shore power [Jackery Explorer 1000 v2 vs. 2000 Plus](/reviews/outdoor/jackery-1000-pro-v2-vs-2000-pro-v2/), solar panels are the only way to replenish that storage without driving back to a campground hookup.
+**The practical threshold:** If you camp for 48 hours or less [complete solo camping kit for weekend trips](/reviews/camping/best-solo-camping-gear-weekend-trips/), a power station charged at home before you leave is usually enough. For trips of 3 days or more without access to shore power [Jackery Explorer 1000 v2 vs. 2000 Plus](/reviews/power/jackery-1000-pro-v2-vs-2000-pro-v2/), solar panels are the only way to replenish that storage without driving back to a campground hookup.
 
 ---
 
@@ -107,7 +107,7 @@ For most campers the answer is sequential: start with a power station that fits 
 
 Size to your real load, not your theoretical worst case. A 1,000Wh station with 200W of solar covers the majority of overlanding use cases without the cost or weight of a larger system.
 
-> Not sure which power station size fits your setup? See our [Camping Power Station Decision Guide](/outdoor/camping-power-station-guide/) for a load-based sizing walkthrough. [INTERNAL LINK: Camping Power Station Decision Page]
+> Not sure which power station size fits your setup? See our [Portable Power Hub](/reviews/power/portable-power-camping-fishing-outdoor-hub/) for a load-based sizing walkthrough.
 
 ---
 
