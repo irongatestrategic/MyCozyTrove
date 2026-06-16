@@ -158,3 +158,4 @@ A reasonable target is 20% of your body weight or less. For a 180-lb hiker, that
 ## Related
 
 - [Backpack Materials Explained: What the Specs Actually Mean](/reviews/backpacks/backpack-materials-explained/)
+- [How to Pack a Backpacking Pack: Load Distribution and What Goes Where](/reviews/backpacks/how-to-pack-backpacking-pack/)

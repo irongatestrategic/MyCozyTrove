@@ -109,3 +109,6 @@ Carbon reduces weight but has lower rigidity under sustained high-torque loads. 
 ## Related
 
 - [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)
+- [Inshore Saltwater Fishing: Target Species, Gear, and When to Go](/reviews/fishing/inshore-saltwater-fishing-guide/)
+- [Saltwater Fishing Line: Braid vs Monofilament vs Fluorocarbon for Shore and Inshore](/reviews/fishing/saltwater-fishing-line-guide/)
+- [Saltwater Fishing from Shore: What Gear You Actually Need to Start](/reviews/fishing/saltwater-shore-fishing-gear-guide/)
