@@ -466,10 +466,7 @@ Return ONLY valid JSON in this exact format:
         fs.writeFileSync(backupFile, content); // backup first
 
         for (const link of suggestion.outbound) {
-          const fmEnd1 = content.indexOf('---', 3);
-          const bodyStart1 = fmEnd1 > 0 ? fmEnd1 + 3 : 0;
-          const bodyContent1 = content.slice(bodyStart1);
-          if (bodyContent1.includes(link.insertion_point)) {
+          if (content.includes(link.insertion_point)) {
             content = content.replace(
               link.insertion_point,
               `${link.insertion_point} ${link.link_text_to_insert}`
@@ -498,10 +495,7 @@ Return ONLY valid JSON in this exact format:
           const backupFile = path.join(backupPath, path.basename(sourceEntry.filePath));
           if (!fs.existsSync(backupFile)) fs.writeFileSync(backupFile, content);
 
-          const fmEnd2 = content.indexOf('---', 3);
-          const bodyStart2 = fmEnd2 > 0 ? fmEnd2 + 3 : 0;
-          const bodyContent2 = content.slice(bodyStart2);
-          if (bodyContent2.includes(link.insertion_point)) {
+          if (content.includes(link.insertion_point)) {
             content = content.replace(
               link.insertion_point,
               `${link.insertion_point} ${link.link_text_to_insert}`
