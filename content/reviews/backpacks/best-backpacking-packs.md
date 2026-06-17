@@ -1,4 +1,4 @@
----
+﻿---
 layout: base
 title: "Best Backpacking Packs for Hiking and Camping (2026)"
 description: "Osprey, Gregory, and Kelty backpacking packs compared by capacity, fit, suspension, and real-world use. Find the right pack for your next camping or hiking trip."
@@ -159,3 +159,8 @@ A reasonable target is 20% of your body weight or less. For a 180-lb hiker, that
 
 - [Backpack Materials Explained: What the Specs Actually Mean](/reviews/backpacks/backpack-materials-explained/)
 - [How to Pack a Backpacking Pack: Load Distribution and What Goes Where](/reviews/backpacks/how-to-pack-backpacking-pack/)
+
+**Related:**
+- [Kelty Asher 55 vs Osprey Atmos AG LT 50: Budget vs Premium Backpacking Pack](/reviews/backpacks/kelty-asher-55-vs-osprey-atmos/)
+- [Osprey Atmos AG vs Gregory Paragon: Which Men's Backpacking Pack Fits Better?](/reviews/backpacks/osprey-atmos-vs-gregory-paragon/)
+- [When to Size Up Your Backpack: Signs Your Pack Is Too Small for Your Style](/reviews/backpacks/when-to-size-up-backpack/)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: base
 title: "Best Freshwater Fishing Rod and Reel Combos: What Actually Works"
 description: "Spec-based guide to freshwater spinning and baitcasting combos. Covers all-around, bass, trout, and budget setups with honest trade-off analysis."
@@ -137,3 +137,5 @@ Baitcasting for dedicated bass fishing — better accuracy and torque for pullin
 
 **How much should I spend on my first fishing rod and reel combo?**
 $75–120 is the practical floor for gear that performs and lasts. Below $50, drag systems and guide quality tend to fail under the pressure of a real fish. Above $150 on a first setup adds features that only matter once you've developed enough feel to notice them.
+- [Best Freshwater Fishing Setup Under $150: Rod, Reel, and Line for Weekend Anglers](/reviews/fishing/best-freshwater-fishing-setup-under-150/)
+- [Piscifun AlinoX 400 Review: Is This Baitcasting Reel Worth It for Freshwater Bass?](/reviews/fishing/piscifun-alinox-400-freshwater-review/)
