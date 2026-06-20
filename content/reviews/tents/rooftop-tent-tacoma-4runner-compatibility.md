@@ -128,6 +128,6 @@ If you're not ready to budget for the rack, don't buy the tent yet. The rack is 
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — What to Look For in a 4-Season Rooftop Tent] (lateral — sibling answer page, rooftop-tent-guide cluster)
+- [Rooftop Tent Winter Camping: Setup and Warmth Guide](/reviews/tents/rooftop-tent-winter-camping/)
 - [Tacoma Bed Rack Options for Overlanding](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/) (lateral — sibling answer page, rooftop-tent-guide cluster)
 - [Rooftop Tent Buying Guide](/reviews/tents/rooftop-tent-buying-guide/) (hub — L1 or L2 hub page, rooftop-tent-guide cluster)

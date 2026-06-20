@@ -117,7 +117,7 @@ For most solo campers and anglers in the Gulf Coast and Mississippi region, the 
 
 **<a href="https://tidd.ly/4tuUOW3" target="_blank" rel="noopener noreferrer">Check Current Price — Traverseon 830g Bivy Tent →</a>**
 
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2Fbig-agnes-copper-spur-ul1-tent%2F10627-TCSUL1TGO25%2F" target="_blank" rel="noopener noreferrer">Check Current Price — Big Agnes Copper Spur UL1 at Scheels →</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2Fbig-agnes-copper-spur-ul1-tent%2F10627-TCSUL1TGO25%2F" target="_blank" rel="noopener noreferrer">Check Current Price — Big Agnes Copper Spur UL1 at Scheels →</a>**
 
 ---
 

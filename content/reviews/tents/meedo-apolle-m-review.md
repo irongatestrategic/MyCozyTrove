@@ -129,5 +129,5 @@ The Zeus I M is for larger rigs where the premium features justify the cost over
 ## Related
 
 - [rooftop tent buying guide hub page](/reviews/tents/rooftop-tent-buying-guide/) (cluster hub: rooftop-tent-guide)
-- [INTERNAL_LINK_NEEDED — rooftop tent vs. ground tent comparison]
-- [INTERNAL_LINK_NEEDED — how to choose a roof rack for a compact SUV]
+- [Rooftop Tent vs. Ground Tent for Car Camping](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)

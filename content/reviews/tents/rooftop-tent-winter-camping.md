@@ -118,5 +118,4 @@ If your winter use case fits within those parameters, the setup works and works 
 ## Related
 
 - [winter camping gear checklist for vehicle-supported trips](/reviews/tents/rooftop-tent-winter-camping/)
-- [INTERNAL_LINK_NEEDED — sleeping bag temperature ratings explained: what the numbers actually mean]
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)

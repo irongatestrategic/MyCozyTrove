@@ -171,8 +171,7 @@ Neither tent is the right choice if your vehicle's static load rating and rack c
 ## Related
 
 - [Best Roof Racks for Rooftop Tents: load ratings and vehicle compatibility](/reviews/tents/rooftop-tent-vehicle-compatibility/)
-- [INTERNAL_LINK_NEEDED — Ground Tent vs. Rooftop Tent: weight, cost, and campsite trade-offs]
-- [INTERNAL_LINK_NEEDED — Car Camping Gear Essentials: what actually earns its place in the kit]
+- [Rooftop Tent vs. Ground Tent for Car Camping](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
 - [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
 - [Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
 - [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)

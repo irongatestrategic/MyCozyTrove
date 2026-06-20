@@ -135,7 +135,6 @@ Neither tent is a casual purchase. Verify your rack's static load rating before 
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — what to look for in a rooftop tent rack system]
-- [INTERNAL_LINK_NEEDED — essential gear for solo overlanding and remote fishing trips]
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [The Complete Rooftop Tent Guide](/reviews/tents/rooftop-tent-guide/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)

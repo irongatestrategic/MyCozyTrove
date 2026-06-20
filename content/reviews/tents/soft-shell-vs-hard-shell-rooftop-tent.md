@@ -149,6 +149,5 @@ In either case, verify your aftermarket rack's static load rating before purchas
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — how to choose an aftermarket roof rack for rooftop tents]
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
-- [INTERNAL_LINK_NEEDED — solo camping gear checklist for anglers]

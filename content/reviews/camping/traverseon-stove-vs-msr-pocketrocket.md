@@ -119,7 +119,7 @@ For Gulf Coast campers driving to their sites, the Traverseon 3800W is the bette
 
 **<a href="https://tidd.ly/47NS6CB" target="_blank" rel="noopener noreferrer">Check Current Price — Traverseon 3800W Gas Camping Stove →</a>**
 
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2Fmsr-pocket-rocket-2-stove%2F04081809884.html" target="_blank" rel="noopener noreferrer">Check Current Price — MSR PocketRocket 2 at Scheels →</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2Fmsr-pocket-rocket-2-stove%2F04081809884.html" target="_blank" rel="noopener noreferrer">Check Current Price — MSR PocketRocket 2 at Scheels →</a>**
 
 ---
 

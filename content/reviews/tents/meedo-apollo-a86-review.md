@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Meedo Apollo A86 M Review: A $1100 Rooftop Tent That Earns Its Price"
-description: "Meedo Apollo A86 M vs Zeus I M [soft-shell vs hard-shell RTT comparison](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/): soft-shell vs hard-shell RTT compared on weight, setup time, and price [Apollo A86 M vs Zeus I M comparison](/reviews/tents/meedo-apollo-vs-zeus-rooftop-tent/) so you buy the right one."
+description: "Meedo Apollo A86 M vs Zeus I M: soft-shell vs hard-shell RTT compared on weight, setup time, and price so you buy the right one."
 date: 2026-06-02
 author: Jeff M.
 category: tents
@@ -143,6 +143,6 @@ Neither tent is worth buying without an aftermarket rack rated for the dynamic l
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — what to look for in a 4-season rooftop tent]
-- [INTERNAL_LINK_NEEDED — rooftop tent vs. ground tent: which is right for you]
+- [Rooftop Tent Winter Camping: Setup and Warmth Guide](/reviews/tents/rooftop-tent-winter-camping/)
+- [Rooftop Tent vs. Ground Tent for Car Camping](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)

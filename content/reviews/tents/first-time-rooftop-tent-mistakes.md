@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "What Nobody Tells You About Rooftop Tents Before You Buy"
-description: "RTTs cost more than the sticker price [how long rooftop tents typically last](/reviews/tents/how-long-do-rooftop-tents-last/) and strand your vehicle at camp. Here's what first-time buyers miss before spending [rooftop tent accessories worth buying](/reviews/tents/rooftop-tent-accessories-worth-buying/) $1,500+."
+description: "RTTs cost more than the sticker price and strand your vehicle at camp. Here's what first-time buyers miss before spending $1,500+."
 date: 2026-06-02
 author: Jeff M.
 category: tents
@@ -146,6 +146,6 @@ If you camp primarily at developed sites or need your vehicle for day trips, nei
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — Guide to Vehicle Roof Rack Static Load Ratings]
-- [INTERNAL_LINK_NEEDED — Hard Shell vs. Soft Shell Rooftop Tents: Full Comparison]
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
+- [Soft Shell vs. Hard Shell Rooftop Tent: Which Is Right for You?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)

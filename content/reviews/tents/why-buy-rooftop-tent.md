@@ -104,5 +104,5 @@ If you camp in developed sites, leave your vehicle at trailheads, or prioritize 
 
 **Related:**
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
-- [INTERNAL_LINK_NEEDED — vehicle roof rack load ratings: what anglers and overlanders need to verify]
-- [INTERNAL_LINK_NEEDED — 4-season tent comparison: RTT vs ground tent for cold weather camping]
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
+- [Rooftop Tent vs. Ground Tent for Car Camping](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)

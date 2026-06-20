@@ -128,6 +128,6 @@ Everything in the "do not buy" section either duplicates something simpler, exce
 ## Related
 
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
-- [INTERNAL_LINK_NEEDED — lateral: choosing the right roof rack for your RTT setup]
-- [INTERNAL_LINK_NEEDED — lateral: rooftop tent maintenance and longevity guide]
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
+- [How Long Do Rooftop Tents Last?](/reviews/tents/how-long-do-rooftop-tents-last/)
 ```

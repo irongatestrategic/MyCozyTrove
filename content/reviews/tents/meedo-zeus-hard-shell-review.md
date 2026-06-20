@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Meedo Zeus I M Hard Shell Review: 60-Second Setup Changes Everything"
-description: "Meedo Zeus I M vs Apollo M: hard shell vs soft shell rooftop tent compared on setup time, weight, weather protection, and roof rack requirements [compare the Apollo and Zeus directly](/reviews/tents/meedo-apollo-vs-zeus-rooftop-tent/)."
+description: "Meedo Zeus I M vs Apollo M: hard shell vs soft shell rooftop tent compared on setup time, weight, weather protection, and roof rack requirements."
 date: 2026-06-02
 author: Jeff M.
 category: tents
@@ -146,6 +146,5 @@ Condensation is the other recurring owner note. In cold, humid conditions, even 
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — Best Roof Racks for Rooftop Tents: Load Ratings and Compatibility Guide]
-- [INTERNAL_LINK_NEEDED — Essential Camping Gear for Anglers: What Actually Goes in the Tent]
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)

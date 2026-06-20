@@ -118,7 +118,7 @@ For weight-conscious single-night Gulf Coast camping with active gear management
 
 **<a href="https://tidd.ly/4v8Vvpz" target="_blank" rel="noopener noreferrer">Check Current Price — Traverseon Down Mummy Sleeping Bag →</a>**
 
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2Fbig-agnes-anthracite-20-degree-sleeping-bag%2F10627-BTMA20RL23%2F" target="_blank" rel="noopener noreferrer">Check Current Price — Big Agnes Anthracite 20° at Scheels →</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2Fbig-agnes-anthracite-20-degree-sleeping-bag%2F10627-BTMA20RL23%2F" target="_blank" rel="noopener noreferrer">Check Current Price — Big Agnes Anthracite 20° at Scheels →</a>**
 
 ---
 

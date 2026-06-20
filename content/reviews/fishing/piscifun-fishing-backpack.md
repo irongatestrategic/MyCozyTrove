@@ -136,8 +136,6 @@ This setup handles 90% of my bass fishing trips. For specialized trips (night fi
 
 ## Technical Specs
 
-**[INSERT DETAILED SPECS]**
-
 - Capacity: 20 liters
 - Main Compartment: 16.9" x 12" x 7.4"
 - Tackle Box Capacity: 4-6 boxes (3600 size)
@@ -160,8 +158,6 @@ At $50, it's an easy recommendation for anyone who's tired of juggling a tackle 
 ---
 
 *Full disclosure: I earn a commission if you purchase through the links above. This is gear I use regularly and recommend based on actual fishing trips, not just product descriptions.*
-
-
 
 ## Related
 

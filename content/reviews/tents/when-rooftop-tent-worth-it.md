@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "When Is a Rooftop Tent Actually Worth the Money?"
-description: "A rooftop tent pays off for solo anglers and dispersed campers on varied terrain [accessories that justify their weight and cost](/reviews/tents/rooftop-tent-accessories-worth-buying/)—but only with the right vehicle rack [verify your vehicle's static load rating](/reviews/tents/rooftop-tent-vehicle-compatibility/). Here's when the math works [when an RTT makes sense](/reviews/tents/why-buy-rooftop-tent/) [what first-time buyers miss before spending](/reviews/tents/first-time-rooftop-tent-mistakes/)."
+description: "A rooftop tent pays off for solo anglers and dispersed campers on varied terrain—but only with the right vehicle rack. Here's when the math works."
 date: 2026-06-02
 author: Jeff M.
 category: tents
@@ -140,6 +140,5 @@ If you primarily use established campgrounds, need the vehicle mobile at night, 
 
 ## Related
 
-- [INTERNAL_LINK_NEEDED — Guide to choosing an aftermarket roof rack for RTT use]
-- [INTERNAL_LINK_NEEDED — Best sleeping setups for dispersed camping]
+- [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)

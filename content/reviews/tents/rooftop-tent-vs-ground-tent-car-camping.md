@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?"
-description: "Car camping 10 nights a year? Ground tents win on cost, flexibility, and campsite access. Here's when a rooftop tent actually makes sense [A $1100 rooftop tent that earns its price](/reviews/tents/meedo-apollo-a86-review/)."
+description: "Car camping 10 nights a year? Ground tents win on cost, flexibility, and campsite access. Here's when a rooftop tent actually makes sense."
 date: 2026-06-02
 author: Jeff M.
 category: tents
@@ -156,5 +156,4 @@ The calculation shifts if you're at 30+ nights annually, frequently camp at disp
 ## Related
 
 - [rooftop tent buying guide hub page, cluster: rooftop-tent-guide](/reviews/tents/rooftop-tent-buying-guide/)
-- [INTERNAL_LINK_NEEDED — hardshell vs softshell rooftop tent comparison, cluster: rooftop-tent-guide]
-- [INTERNAL_LINK_NEEDED — best 3-season ground tents for car camping, category: tents]
+- [Soft Shell vs. Hard Shell Rooftop Tent: Which Is Right for You?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
