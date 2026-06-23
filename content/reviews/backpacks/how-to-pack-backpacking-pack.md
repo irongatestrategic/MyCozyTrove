@@ -138,10 +138,6 @@ Pack a backpacking pack by placing your heaviest, densest items closest to your 
 
 </details>
 
-**Related:**
-- [Best Backpacking Packs](/reviews/backpacks/best-backpacking-packs/)
-- [How to Fit a Backpack](/reviews/backpacks/how-to-fit-a-backpack/)
-- [Signs Your Pack Doesn't Fit](/reviews/backpacks/signs-your-pack-doesnt-fit/)
 
 
 <script type="application/ld+json">

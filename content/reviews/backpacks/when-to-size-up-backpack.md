@@ -110,7 +110,7 @@ If your issue is fit rather than volume — straps digging in, hip belt sitting 
 <details>
 <summary><strong>How do I know if my backpack is too small for backpacking?</strong></summary>
 
-Your backpack is too small when you routinely strap gear to the outside, max out compression straps on every trip, leave essential items behind because they won't fit, or can't stow a bear canister internally. If any of those conditions describe your last two or three trips, the pack is the problem — not your packing. For most hikers hitting that wall on 3–5 night trips, stepping up to a 50–60L pack resolves it. The Osprey Atmos AG LT 50 is the most commonly recommended move in this range: 50L i
+Your backpack is too small when you routinely strap gear to the outside, max out compression straps on every trip, leave essential items behind because they won't fit, or can't stow a bear canister internally. If any of those conditions describe your last two or three trips, the pack is the problem — not your packing. For most hikers hitting that wall on 3–5 night trips, stepping up to a 50–60L pack resolves it. The Osprey Atmos AG LT 50 is the most commonly recommended move in this range: 50L internal volume, Anti-Gravity suspension rated to 35 lbs, and a medium-size weight of approximately 2.9 lbs.
 
 </details>
 
@@ -130,7 +130,7 @@ Your backpack is too small when you routinely strap gear to the outside, max out
       "name": "How do I know if my backpack is too small for backpacking?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your backpack is too small when you routinely strap gear to the outside, max out compression straps on every trip, leave essential items behind because they won't fit, or can't stow a bear canister internally. If any of those conditions describe your last two or three trips, the pack is the problem — not your packing. For most hikers hitting that wall on 3–5 night trips, stepping up to a 50–60L pack resolves it. The Osprey Atmos AG LT 50 is the most commonly recommended move in this range: 50L i"
+        "text": "Your backpack is too small when you routinely strap gear to the outside, max out compression straps on every trip, leave essential items behind because they won't fit, or can't stow a bear canister internally. If any of those conditions describe your last two or three trips, the pack is the problem — not your packing. For most hikers hitting that wall on 3–5 night trips, stepping up to a 50–60L pack resolves it. The Osprey Atmos AG LT 50 is the most commonly recommended move in this range: 50L internal volume, Anti-Gravity suspension rated to 35 lbs, and a medium-size weight of approximately 2.9 lbs."
       }
     }
   ]

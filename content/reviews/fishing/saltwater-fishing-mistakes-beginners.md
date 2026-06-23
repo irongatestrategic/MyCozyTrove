@@ -167,10 +167,6 @@ The five saltwater fishing mistakes that cost anglers the most fish are: skippin
 
 </details>
 
-**Related:**
-- [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)
-- [Saltwater Fishing Line Guide](/reviews/fishing/saltwater-fishing-line-guide/)
-- [Saltwater Shore Fishing Gear Guide](/reviews/fishing/saltwater-shore-fishing-gear-guide/)
 
 
 <script type="application/ld+json">

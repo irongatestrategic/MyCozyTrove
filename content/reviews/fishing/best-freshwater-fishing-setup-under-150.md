@@ -137,7 +137,6 @@ Neither reel requires upgrading within a season if matched to appropriate fish s
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/) — broader overview if you want pre-matched combos instead of building a setup
 - [Best Freshwater Spinning Combo](/reviews/fishing/best-freshwater-spinning-combo/) — specific spinning combo picks if you prefer a single purchase
 - [Fishing Rod Power and Action Guide](/reviews/fishing/fishing-rod-power-action-guide/) — spec breakdown for rod selection across freshwater applications
-```
 
 
 
@@ -146,14 +145,10 @@ Neither reel requires upgrading within a season if matched to appropriate fish s
 <details>
 <summary><strong>What is the best freshwater fishing rod and reel combo under $150 for a beginner?</strong></summary>
 
-Two Piscifun spinning reels fit a functional freshwater setup under $150: the AlinoX 400 and the NautiX 400. If your budget caps at $130 and you fish occasionally, the AlinoX 400 is the right call. If you can stretch to $145 and fish regularly enough to care about drag consistency on larger fish, the NautiX 400 earns the extra $15–$20. Both pair with a 6'6"–7' medium power, moderate-fast action rod and 8–10lb mono or 10–15lb braid to cover bass, walleye, catfish, trout, and panfish in ponds, lak
+Two Piscifun spinning reels fit a functional freshwater setup under $150: the AlinoX 400 and the NautiX 400. If your budget caps at $130 and you fish occasionally, the AlinoX 400 is the right call. If you can stretch to $145 and fish regularly enough to care about drag consistency on larger fish, the NautiX 400 earns the extra $15–$20. Both pair with a 6'6"–7' medium power, moderate-fast action rod and 8–10lb mono or 10–15lb braid to cover bass, walleye, catfish, trout, and panfish in ponds, lakes, and rivers. This article gives you the criteria to identify which situation you're in.
 
 </details>
 
-**Related:**
-- [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
-- [Best Freshwater Spinning Combo](/reviews/fishing/best-freshwater-spinning-combo/)
-- [Fishing Rod Power and Action Guide](/reviews/fishing/fishing-rod-power-action-guide/)
 
 
 <script type="application/ld+json">
@@ -166,7 +161,7 @@ Two Piscifun spinning reels fit a functional freshwater setup under $150: the Al
       "name": "What is the best freshwater fishing rod and reel combo under $150 for a beginner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Two Piscifun spinning reels fit a functional freshwater setup under $150: the AlinoX 400 and the NautiX 400. If your budget caps at $130 and you fish occasionally, the AlinoX 400 is the right call. If you can stretch to $145 and fish regularly enough to care about drag consistency on larger fish, the NautiX 400 earns the extra $15–$20. Both pair with a 6'6\"–7' medium power, moderate-fast action rod and 8–10lb mono or 10–15lb braid to cover bass, walleye, catfish, trout, and panfish in ponds, lak"
+        "text": "Two Piscifun spinning reels fit a functional freshwater setup under $150: the AlinoX 400 and the NautiX 400. If your budget caps at $130 and you fish occasionally, the AlinoX 400 is the right call. If you can stretch to $145 and fish regularly enough to care about drag consistency on larger fish, the NautiX 400 earns the extra $15–$20. Both pair with a 6'6\"–7' medium power, moderate-fast action rod and 8–10lb mono or 10–15lb braid to cover bass, walleye, catfish, trout, and panfish in ponds, lakes, and rivers. This article gives you the criteria to identify which situation you're in."
       }
     }
   ]

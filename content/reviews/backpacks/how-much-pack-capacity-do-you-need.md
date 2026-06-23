@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "How Much Pack Capacity Do You Actually Need?"
+title: "How Much Backpack Capacity Do You Need? 20L to 65L+ by Trip Type and Sleep System"
 description: "Backpack volume explained by trip length and gear compressibility. Learn exactly how many liters you need before buying a hiking or backpacking pack."
 date: 2026-05-01
 author: Jeff M.

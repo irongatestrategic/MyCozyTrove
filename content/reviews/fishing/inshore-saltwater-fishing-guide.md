@@ -140,14 +140,10 @@ Fish moving tides. Fish early or late. In spring and fall, you'll find the most 
 <details>
 <summary><strong>What is inshore saltwater fishing and what gear do I need?</strong></summary>
 
-Inshore saltwater fishing covers bays, estuaries, flats, marshes, and nearshore waters shallower than 30 feet. The foundational setup is a 7-foot to 7-foot-6-inch medium-heavy spinning rod paired with a 3000–4000 size reel like the Piscifun NautiX, spooled with 20–30lb braid and a 15–20lb fluorocarbon leader. Fish move with the tide — peak feeding typically falls in the first two hours of an incoming or outgoing tide, during early morning or late evening. Spring and fall produce the highest catc
+Inshore saltwater fishing covers bays, estuaries, flats, marshes, and nearshore waters shallower than 30 feet. The foundational setup is a 7-foot to 7-foot-6-inch medium-heavy spinning rod paired with a 3000–4000 size reel like the Piscifun NautiX, spooled with 20–30lb braid and a 15–20lb fluorocarbon leader. Fish move with the tide — peak feeding typically falls in the first two hours of an incoming or outgoing tide, during early morning or late evening. Spring and fall produce the highest catch rates as redfish, speckled trout, flounder, snook, and striped bass migrate in and out of estuaries. Species location changes by season, structure, and temperature, so the sections below cover each factor directly.
 
 </details>
 
-**Related:**
-- [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)
-- [Saltwater Shore Fishing Gear Guide](/reviews/fishing/saltwater-shore-fishing-gear-guide/)
-- [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)
 
 
 <script type="application/ld+json">
@@ -160,7 +156,7 @@ Inshore saltwater fishing covers bays, estuaries, flats, marshes, and nearshore 
       "name": "What is inshore saltwater fishing and what gear do I need?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Inshore saltwater fishing covers bays, estuaries, flats, marshes, and nearshore waters shallower than 30 feet. The foundational setup is a 7-foot to 7-foot-6-inch medium-heavy spinning rod paired with a 3000–4000 size reel like the Piscifun NautiX, spooled with 20–30lb braid and a 15–20lb fluorocarbon leader. Fish move with the tide — peak feeding typically falls in the first two hours of an incoming or outgoing tide, during early morning or late evening. Spring and fall produce the highest catc"
+        "text": "Inshore saltwater fishing covers bays, estuaries, flats, marshes, and nearshore waters shallower than 30 feet. The foundational setup is a 7-foot to 7-foot-6-inch medium-heavy spinning rod paired with a 3000–4000 size reel like the Piscifun NautiX, spooled with 20–30lb braid and a 15–20lb fluorocarbon leader. Fish move with the tide — peak feeding typically falls in the first two hours of an incoming or outgoing tide, during early morning or late evening. Spring and fall produce the highest catch rates as redfish, speckled trout, flounder, snook, and striped bass migrate in and out of estuaries. Species location changes by season, structure, and temperature, so the sections below cover each factor directly."
       }
     }
   ]

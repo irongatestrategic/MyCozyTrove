@@ -159,14 +159,10 @@ The Osprey Atmos AG LT 50 earns its price after you've established a backpacking
 <details>
 <summary><strong>Kelty Asher 55 vs Osprey Atmos AG — is the price difference worth it for a beginner backpacker?</strong></summary>
 
-The Kelty Asher 55 is the right starting point for most beginner backpackers. At ~$160 for 55 liters, it handles 2–3 day trips without demanding a serious financial commitment to a hobby you may still be testing. The Osprey Atmos AG LT 50 at ~$270 earns its $110 premium through measurably better ventilation and a 7 oz weight reduction — but only if you're logging consistent multi-day miles in warm conditions where those differences register. If you're unsure how often you'll actually backpack, t
+The Kelty Asher 55 is the right starting point for most beginner backpackers. At ~$160 for 55 liters, it handles 2–3 day trips without demanding a serious financial commitment to a hobby you may still be testing. The Osprey Atmos AG LT 50 at ~$270 earns its $110 premium through measurably better ventilation and a 7 oz weight reduction — but only if you're logging consistent multi-day miles in warm conditions where those differences register. If you're unsure how often you'll actually backpack, the Kelty is the lower-risk call.
 
 </details>
 
-**Related:**
-- [Best Backpacking Packs](/reviews/backpacks/best-backpacking-packs/)
-- [Kelty Asher 55 Review](/reviews/backpacks/kelty-asher-55-review/)
-- [Osprey Atmos AG LT 50 Review](/reviews/backpacks/osprey-atmos-ag-lt-50-review/)
 
 
 <script type="application/ld+json">
@@ -179,7 +175,7 @@ The Kelty Asher 55 is the right starting point for most beginner backpackers. At
       "name": "Kelty Asher 55 vs Osprey Atmos AG — is the price difference worth it for a beginner backpacker?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Kelty Asher 55 is the right starting point for most beginner backpackers. At ~$160 for 55 liters, it handles 2–3 day trips without demanding a serious financial commitment to a hobby you may still be testing. The Osprey Atmos AG LT 50 at ~$270 earns its $110 premium through measurably better ventilation and a 7 oz weight reduction — but only if you're logging consistent multi-day miles in warm conditions where those differences register. If you're unsure how often you'll actually backpack, t"
+        "text": "The Kelty Asher 55 is the right starting point for most beginner backpackers. At ~$160 for 55 liters, it handles 2–3 day trips without demanding a serious financial commitment to a hobby you may still be testing. The Osprey Atmos AG LT 50 at ~$270 earns its $110 premium through measurably better ventilation and a 7 oz weight reduction — but only if you're logging consistent multi-day miles in warm conditions where those differences register. If you're unsure how often you'll actually backpack, the Kelty is the lower-risk call."
       }
     }
   ]

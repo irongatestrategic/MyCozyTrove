@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Backpack Materials Explained: What the Specs Actually Mean"
+title: "Backpack Materials Explained: Denier, Nylon vs. Polyester, Dyneema, and Ripstop Compared"
 description: "Denier ratings, nylon vs polyester, Dyneema, ripstop, and frame materials explained. Know what you're buying before you spend $200 on a pack."
 date: 2026-05-01
 author: Jeff M.

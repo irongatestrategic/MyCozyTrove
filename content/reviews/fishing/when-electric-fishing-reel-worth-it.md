@@ -137,10 +137,6 @@ An electric fishing reel is worth buying when you're regularly fishing deeper th
 
 </details>
 
-**Related:**
-- [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)
-- [Piscifun Kraken Electric Reel Review](/reviews/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/)
-- [When Not to Buy an Electric Reel](/reviews/fishing/when-not-to-buy-electric-reel/)
 
 
 <script type="application/ld+json">

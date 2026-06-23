@@ -154,14 +154,10 @@ If you're running a topwater bite in stained water or mangroves where fish visib
 <details>
 <summary><strong>What fishing line should I use for saltwater fishing from shore?</strong></summary>
 
-For saltwater shore and inshore fishing, run 30lb braided line as your main line with an 18–24 inch, 20lb fluorocarbon leader. Braid delivers the sensitivity and casting distance you need to detect subtle bites and reach distant targets. The fluorocarbon leader handles stealth in clear water and abrasion resistance against sharp structure or fish teeth. Monofilament has specific situations where it earns its place — topwater presentations, shock absorption, budget constraints — but it does not m
+For saltwater shore and inshore fishing, run 30lb braided line as your main line with an 18–24 inch, 20lb fluorocarbon leader. Braid delivers the sensitivity and casting distance you need to detect subtle bites and reach distant targets. The fluorocarbon leader handles stealth in clear water and abrasion resistance against sharp structure or fish teeth. Monofilament has specific situations where it earns its place — topwater presentations, shock absorption, budget constraints — but it does not match braid's casting performance or sensitivity for general shore work.
 
 </details>
 
-**Related:**
-- [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)
-- [Saltwater Shore Fishing Gear Guide](/reviews/fishing/saltwater-shore-fishing-gear-guide/)
-- [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)
 
 
 <script type="application/ld+json">
@@ -174,7 +170,7 @@ For saltwater shore and inshore fishing, run 30lb braided line as your main line
       "name": "What fishing line should I use for saltwater fishing from shore?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For saltwater shore and inshore fishing, run 30lb braided line as your main line with an 18–24 inch, 20lb fluorocarbon leader. Braid delivers the sensitivity and casting distance you need to detect subtle bites and reach distant targets. The fluorocarbon leader handles stealth in clear water and abrasion resistance against sharp structure or fish teeth. Monofilament has specific situations where it earns its place — topwater presentations, shock absorption, budget constraints — but it does not m"
+        "text": "For saltwater shore and inshore fishing, run 30lb braided line as your main line with an 18–24 inch, 20lb fluorocarbon leader. Braid delivers the sensitivity and casting distance you need to detect subtle bites and reach distant targets. The fluorocarbon leader handles stealth in clear water and abrasion resistance against sharp structure or fish teeth. Monofilament has specific situations where it earns its place — topwater presentations, shock absorption, budget constraints — but it does not match braid's casting performance or sensitivity for general shore work."
       }
     }
   ]

@@ -135,14 +135,10 @@ Neither pack is the right answer for ultralight setups or expedition loads above
 <details>
 <summary><strong>Osprey Atmos AG vs Gregory Paragon — which backpacking pack is more comfortable for long trips?</strong></summary>
 
-If your loaded pack runs under 35 lbs and you hike in heat or humidity, the Osprey Atmos AG LT 50 is the right call — its suspended mesh back panel creates a measurable 3–4 cm air gap that reduces back sweat across long days. If your pack regularly hits 35–50 lbs or you're moving over uneven terrain, the Gregory Paragon 68 handles those loads more stably through its pivoting FreeFloat hipbelt. The ventilation gap between the two is real, but so is the 1 lb weight penalty and the load ceiling dif
+If your loaded pack runs under 35 lbs and you hike in heat or humidity, the Osprey Atmos AG LT 50 is the right call — its suspended mesh back panel creates a measurable 3–4 cm air gap that reduces back sweat across long days. If your pack regularly hits 35–50 lbs or you're moving over uneven terrain, the Gregory Paragon 68 handles those loads more stably through its pivoting FreeFloat hipbelt. The ventilation gap between the two is real, but so is the 1 lb weight penalty and the load ceiling difference. This article gives you the criteria to identify which situation you're in.
 
 </details>
 
-**Related:**
-- [Best Backpacking Packs](/reviews/backpacks/best-backpacking-packs/)
-- [Osprey Atmos AG LT 50 Review](/reviews/backpacks/osprey-atmos-ag-lt-50-review/)
-- [Osprey vs Gregory Backpack](/reviews/backpacks/osprey-vs-gregory-backpack/)
 
 
 <script type="application/ld+json">
@@ -155,7 +151,7 @@ If your loaded pack runs under 35 lbs and you hike in heat or humidity, the Ospr
       "name": "Osprey Atmos AG vs Gregory Paragon — which backpacking pack is more comfortable for long trips?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If your loaded pack runs under 35 lbs and you hike in heat or humidity, the Osprey Atmos AG LT 50 is the right call — its suspended mesh back panel creates a measurable 3–4 cm air gap that reduces back sweat across long days. If your pack regularly hits 35–50 lbs or you're moving over uneven terrain, the Gregory Paragon 68 handles those loads more stably through its pivoting FreeFloat hipbelt. The ventilation gap between the two is real, but so is the 1 lb weight penalty and the load ceiling dif"
+        "text": "If your loaded pack runs under 35 lbs and you hike in heat or humidity, the Osprey Atmos AG LT 50 is the right call — its suspended mesh back panel creates a measurable 3–4 cm air gap that reduces back sweat across long days. If your pack regularly hits 35–50 lbs or you're moving over uneven terrain, the Gregory Paragon 68 handles those loads more stably through its pivoting FreeFloat hipbelt. The ventilation gap between the two is real, but so is the 1 lb weight penalty and the load ceiling difference. This article gives you the criteria to identify which situation you're in."
       }
     }
   ]

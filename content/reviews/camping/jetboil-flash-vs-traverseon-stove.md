@@ -156,14 +156,10 @@ There is no universal answer here. Match the stove to your actual use pattern, n
 <details>
 <summary><strong>Jetboil Flash vs Traverseon gas stove — which is better for a weekend backpacker?</strong></summary>
 
-If your main camp cooking task is boiling water for rehydrated meals and hot drinks, the Jetboil Flash is the right stove. Its FluxRing system hits 0.5L in 120 seconds and yields roughly 12 liters of boiled water per 100g fuel canister — about twice the efficiency of an open-flame burner paired with a standard pot. If you already own a pot, cook actual meals, or are watching your budget, the Traverseon Gas Stove at ~$45 and ~100g covers those needs with better simmer control. The decision hinges
+If your main camp cooking task is boiling water for rehydrated meals and hot drinks, the Jetboil Flash is the right stove. Its FluxRing system hits 0.5L in 120 seconds and yields roughly 12 liters of boiled water per 100g fuel canister — about twice the efficiency of an open-flame burner paired with a standard pot. If you already own a pot, cook actual meals, or are watching your budget, the Traverseon Gas Stove at ~$45 and ~100g covers those needs with better simmer control. The decision hinges on one question: do you primarily boil water, or do you cook?
 
 </details>
 
-**Related:**
-- [Best Solo Camping Gear for Weekend Trips](/reviews/camping/best-solo-camping-gear-weekend-trips/)
-- [Traverseon Gas Camping Stove Review](/reviews/camping/traverseon-gas-camping-stove-review/)
-- [Traverseon Stove vs MSR PocketRocket](/reviews/camping/traverseon-stove-vs-msr-pocketrocket/)
 
 
 <script type="application/ld+json">
@@ -176,7 +172,7 @@ If your main camp cooking task is boiling water for rehydrated meals and hot dri
       "name": "Jetboil Flash vs Traverseon gas stove — which is better for a weekend backpacker?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If your main camp cooking task is boiling water for rehydrated meals and hot drinks, the Jetboil Flash is the right stove. Its FluxRing system hits 0.5L in 120 seconds and yields roughly 12 liters of boiled water per 100g fuel canister — about twice the efficiency of an open-flame burner paired with a standard pot. If you already own a pot, cook actual meals, or are watching your budget, the Traverseon Gas Stove at ~$45 and ~100g covers those needs with better simmer control. The decision hinges"
+        "text": "If your main camp cooking task is boiling water for rehydrated meals and hot drinks, the Jetboil Flash is the right stove. Its FluxRing system hits 0.5L in 120 seconds and yields roughly 12 liters of boiled water per 100g fuel canister — about twice the efficiency of an open-flame burner paired with a standard pot. If you already own a pot, cook actual meals, or are watching your budget, the Traverseon Gas Stove at ~$45 and ~100g covers those needs with better simmer control. The decision hinges on one question: do you primarily boil water, or do you cook?"
       }
     }
   ]

@@ -130,10 +130,6 @@ The Piscifun AlinoX 400 is a workable baitcasting reel for intermediate freshwat
 
 </details>
 
-**Related:**
-- [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
-- [Spinning vs Baitcasting Reels](/reviews/fishing/spinning-vs-baitcasting-reels/)
-- [When Not to Buy a Baitcasting Reel](/reviews/fishing/when-not-to-buy-baitcasting/)
 
 
 <script type="application/ld+json">

@@ -115,7 +115,6 @@ If you're also thinking about how experienced anglers structure their full gear 
 - [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)
 - [5 Signs Your Reel Is Failing](/reviews/fishing/five-signs-reel-failing/)
 - [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)
-```
 
 
 
@@ -128,10 +127,6 @@ Starting saltwater fishing from shore requires a focused kit built for corrosive
 
 </details>
 
-**Related:**
-- [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)
-- [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)
-- [5 Signs Your Reel Is Failing](/reviews/fishing/five-signs-reel-failing/)
 
 
 <script type="application/ld+json">
