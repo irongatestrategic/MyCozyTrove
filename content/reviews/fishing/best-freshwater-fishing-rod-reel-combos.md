@@ -1,4 +1,4 @@
-﻿---
+---
 layout: base
 title: "Best Freshwater Fishing Rod and Reel Combos: What Actually Works"
 description: "Spec-based guide to freshwater spinning and baitcasting combos. Covers all-around, bass, trout, and budget setups with honest trade-off analysis."

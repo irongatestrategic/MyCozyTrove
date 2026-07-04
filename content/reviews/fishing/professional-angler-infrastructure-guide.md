@@ -1,4 +1,4 @@
-﻿---
+---
 layout: base
 title: "The 2026 Professional Angler's Infrastructure Guide: Power, Precision, and Durability"
 description: "How to evaluate electric deep-drop, heavy-casting, and sealed spinning reels for saltwater and high-demand freshwater fishing—specs that determine longevity."

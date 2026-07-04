@@ -1,4 +1,4 @@
-﻿---
+---
 layout: base
 title: "The Best Solo Camping Gear for Weekend Trips (2026 Guide)"
 description: "A complete solo camping kit for Gulf Coast and Mississippi weekenders — shelter, sleep system, cooking, and comfort gear that fits in one pack and sets up in under 10 minutes."

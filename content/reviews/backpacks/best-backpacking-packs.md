@@ -1,4 +1,4 @@
-﻿---
+---
 layout: base
 title: "Best Backpacking Packs for Hiking and Camping (2026)"
 description: "Osprey, Gregory, and Kelty backpacking packs compared by capacity, fit, suspension, and real-world use. Find the right pack for your next camping or hiking trip."
