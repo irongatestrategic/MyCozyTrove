@@ -10,7 +10,6 @@ description: Honest gear reviews for fishermen, campers, and outdoor enthusiasts
 - [Power & Portable Energy](/reviews/power/) &mdash; Portable power stations, solar chargers, camping electronics
 - [Fishing Gear](/reviews/fishing/) &mdash; Boots, tackle storage, rods, reels, accessories
 - [Camping Equipment](/reviews/camping/) &mdash; Tents, sleeping systems, camp lighting, cookware
-- [Outdoor Gear](/reviews/outdoor/) &mdash; Packs, tools, field equipment
 - [Backpacks](/reviews/backpacks/) &mdash; Fishing backpacks, hiking packs, school and travel
 - [Outdoor Apparel](/reviews/clothing/) &mdash; Jackets, boots, layering systems, weather protection
 - [Water & Hydration](/reviews/water/) &mdash; Filters, purification, hydration systems
