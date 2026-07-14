@@ -16,7 +16,7 @@ cluster_layer: L3
 
 Your backpack is too small when you routinely strap gear to the outside, max out compression straps on every trip, leave essential items behind because they won't fit, or can't stow a bear canister internally. If any of those conditions describe your last two or three trips, the pack is the problem — not your packing. For most hikers hitting that wall on 3–5 night trips, stepping up to a 50–60L pack resolves it. The [Osprey Atmos AG LT 50](/go/osprey-atmos-ag-lt-50/) is the most commonly recommended move in this range: 50L internal volume, Anti-Gravity suspension rated to 35 lbs, and a medium-size weight of approximately 2.9 lbs.
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 
@@ -53,7 +53,7 @@ A bear canister strapped externally and riding high creates a lever-arm effect. 
 
 The upgrade trigger is specific: if you're running 3-night-plus trips with a sub-50L pack and hitting the signs above on every trip, a 50–60L pack addresses the root cause. If your trips are consistently 1–2 nights and you're still hitting those signs, the problem may be gear selection rather than pack volume — see [How Much Pack Capacity Do You Need](/reviews/backpacks/how-much-pack-capacity-do-you-need/) before buying a larger pack.
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 
@@ -101,7 +101,7 @@ The Osprey Atmos AG LT 50 is a practical choice in this transition: enough volum
 
 If your issue is fit rather than volume — straps digging in, hip belt sitting wrong, hot spots on your shoulders — that's a separate problem. See [Signs Your Pack Doesn't Fit](/reviews/backpacks/signs-your-pack-doesnt-fit/) before assuming you need more liters.
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 

@@ -18,7 +18,7 @@ The Piscifun AlinoX 400 is a workable baitcasting reel for intermediate freshwat
 
 If you need a capable baitcaster for general freshwater bass fishing and you already understand how to thumb a spool, this reel fits the job. If you are new to baitcasting or primarily throw lures under 1/4 oz, look elsewhere — a spinning setup will cost you less frustration and money.
 
-**<a href="https://tidd.ly/4bxcDxB." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
 
 ---
 
@@ -64,7 +64,7 @@ The magnetic brake system adjusts externally. You can dial it up for lightweight
 
 > **Information Gain Note:** The brake knob granularity issue at dial extremes is a recurring observation across owner reviews and fishing forums, not noted in manufacturer materials or competing review pages. It does not affect mid-range adjustments where most anglers operate.
 
-**<a href="https://tidd.ly/4bxcDxB." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
 
 ---
 
@@ -109,7 +109,7 @@ The Piscifun AlinoX 400 is the right call if you are an intermediate angler who 
 
 It is not the right call if you are new to baitcasting, fish predominantly light finesse rigs, or need sub-7 oz weight for all-day comfort. In those cases, either step down to a spinning reel or step up to a $150+ baitcaster.
 
-**<a href="https://tidd.ly/4bxcDxB." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
 
 ---
 

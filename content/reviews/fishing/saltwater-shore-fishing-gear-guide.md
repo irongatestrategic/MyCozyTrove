@@ -16,7 +16,7 @@ cluster_layer: L2
 
 Starting saltwater fishing from shore requires a focused kit built for corrosive conditions, not a full tackle shop. You need an 8–10 foot medium-heavy spinning rod, a saltwater-rated spinning reel in the 4000–6000 size range, 30–50lb braided mainline with a 20–30lb fluorocarbon leader, and basic terminal tackle: circle hooks and pyramid sinkers. That covers rod, reel, line, and hardware for most inshore shore scenarios without buying gear you'll outgrow or never use.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX Saltwater Spinning Reel</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX Saltwater Spinning Reel</a>**
 
 ---
 
@@ -44,7 +44,7 @@ Target a reel with at least 20 lbs of maximum drag. The [Piscifun NautiX](/revie
 
 **Owner-reported maintenance note (information gain):** Across mid-range saltwater spinning reels including the NautiX, the line roller bearing is a common early failure point. Despite external rinsing, salt crystals accumulate in the line roller shaft and cause stiffness — which leads to line fray before other components show wear. The fix: after every second or third saltwater session, dry the line roller area and apply one drop of low-viscosity reel oil directly to the roller shaft. A general rinse alone does not reach this point. This maintenance step is not documented in most owner manuals but appears consistently across owner forum reports.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX Saltwater Spinning Reel</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX Saltwater Spinning Reel</a>**
 
 ---
 
@@ -106,7 +106,7 @@ If you want to go deeper on reel selection before buying, the [Piscifun NautiX S
 
 If you're also thinking about how experienced anglers structure their full gear setup, the [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) covers rod organization, reel maintenance systems, and trip logistics at a more involved level.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX Saltwater Spinning Reel</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX Saltwater Spinning Reel</a>**
 
 ---
 

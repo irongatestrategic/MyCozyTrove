@@ -16,7 +16,7 @@ cluster_layer: L4
 
 If your loaded pack runs under 35 lbs and you hike in heat or humidity, the Osprey Atmos AG LT 50 is the right call — its suspended mesh back panel creates a measurable 3–4 cm air gap that reduces back sweat across long days. If your pack regularly hits 35–50 lbs or you're moving over uneven terrain, the Gregory Paragon 68 handles those loads more stably through its pivoting FreeFloat hipbelt. The ventilation gap between the two is real, but so is the 1 lb weight penalty and the load ceiling difference. This article gives you the criteria to identify which situation you're in.
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 
@@ -68,7 +68,7 @@ One owner-reported quirk worth flagging: because the AG mesh wraps around the hi
 - Hipbelt pocket access is genuinely awkward when the belt is cinched — a structural consequence of the AG wrap-around design
 - Lighter fabrics hold up well under normal use, but the mesh construction is more vulnerable to abrasion and snag damage than a traditional foam-backed panel
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 
@@ -116,7 +116,7 @@ If you're regularly loading 35–50 lbs, moving over technical terrain, or need 
 
 Neither pack is the right answer for ultralight setups or expedition loads above 55 lbs.
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 **<a href="[AFFILIATE_LINK_NEEDED — Gregory Paragon 68]" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Gregory Paragon 68</a>**
 

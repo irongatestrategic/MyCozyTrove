@@ -56,9 +56,9 @@ The Kelty Asher 55 is the right starting point for most beginner backpackers. At
 
 ---
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F72788088020%3FqueryID%3Dd3f5e92c3e84e995." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Kelty Asher 55</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F72788088020%3FqueryID%3Dd3f5e92c3e84e995" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Kelty Asher 55</a>**
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 
@@ -106,7 +106,7 @@ One nuance worth understanding before buying: the AG suspended mesh system works
 
 ---
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 
@@ -138,11 +138,11 @@ The Osprey Atmos AG LT 50 earns its price after you've established a backpacking
 
 **If you're starting out and want a pack that works without overpaying:**
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F72788088020%3FqueryID%3Dd3f5e92c3e84e995." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Kelty Asher 55</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F72788088020%3FqueryID%3Dd3f5e92c3e84e995" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Kelty Asher 55</a>**
 
 **If you're an established backpacker prioritizing ventilation and lighter carry on frequent multi-day trips:**
 
-**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
+**<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**
 
 ---
 

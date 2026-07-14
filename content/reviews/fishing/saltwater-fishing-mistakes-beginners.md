@@ -44,7 +44,7 @@ Total time: two to three minutes. The cost of skipping it is a reel rebuild or r
 
 **When a rinse isn't enough:** If the reel already shows pitting, flaking, or is seizing mid-retrieve, a rinse won't fix it. At that point: full teardown, bearing replacement, regrease. For reels used heavily in harsh conditions, an annual service — opening the side plate and lubricating internal gears — is standard maintenance regardless of how well the reel "feels."
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Corrosion Specs and Current Price — Piscifun NautiX Spinning Reel</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Corrosion Specs and Current Price — Piscifun NautiX Spinning Reel</a>**
 
 ---
 
@@ -89,7 +89,7 @@ Test drag before every trip. During the fight, you can apply additional thumb pr
 
 For a broader look at reel mechanics and fighting fish correctly, see the [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/).
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Drag System Specs and Current Price — Piscifun NautiX Spinning Reel</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Drag System Specs and Current Price — Piscifun NautiX Spinning Reel</a>**
 
 ---
 
@@ -146,7 +146,7 @@ Rinse the gear. Use the right line. Set drag to 25–30% of breaking strength. F
 
 If you're starting from scratch on a saltwater reel or replacing one that's already been compromised by corrosion, the Piscifun NautiX is built around the problems described in Mistake 1: sealed drag, corrosion-resistant materials, designed for repeated saltwater exposure. It won't prevent every issue, but it removes the lowest-hanging failure point.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Current Price — Piscifun NautiX Spinning Reel</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Current Price — Piscifun NautiX Spinning Reel</a>**
 
 ---
 

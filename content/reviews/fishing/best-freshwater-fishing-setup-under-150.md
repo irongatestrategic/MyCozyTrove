@@ -62,7 +62,7 @@ The AlinoX 4000 runs a 5.2:1 gear ratio with 17.6 lbs of max drag from a multi-d
 
 The 5.2:1 ratio retrieves approximately 28–30 inches per crank on a 4000-series spool, which is workable for crankbaits, spinnerbaits, and soft plastics. The 17.6 lbs of max drag exceeds practical requirements for most freshwater fish: a properly set drag for 10lb mono runs at 2.5–3 lbs (25–30% of line strength), well within the reel's range.
 
-**<a href="https://tidd.ly/4bxcDxB." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 4000</a>**
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 4000</a>**
 
 ### Pros
 - Reel cost under $55 leaves budget headroom for a better rod blank or premium line
@@ -85,7 +85,7 @@ The NautiX 4000 shares the 5.2:1 gear ratio but raises max drag to 22 lbs and re
 
 At $60–$70 for the reel, the NautiX leaves $75–$85 for rod and line in a $145 budget — similar to the AlinoX setup.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
 
 ### Pros
 - Carbon fiber drag washers deliver more consistent pressure under sustained load — practical when a larger fish makes a sustained run rather than a single burst
@@ -128,7 +128,7 @@ If you fish regularly, target fish over 5 lbs with any frequency, and have budge
 
 Neither reel requires upgrading within a season if matched to appropriate fish sizes. Both rigs give you a platform to develop technique without the gear creating problems.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
 
 ---
 

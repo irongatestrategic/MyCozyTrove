@@ -87,7 +87,7 @@ A solo angler over 3 days boils 1L for morning coffee and oatmeal, and 0.5L for 
 
 ## Traverseon Gas Stove
 
-**<a href="https://tidd.ly/47NS6CB." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Traverseon Gas Camping Stove</a>**
+**<a href="https://tidd.ly/47NS6CB" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Traverseon Gas Camping Stove</a>**
 
 The Traverseon is a screw-on canister burner at roughly 100g. That's the complete stove — no pot included. At ~$45, it's a functional, no-frills burner that pairs with whatever cookware you already own or choose to bring.
 
@@ -133,7 +133,7 @@ On a 4–5 day trip at the same rate, the Traverseon may require a second canist
 
 **<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F85007413206%3FqueryID%3D37f52179833c298c" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Jetboil Flash</a>**
 
-**<a href="https://tidd.ly/47NS6CB." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Traverseon Gas Camping Stove</a>**
+**<a href="https://tidd.ly/47NS6CB" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Traverseon Gas Camping Stove</a>**
 
 If your weekend trips run on rehydrated meals, coffee, and boiled water, the Jetboil Flash earns its $145 price through fuel efficiency and consistent boil times. The higher upfront cost is partially recovered on fuel over multiple trips, and the integrated system removes one category of field hassle.
 

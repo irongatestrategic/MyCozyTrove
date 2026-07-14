@@ -16,7 +16,7 @@ cluster_layer: L3
 
 An electric fishing reel is worth buying when you're regularly fishing deeper than 200 feet, running high-volume retrieves of large bottom species, or when physical limitations make manual cranking impractical. Below that depth threshold, the weight, cost, and complexity aren't justified. Above it, a powered retrieve stops being a convenience and starts being an operational requirement. This article gives you the criteria to identify which situation you're in.
 
-**<a href="https://tidd.ly/4sEfISA." target="_blank" rel="noopener noreferrer">Check Runtime Specs and Current Price — Piscifun Kraken Electric Reel</a>**
+**<a href="https://tidd.ly/4sEfISA" target="_blank" rel="noopener noreferrer">Check Runtime Specs and Current Price — Piscifun Kraken Electric Reel</a>**
 
 ---
 
@@ -77,7 +77,7 @@ The Kraken is the practical entry point for deep-drop electric reels. Key specs:
 
 The Kraken doesn't match the torque ceiling or programming options of Shimano or Daiwa electric reels at 3–5x the price. What it does reliably: powered retrieval at a functional speed for the majority of recreational deep-drop scenarios.
 
-**<a href="https://tidd.ly/4sEfISA." target="_blank" rel="noopener noreferrer">Check Runtime Specs and Current Price — Piscifun Kraken Electric Reel</a>**
+**<a href="https://tidd.ly/4sEfISA" target="_blank" rel="noopener noreferrer">Check Runtime Specs and Current Price — Piscifun Kraken Electric Reel</a>**
 
 ---
 
@@ -116,7 +116,7 @@ If you're fishing 200+ feet regularly, targeting large bottom species in volume,
 
 If your fishing doesn't fit those conditions, the weight and cost don't make sense. See the disqualifiers above.
 
-**<a href="https://tidd.ly/4sEfISA." target="_blank" rel="noopener noreferrer">Check Runtime Specs and Current Price — Piscifun Kraken Electric Reel</a>**
+**<a href="https://tidd.ly/4sEfISA" target="_blank" rel="noopener noreferrer">Check Runtime Specs and Current Price — Piscifun Kraken Electric Reel</a>**
 
 ---
 

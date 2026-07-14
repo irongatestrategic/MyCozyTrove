@@ -61,14 +61,14 @@ A 7-foot to 7-foot-6-inch spinning rod with medium-heavy (MH) power and fast act
 - **Pro:** Easier to cast lighter lures, minimal backlash risk, forgiving for varied techniques.
 - **Con:** Less tactile feedback than a baitcaster; heavy repeated use can introduce line twist.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
 
 **Baitcasting:** The Piscifun AlinoX 400 suits anglers pitching lures into tight cover — dock pilings, mangrove pockets, bridge fenders — where casting precision matters more than ease. Aluminum frame construction and a drag system rated above 20lb give it the muscle to stop a snook before it wraps around a piling. The direct line-to-spool connection transmits bites more clearly than spinning gear.
 
 - **Pro:** Precise casting into tight spots, greater cranking power, more direct feedback.
 - **Con:** Steeper learning curve, backlash risk until technique is dialed in, not well-suited for lures under 1/4 oz.
 
-**<a href="https://tidd.ly/4bxcDxB." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
+**<a href="https://tidd.ly/4bxcDxB" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun AlinoX 400</a>**
 
 ### Line and Leader
 
@@ -123,7 +123,7 @@ A 7-foot to 7-foot-6-inch medium-heavy spinning rod paired with a Piscifun Nauti
 
 Fish moving tides. Fish early or late. In spring and fall, you'll find the most species active and feeding.
 
-**<a href="https://tidd.ly/4ss4Kzs." target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
+**<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX 4000</a>**
 
 ---
 
