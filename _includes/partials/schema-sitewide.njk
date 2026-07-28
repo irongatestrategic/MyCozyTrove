@@ -1,0 +1,27 @@
+{#- Sitewide entity graph: Organization + WebSite.
+
+    Included unconditionally from base.njk's <head> so it reaches every
+    page — homepage and category hubs included. The Article-page schema
+    below (still in base.njk, gated on `date`) references these nodes via
+    `publisher`/`isPartOf` @id; Google merges JSON-LD blocks by @id, so the
+    cross-reference resolves without repeating these nodes per page. -#}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ site.url }}/#organization",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "url": "{{ site.url }}",
+      "name": "{{ site.name }}",
+      "publisher": { "@id": "{{ site.url }}/#organization" }
+    }
+  ]
+}
+</script>

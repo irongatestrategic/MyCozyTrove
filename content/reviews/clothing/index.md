@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Fishing & Camping Clothing Reviews | MyCozyTrove"
+title: "Fishing & Camping Clothing Reviews"
 description: "Boots, jackets, base layers, and footwear reviewed for real conditions on the water and in camp."
 eleventyExcludeFromCollections: true
 ---

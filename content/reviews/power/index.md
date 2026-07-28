@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Portable Power Reviews & Buying Guides | MyCozyTrove"
+title: "Portable Power Reviews & Buying Guides"
 description: "Portable power station and solar generator reviews for camping and off-grid use. Evaluated on runtime, recharge options, and weight for field use."
 eleventyExcludeFromCollections: true
 ---

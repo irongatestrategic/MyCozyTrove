@@ -1,6 +1,6 @@
 ---
 layout: base
-title: About MyCozyTrove - Honest Outdoor Gear Reviews
+title: About Us
 ---
 
 # About MyCozyTrove

@@ -672,6 +672,13 @@ hr {
   margin-top: 1.5rem;
 }
 
+.review-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
 .review-card {
   background: #fff;
   border: 1px solid #e0e0e0;
@@ -684,17 +691,20 @@ hr {
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
-.review-card h2 {
+.review-card h2,
+.review-card h3 {
   margin-top: 0;
   font-size: 1.25rem;
 }
 
-.review-card h2 a {
+.review-card h2 a,
+.review-card h3 a {
   color: #2c5f2e;
   text-decoration: none;
 }
 
-.review-card h2 a:hover {
+.review-card h2 a:hover,
+.review-card h3 a:hover {
   text-decoration: underline;
 }
 

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Contact MyCozyTrove
+title: Contact Us
 description: "Questions about our reviews or content? Get in touch with the MyCozyTrove team."
 permalink: /pages/contact/
 ---

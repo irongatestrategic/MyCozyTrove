@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Camping Water Filtration Reviews | MyCozyTrove"
+title: "Camping Water Filtration Reviews"
 description: "Water filters, purifiers, and treatment systems reviewed for backpacking, fishing trips, and extended camp use."
 eleventyExcludeFromCollections: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Tent Reviews & Buying Guides | MyCozyTrove"
+title: "Tent Reviews & Buying Guides"
 description: "Tent reviews for solo backpackers, car campers, and families. Specs, weight, waterproofing, and setup tested against real camping conditions."
 eleventyExcludeFromCollections: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Fishing Gear Reviews & Buying Guides | MyCozyTrove"
+title: "Fishing Gear Reviews & Buying Guides"
 description: "Fishing rod, reel, and combo reviews evaluated on sensitivity, build quality, and value at each price point. Spinning, baitcasting, and electric reel options covered."
 eleventyExcludeFromCollections: true
 ---

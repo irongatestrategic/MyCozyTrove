@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Backpack Reviews & Buying Guides | MyCozyTrove"
+title: "Backpack Reviews & Buying Guides"
 description: "Backpack reviews and buying guides for hiking, camping, and outdoor use. Daypacks, overnight packs, and backpacking systems reviewed by specs and real-world use."
 author: Jeff M.
 eleventyExcludeFromCollections: true
