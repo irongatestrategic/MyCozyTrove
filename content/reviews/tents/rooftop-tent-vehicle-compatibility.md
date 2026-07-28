@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L3
 ---
 
+# Does Your Truck or SUV Actually Support a Rooftop Tent?
+
 Your truck or SUV can support a rooftop tent only if the roof structure and aftermarket rack system meet specific **static** load ratings — not the dynamic ratings manufacturers print on the box. Factory crossbars are engineered for light cargo in motion, typically 100–165 lbs dynamic. That number is irrelevant when two adults are sleeping 5 feet off the ground. The requirement is a purpose-built aftermarket rack, anchored to the vehicle's frame or drip rails, with a verified static capacity that exceeds the combined weight of the tent, all occupants, and gear. Get that calculation wrong and you're looking at structural failure, not inconvenience.
 
 **<a href="https://tidd.ly/4dXRbSn" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Apollo A86 M</a>**

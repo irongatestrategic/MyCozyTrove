@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L4
 ---
 
+# Meedo Apollo A86 M Review: A $1100 Rooftop Tent That Earns Its Price
+
 The Meedo Apollo A86 M and Zeus I M solve different problems. If you move camp frequently and your roof rack has a dynamic load rating under 165 lbs [your vehicle's dynamic load rating](/reviews/tents/rooftop-tent-vehicle-compatibility/), the Apollo A86 M is the correct choice. If you arrive late, need shelter in under 60 seconds, and your vehicle can handle 170 lbs on the move, the Zeus I M is worth the extra $200. This article gives you the criteria to identify which situation you're in.
 
 **<a href="https://tidd.ly/4dXRbSn" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Apollo A86 M</a>**

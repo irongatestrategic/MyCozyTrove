@@ -14,6 +14,8 @@ cluster: saltwater-fishing-guide
 cluster_layer: L2
 ---
 
+# Saltwater Fishing from Shore: What Gear You Actually Need to Start
+
 Starting saltwater fishing from shore requires a focused kit built for corrosive conditions, not a full tackle shop. You need an 8–10 foot medium-heavy spinning rod, a saltwater-rated spinning reel in the 4000–6000 size range, 30–50lb braided mainline with a 20–30lb fluorocarbon leader, and basic terminal tackle: circle hooks and pyramid sinkers. That covers rod, reel, line, and hardware for most inshore shore scenarios without buying gear you'll outgrow or never use.
 
 **<a href="https://tidd.ly/4ss4Kzs" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Piscifun NautiX Saltwater Spinning Reel</a>**

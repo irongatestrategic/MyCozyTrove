@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L4
 ---
 
+# Meedo Zeus I M Hard Shell Review: 60-Second Setup Changes Everything
+
 If you move campsites frequently and deal with variable weather, the Meedo Zeus I M hard shell is the right tent. If you stay put for multiple nights and want to keep cost and roof load down [verify your vehicle's roof load capacity](/reviews/tents/rooftop-tent-vehicle-compatibility/), the Apollo M soft shell is the better fit. The gap between them is $200 in price and 20 lbs in weight — but the real difference is 60 seconds of setup versus 3–5 minutes, every single stop. This article lays out the criteria so you can identify which situation you're in.
 
 **<a href="[AFFILIATE_LINK_NEEDED — Meedo Zeus I M Hard Shell Rooftop Tent]" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Zeus I M Hard Shell</a>**

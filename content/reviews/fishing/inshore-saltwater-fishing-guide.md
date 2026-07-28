@@ -14,6 +14,8 @@ cluster: saltwater-fishing-guide
 cluster_layer: L2
 ---
 
+# Inshore Saltwater Fishing: Target Species, Gear, and When to Go
+
 Inshore saltwater fishing covers bays, estuaries, flats, marshes, and nearshore waters shallower than 30 feet. The foundational setup is a 7-foot to 7-foot-6-inch medium-heavy spinning rod paired with a 3000–4000 size reel like the Piscifun NautiX, spooled with 20–30lb braid and a 15–20lb fluorocarbon leader. Fish move with the tide — peak feeding typically falls in the first two hours of an incoming or outgoing tide, during early morning or late evening. Spring and fall produce the highest catch rates as redfish, speckled trout, flounder, snook, and striped bass migrate in and out of estuaries. Species location changes by season, structure, and temperature, so the sections below cover each factor directly.
 
 ---

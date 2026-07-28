@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L3
 ---
 
+# Rooftop Tent Accessories That Are Actually Worth It
+
 Three rooftop tent accessories justify their cost for most multi-day trips: an annex room, an anti-condensation mat, and task-specific lighting [anti-condensation mat](/reviews/tents/rooftop-tent-winter-camping/). Everything else — complex multi-room awning systems, rooftop solar showers, thick mattress toppers — adds weight and setup time without proportionate field benefit. If you're running a Meedo Apollo A86 M, Apollo M, or Zeus I M, those three items protect your investment and solve real problems. The rest of the accessory market largely does not.
 
 ---

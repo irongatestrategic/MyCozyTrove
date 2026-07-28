@@ -16,6 +16,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L2
 ---
 
+# Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?
+
 If you need fast daily deployment and maximum transit protection, the Meedo Zeus I M hard shell is the right call. If you need a lower entry cost and can work with a 3–5 minute setup, the Meedo Apollo A86 M soft shell gets the job done. The $200 price gap and 20 lb weight difference are real trade-offs [verify your vehicle's static load rating](/reviews/tents/rooftop-tent-vehicle-compatibility/), not marketing noise. This article gives you the criteria to identify which situation you're in — including a load calculation most buyers skip until it's too late.
 
 ---

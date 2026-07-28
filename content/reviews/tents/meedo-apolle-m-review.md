@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L4
 ---
 
+# Meedo Apolle M Review: The Rooftop Tent for Smaller Rigs
+
 The Meedo Apolle M is the right call for compact SUVs. Its 55-inch packed length fits within the 65–75 inch roof span typical of vehicles like the Subaru Forester and Toyota RAV4, leaving minimal front and rear overhang. The Apollo A86 M's 86.6-inch packed length generates roughly 8 inches of overhang at each end on a 70-inch roof — enough to affect aerodynamics, increase wind noise, and block rear hatch access. If you drive a mid-size SUV or truck where 86 inches clears the roofline cleanly, the A86 M's 31% larger sleeping area is worth considering. This article gives you the specs to identify which situation you're in.
 
 **<a href="https://tidd.ly/4ffRF8L" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Apolle M</a>**

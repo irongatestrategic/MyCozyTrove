@@ -14,6 +14,8 @@ cluster: saltwater-fishing-guide
 cluster_layer: L2
 ---
 
+# Saltwater Fishing Line: Braid vs Monofilament vs Fluorocarbon for Shore and Inshore
+
 For saltwater shore and inshore fishing, run 30lb braided line as your main line with an 18–24 inch, 20lb fluorocarbon leader. Braid delivers the sensitivity and casting distance you need to detect subtle bites and reach distant targets. The fluorocarbon leader handles stealth in clear water and abrasion resistance against sharp structure or fish teeth. Monofilament has specific situations where it earns its place — topwater presentations, shock absorption, budget constraints — but it does not match braid's casting performance or sensitivity for general shore work.
 
 ---

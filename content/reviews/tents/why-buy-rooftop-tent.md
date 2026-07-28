@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L2
 ---
 
+# Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof
+
 A rooftop tent makes sense under specific conditions: you're moving camp frequently, ground conditions are genuinely bad (mud, rock, uneven terrain), and you have a vehicle with adequate static load capacity [vehicle with adequate static load capacity](/reviews/tents/rooftop-tent-vehicle-compatibility/). In those situations, an RTT gives you a consistent elevated sleep platform that deploys in under 10 minutes and eliminates the scouting, leveling, and moisture problems that come with ground camping. It is not a universal upgrade. If you camp in developed sites, leave your vehicle for day hikes, or need to keep weight down, a ground tent costs less, weighs less, and creates fewer logistical problems [ground tent costs less and weighs less](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/). This changes significantly once you price in the rack system and ongoing fuel penalty — both covered below.
 
 ---

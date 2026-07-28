@@ -14,6 +14,8 @@ cluster: solo-camping-gear-guide
 cluster_layer: L4
 ---
 
+# Jetboil Flash vs Traverseon Stove: Which Camp Stove Is Worth It for a Weekend Backpacker?
+
 If your main camp cooking task is boiling water for rehydrated meals and hot drinks, the Jetboil Flash is the right stove. Its FluxRing system hits 0.5L in 120 seconds and yields roughly 12 liters of boiled water per 100g fuel canister — about twice the efficiency of an open-flame burner paired with a standard pot. If you already own a pot, cook actual meals, or are watching your budget, the Traverseon Gas Stove at ~$45 and ~100g covers those needs with better simmer control. The decision hinges on one question: do you primarily boil water, or do you cook?
 
 ---

@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L4
 ---
 
+# Meedo Apollo vs Zeus: Which Rooftop Tent Is Right for Your Rig?
+
 The right choice here hinges on two practical constraints: your vehicle's roof rack static load rating and how often you're breaking camp. If you move sites frequently or camp in heavy weather, the Zeus I M's ~60-second deployment and hard shell justify the extra $200 and 35 lbs. If you're making longer stops, running a lighter rig, or watching budget, the Apollo A86 M at 119 lbs and ~$1,100 is the more practical choice. Both tents share identical packed dimensions (86.6" × 50.4" × 10.2"), the same 4.5" foam mattress, and the same 280GSM ripstop poly-cotton fabric rated at 3,000mm waterproofing — the shell type is the only meaningful engineering difference between them.
 
 **<a href="https://tidd.ly/4dXRbSn" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Apollo A86 M</a>**

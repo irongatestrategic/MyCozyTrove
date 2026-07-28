@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L3
 ---
 
+# When Is a Rooftop Tent Actually Worth the Money?
+
 A rooftop tent is worth the money under specific conditions: solo or two-person use [complete solo camping kit](/reviews/camping/best-solo-camping-gear-weekend-trips/), frequent moves between dispersed campsites, varied or uneven terrain, and a vehicle already equipped with a high-capacity aftermarket rack. In those conditions, a soft-shell like the Meedo Apollo A86 M earns its cost through:
 
 - Setup in 3–5 minutes on any surface, including slopes and mud, with no ground prep required

@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L2
 ---
 
+# What Nobody Tells You About Rooftop Tents Before You Buy
+
 A rooftop tent is probably not for you if you camp at established sites, take day trips from a fixed basecamp, or are working with a tight gear budget. It earns its keep when you're moving camp daily across varied terrain, need rapid deployment in remote locations, and your vehicle stays with you the whole time [verify your vehicle's static load rating](/reviews/tents/rooftop-tent-vehicle-compatibility/). If you match that profile, the **Meedo Zeus I M** (hard shell, under 60-second setup) and the **Meedo Apollo A86 M** (soft shell, 3–5 minutes, 130 lbs) are two specific options worth evaluating. If you don't match that profile, stop here — a quality ground tent will serve you better and cost several hundred dollars less [ground tent will serve you better](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/).
 
 **<a href="https://tidd.ly/4vfb66m" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Zeus I M</a>**

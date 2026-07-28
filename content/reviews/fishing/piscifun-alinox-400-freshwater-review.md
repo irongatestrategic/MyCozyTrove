@@ -14,6 +14,8 @@ cluster: freshwater-fishing-guide
 cluster_layer: L4
 ---
 
+# Piscifun AlinoX 400 Review: Is This Baitcasting Reel Worth It for Freshwater Bass?
+
 The Piscifun AlinoX 400 is a workable baitcasting reel for intermediate freshwater bass anglers in the $60–$80 range. It has an aluminum frame, a 7.3:1 gear ratio option, 10 corrosion-resistant bearings, and 17.6 lbs of max drag. Those specs cover the core requirements for common bass techniques — spinnerbaits, bladed jigs, Texas rigs, topwater — without the price tag of a Shimano or Daiwa mid-tier.
 
 If you need a capable baitcaster for general freshwater bass fishing and you already understand how to thumb a spool, this reel fits the job. If you are new to baitcasting or primarily throw lures under 1/4 oz, look elsewhere — a spinning setup will cost you less frustration and money.

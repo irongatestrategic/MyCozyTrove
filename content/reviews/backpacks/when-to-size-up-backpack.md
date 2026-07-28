@@ -14,6 +14,8 @@ cluster: backpacking-packs-guide
 cluster_layer: L3
 ---
 
+# When to Size Up Your Backpack: Signs Your Pack Is Too Small for Your Style
+
 Your backpack is too small when you routinely strap gear to the outside, max out compression straps on every trip, leave essential items behind because they won't fit, or can't stow a bear canister internally. If any of those conditions describe your last two or three trips, the pack is the problem — not your packing. For most hikers hitting that wall on 3–5 night trips, stepping up to a 50–60L pack resolves it. The [Osprey Atmos AG LT 50](/go/osprey-atmos-ag-lt-50/) is the most commonly recommended move in this range: 50L internal volume, Anti-Gravity suspension rated to 35 lbs, and a medium-size weight of approximately 2.9 lbs.
 
 **<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F84382014855%3FqueryID%3D6a5dc2d60b247e26" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Osprey Atmos AG LT 50</a>**

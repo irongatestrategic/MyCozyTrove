@@ -14,6 +14,8 @@ cluster: backpacking-packs-guide
 cluster_layer: L2
 ---
 
+# How to Pack a Backpacking Pack: Load Distribution and What Goes Where
+
 Pack a backpacking pack by placing your heaviest, densest items closest to your spine and centered between your shoulder blades. Medium-weight gear fills the surrounding space. Lightweight and bulky items go toward the outside and bottom. Frequently accessed items belong in the top lid or hip belt pockets. This order keeps the load's center of gravity close to your body's center of gravity, which transfers weight to your hips rather than your shoulders and reduces fatigue over distance.
 
 ---

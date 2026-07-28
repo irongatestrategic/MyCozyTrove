@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L2
 ---
 
+# Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?
+
 For car camping at established campgrounds 10 nights per year, a ground tent is the more practical investment for most people. The upfront cost difference is significant — entry-level rooftop tents start around $800–$1,200, while capable ground tents run $150–$500 — and at 10 nights annually, that premium buys a lot of convenience you may not need. A rooftop tent makes sense if your use case includes rocky or uneven terrain where ground sleeping is consistently compromised, or if you're already running a roof rack for other gear. Neither option is universally right; the decision hinges on how you actually camp.
 
 ---

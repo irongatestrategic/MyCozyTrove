@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L3
 ---
 
+# Rooftop Tent in Winter: What Actually Changes
+
 A properly equipped 4-season rooftop tent can handle winter camping below freezing, but the "4-season" label does less work than manufacturers imply. Structural strength and weather resistance are what that rating covers—not optimized insulation for sustained sub-freezing use. Models like the Meedo Apollo A86 M (3000MM waterproof rating, 4-season canvas) and the Meedo Zeus I M provide a capable shell, but comfortable winter performance requires user-added insulation, active heating, and a condensation management strategy. Without those, even a legitimately rated 4-season RTT will be cold, damp, and miserable at 32°F and below.
 
 **<a href="https://tidd.ly/4dXRbSn" target="_blank" rel="noopener noreferrer">Check Weight, Dimensions, and Price — Meedo Apollo A86 M</a>**

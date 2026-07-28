@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L3
 ---
 
+# Rooftop Tent on a Tacoma or 4Runner: What Fits and What You Need First
+
 Your stock Tacoma or 4Runner roof rack cannot safely support a rooftop tent. Factory racks carry dynamic ratings of 100–150 lbs — weight moving down the highway — not the 500-plus pounds of static load a tent, two adults, and bedding impose when parked. Before you mount anything, you need an aftermarket rack with a verified static load rating of at least 600 lbs. The Meedo Apollo A86 M weighs 165 lbs dry; add two adults averaging 175 lbs each and you're at 495 lbs before bedding. That math disqualifies every OEM crossbar system sold with these trucks.
 
 ---

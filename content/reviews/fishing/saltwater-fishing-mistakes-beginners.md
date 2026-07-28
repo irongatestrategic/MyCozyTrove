@@ -14,6 +14,8 @@ cluster: saltwater-fishing-guide
 cluster_layer: L3
 ---
 
+# 5 Saltwater Fishing Mistakes That Cost You Fish (And How to Fix Them)
+
 The five saltwater fishing mistakes that cost anglers the most fish are: skipping the post-trip freshwater rinse, using freshwater line in saltwater, locking down drag too tight, fishing slack tide, and mismatching hook size to bait and target species. Each has a direct mechanical cause and a direct fix. Correcting them won't guarantee fish, but they eliminate the most common self-inflicted failures — snapped lines, seized reels, and clean misses on solid bites.
 
 ---

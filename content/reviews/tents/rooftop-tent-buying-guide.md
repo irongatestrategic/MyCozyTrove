@@ -14,6 +14,8 @@ cluster: rooftop-tent-guide
 cluster_layer: L1
 ---
 
+# Rooftop Tent Buying Guide: What to Know Before You Mount One
+
 Before you buy a rooftop tent, check two numbers: your vehicle's static roof load rating and your aftermarket rack's static capacity. Most factory crossbars are rated 100–150 lbs dynamic — that number is irrelevant for a parked tent. A 2-person RTT weighs 120–170 lbs empty; add two adults and bedding and your static load easily reaches 450–500 lbs. If your vehicle and rack can't handle that parked weight, stop here. Once you've confirmed load capacity, the next decision is hard shell vs. soft shell — fast deployment and tighter packing vs. lower cost and more floor space. This guide gives you the criteria to sort both questions before you spend a dollar.
 
 ---
