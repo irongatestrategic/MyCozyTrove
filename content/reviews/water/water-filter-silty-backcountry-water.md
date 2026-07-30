@@ -86,3 +86,7 @@ For silty or turbid backcountry sources, the MSR Guardian is the right call — 
 - [Best Camping Water Filter for Backpacking](/reviews/water/best-camping-water-filter-backpacking/)
 - [Filter vs Purifier for Camping: What's the Difference?](/reviews/water/filter-vs-purifier-camping/)
 - [Camping Water Filtration Guide: Filters, Purifiers, and How to Choose](/reviews/water/camping-water-filtration-guide/)
+- [How to Choose a Camping Water Filter: The 4-Variable Decision](/reviews/water/how-to-choose-camping-water-filter/)
+- [Lightest Water Treatment for Solo Backpacking: What Actually Works](/reviews/water/lightest-water-treatment-solo-backpacking/)
+- [What Water Filter Do You Need for 2 People on a 3-Day Camping Trip?](/reviews/water/water-filter-2-people-3-day-camping/)
+- [What Water Filter Do You Need for a Group of 4 or More Camping?](/reviews/water/water-filter-for-group-camping-4-plus/)

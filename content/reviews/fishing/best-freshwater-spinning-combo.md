@@ -107,6 +107,14 @@ The Max Elite is the right call for freshwater anglers who've outgrown their sta
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
 - [How to Match Rod Power and Action to Your Target Fish](/reviews/fishing/fishing-rod-power-action-guide/)
 - [5 Signs Your Fishing Setup Is Working Against You](/reviews/fishing/fishing-setup-wrong-signs/)
+- [Best Freshwater Fishing Setup Under $150: Rod, Reel, and Line for Weekend Anglers](/reviews/fishing/best-freshwater-fishing-setup-under-150/)
+- [Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit](/reviews/fishing/best-weekend-shore-fishing-setup/)
+- [Piscifun NautiX vs Abu Garcia Max Elite: Where the Line Is](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/)
+- [When You Should NOT Buy a Baitcasting Setup](/reviews/fishing/when-not-to-buy-baitcasting/)
+- [When to Upgrade Your Fishing Rod (Real Thresholds)](/reviews/fishing/when-to-upgrade-fishing-rod/)
+- [Abu Garcia Gen Ike vs Ugly Stik GX2: Entry-Level Spinning Combo Comparison](/reviews/fishing/abu-garcia-vs-shakespeare-spinning/)
+- [Best Mid-Range Bass Fishing Combo: Abu Garcia Jordan Lee Spinning Combo](/reviews/fishing/best-bass-fishing-combo/)
+- [Piscifun AlinoX 400 Review: Is This Baitcasting Reel Worth It for Freshwater Bass?](/reviews/fishing/piscifun-alinox-400-freshwater-review/)
 
 ## Frequently Asked Questions
 

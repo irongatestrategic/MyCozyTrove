@@ -108,3 +108,8 @@ Three-part approach: maximum mesh shelter for passive ventilation, a battery fan
   <h4>About the Reviewer</h4>
   <p><strong>Jeff M.</strong> is an outdoor gear analyst who evaluates camping and fishing equipment through technical specifications, manufacturer data, and aggregated owner feedback. He applies engineering-grade standards to outdoor gear — because equipment that fails in the field isn't gear, it's dead weight. He writes for MyCozyTrove.com from Mississippi.</p>
 </div>
+
+
+## Related
+
+- [When Ultralight Gear Is Worth the Premium (And When It Isn't)](/reviews/camping/when-ultralight-gear-worth-it/)

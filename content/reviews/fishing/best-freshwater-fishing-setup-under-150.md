@@ -139,6 +139,13 @@ Neither reel requires upgrading within a season if matched to appropriate fish s
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/) — broader overview if you want pre-matched combos instead of building a setup
 - [Best Freshwater Spinning Combo](/reviews/fishing/best-freshwater-spinning-combo/) — specific spinning combo picks if you prefer a single purchase
 - [Fishing Rod Power and Action Guide](/reviews/fishing/fishing-rod-power-action-guide/) — spec breakdown for rod selection across freshwater applications
+- [Fishing Line Types Explained: Mono, Fluorocarbon, and Braid](/reviews/fishing/fishing-line-types-explained/)
+- [Spinning vs Baitcasting Reels: Which Setup Makes Sense for You](/reviews/fishing/spinning-vs-baitcasting-reels/)
+- [Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit](/reviews/fishing/best-weekend-shore-fishing-setup/)
+- [5 Signs Your Fishing Setup Is Working Against You](/reviews/fishing/fishing-setup-wrong-signs/)
+- [Piscifun NautiX vs Abu Garcia Max Elite: Where the Line Is](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/)
+- [When You Should NOT Buy a Baitcasting Setup](/reviews/fishing/when-not-to-buy-baitcasting/)
+- [When to Upgrade Your Fishing Rod (Real Thresholds)](/reviews/fishing/when-to-upgrade-fishing-rod/)
 
 
 

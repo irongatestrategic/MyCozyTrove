@@ -127,6 +127,13 @@ If your fishing doesn't fit those conditions, the weight and cost don't make sen
 - [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) — how a powered reel fits into a complete deep-water setup
 - [Piscifun Kraken Electric Reel Review](/reviews/fishing/piscifun-kraken-electric-reel-saltflow-rod-combo-review/) — detailed field performance and build quality assessment
 - [When Not to Buy an Electric Reel](/reviews/fishing/when-not-to-buy-electric-reel/) — the scenarios where the upgrade doesn't pencil out
+- [Inshore Saltwater Fishing: Target Species, Gear, and When to Go](/reviews/fishing/inshore-saltwater-fishing-guide/)
+- [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)
+- [Saltwater Fishing Line: Braid vs Monofilament vs Fluorocarbon for Shore and Inshore](/reviews/fishing/saltwater-fishing-line-guide/)
+- [Saltwater Fishing from Shore: What Gear You Actually Need to Start](/reviews/fishing/saltwater-shore-fishing-gear-guide/)
+- [5 Signs Your Fishing Reel Is Already Failing (And What Each One Means)](/reviews/fishing/five-signs-reel-failing/)
+- [Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System](/reviews/fishing/manual-vs-electric-kraken-deep-drop-roi/)
+- [5 Saltwater Fishing Mistakes That Cost You Fish (And How to Fix Them)](/reviews/fishing/saltwater-fishing-mistakes-beginners/)
 
 
 

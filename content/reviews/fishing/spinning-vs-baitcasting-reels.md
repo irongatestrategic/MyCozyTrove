@@ -105,6 +105,7 @@ This isn't a reason to buy a baitcaster before you need one — it's context for
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
 - [How to Match Rod Power and Action to Your Target Fish](/reviews/fishing/fishing-rod-power-action-guide/)
 - [When You Should NOT Buy a Baitcasting Setup](/reviews/fishing/when-not-to-buy-baitcasting/)
+- [Fishing Line Types Explained: Mono, Fluorocarbon, and Braid](/reviews/fishing/fishing-line-types-explained/)
 
 **<a href="https://click.linksynergy.com/deeplink?id=CqK22ZRZna4&mid=53843&murl=https%3A%2F%2Fwww.scheels.com%2Fp%2F03628201341%2F" target="_blank" rel="noopener noreferrer">Check Specs and Current Price — Abu Garcia Max Elite Spinning Combo →</a>**
 

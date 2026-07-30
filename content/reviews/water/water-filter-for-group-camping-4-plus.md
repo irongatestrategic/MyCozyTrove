@@ -79,3 +79,7 @@ For a group of four or more at a basecamp setup — domestic or international, c
 - [Best Camping Water Filter for Backpacking](/reviews/water/best-camping-water-filter-backpacking/)
 - [Water Filter for 2 People on a 3-Day Trip](/reviews/water/water-filter-2-people-3-day-camping/)
 - [Camping Water Filtration Guide](/reviews/water/camping-water-filtration-guide/)
+- [Camping Water Filter vs Purifier: What's the Difference and When Do You Need Each?](/reviews/water/filter-vs-purifier-camping/)
+- [How to Choose a Camping Water Filter: The 4-Variable Decision](/reviews/water/how-to-choose-camping-water-filter/)
+- [Lightest Water Treatment for Solo Backpacking: What Actually Works](/reviews/water/lightest-water-treatment-solo-backpacking/)
+- [Best Water Filter for Silty Backcountry Water: What Handles Turbid Sources](/reviews/water/water-filter-silty-backcountry-water/)

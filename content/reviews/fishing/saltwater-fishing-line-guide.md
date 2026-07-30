@@ -148,6 +148,8 @@ If you're running a topwater bite in stained water or mangroves where fish visib
 - [Saltwater Shore Fishing Gear Guide](/reviews/fishing/saltwater-shore-fishing-gear-guide/) — rods, reels, and terminal tackle for productive days on the water
 - [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) — advanced rigging and gear decisions for serious anglers
 - [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/) — a reel that pairs well with the braid/fluoro setup described here
+- [Inshore Saltwater Fishing: Target Species, Gear, and When to Go](/reviews/fishing/inshore-saltwater-fishing-guide/)
+- [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)
 
 
 

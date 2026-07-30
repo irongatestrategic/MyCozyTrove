@@ -128,6 +128,8 @@ These percentages assume a properly fitted pack. An ill-fitting pack cannot tran
 - [Best Backpacking Packs](/reviews/backpacks/best-backpacking-packs/)
 - [How to Fit a Backpack](/reviews/backpacks/how-to-fit-a-backpack/)
 - [Signs Your Pack Doesn't Fit](/reviews/backpacks/signs-your-pack-doesnt-fit/)
+- [Backpack Materials Explained: Denier, Nylon vs. Polyester, Dyneema, and Ripstop Compared](/reviews/backpacks/backpack-materials-explained/)
+- [How Much Backpack Capacity Do You Need? 20L to 65L+ by Trip Type and Sleep System](/reviews/backpacks/how-much-pack-capacity-do-you-need/)
 
 
 

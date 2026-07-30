@@ -194,9 +194,10 @@ Keeping the AC inverter and wireless chips active drains battery even with nothi
 
 ---
 
-## Related Pages
+## Related
 
 - [Portable Power for Camping, Fishing, and Outdoor Adventure](/reviews/power/portable-power-camping-fishing-outdoor-hub/) — background on IP ratings, DC efficiency, and how to size a system
+- [Solar Panels vs. Portable Power Stations: What's the Right Camp Power Setup?](/reviews/power/solar-panels-vs-portable-power-stations-camp-setup/)
 - Jackery Explorer Line Review — detailed analysis *(coming soon)*
 - Bluetti Camping Units Review — detailed analysis *(coming soon)*
 

@@ -117,6 +117,9 @@ If you're also thinking about how experienced anglers structure their full gear 
 - [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)
 - [5 Signs Your Reel Is Failing](/reviews/fishing/five-signs-reel-failing/)
 - [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/)
+- [Inshore Saltwater Fishing: Target Species, Gear, and When to Go](/reviews/fishing/inshore-saltwater-fishing-guide/)
+- [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)
+- [Saltwater Fishing Line: Braid vs Monofilament vs Fluorocarbon for Shore and Inshore](/reviews/fishing/saltwater-fishing-line-guide/)
 
 
 

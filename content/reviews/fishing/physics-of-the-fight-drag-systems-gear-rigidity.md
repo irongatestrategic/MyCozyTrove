@@ -110,3 +110,6 @@ A freshwater reel will function initially, but the bearing ingress cycle works a
 ## Related
 
 - [The 2026 Professional Angler's Infrastructure Guide: Power, Precision, and Durability](/reviews/fishing/professional-angler-infrastructure-guide/)
+- [Inshore Saltwater Fishing: Target Species, Gear, and When to Go](/reviews/fishing/inshore-saltwater-fishing-guide/)
+- [Saltwater Fishing Line: Braid vs Monofilament vs Fluorocarbon for Shore and Inshore](/reviews/fishing/saltwater-fishing-line-guide/)
+- [Saltwater Fishing from Shore: What Gear You Actually Need to Start](/reviews/fishing/saltwater-shore-fishing-gear-guide/)

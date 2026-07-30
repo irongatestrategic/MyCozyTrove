@@ -109,3 +109,4 @@ That review covers the fundamentals that apply across the entire Jackery line â€
 ## Related
 
 - [Portable Power for Camping, Fishing, and Outdoor Adventure](/reviews/power/portable-power-camping-fishing-outdoor-hub/)
+- [Jackery Explorer 1000 v2 vs. 2000 Plus: Which Is Right for Your Camp Setup?](/reviews/power/jackery-1000-pro-v2-vs-2000-pro-v2/)

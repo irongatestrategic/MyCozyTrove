@@ -132,4 +132,9 @@ Everything in the "do not buy" section either duplicates something simpler, exce
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 - [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [How Long Do Rooftop Tents Last?](/reviews/tents/how-long-do-rooftop-tents-last/)
+- [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
+- [Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
+- [Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
+- [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)
+- [When Is a Rooftop Tent Actually Worth the Money?](/reviews/tents/when-rooftop-tent-worth-it/)
 ```

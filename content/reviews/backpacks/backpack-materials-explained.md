@@ -132,3 +132,5 @@ Nylon for the main body — better strength-to-weight ratio and abrasion resista
 - [How Much Pack Capacity Do You Actually Need?](/reviews/backpacks/how-much-pack-capacity-do-you-need/)
 - [Osprey Atmos AG LT 50 Review](/reviews/backpacks/osprey-atmos-ag-lt-50-review/)
 - [Kelty Asher 55 Review](/reviews/backpacks/kelty-asher-55-review/)
+- [How to Fit a Backpack: Torso Length, Hip Belt, and Load Transfer Explained](/reviews/backpacks/how-to-fit-a-backpack/)
+- [How to Pack a Backpacking Pack: Load Distribution and What Goes Where](/reviews/backpacks/how-to-pack-backpacking-pack/)

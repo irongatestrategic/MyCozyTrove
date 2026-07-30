@@ -114,6 +114,12 @@ The Abu Garcia Max Elite Spinning Combo is the right foundation for a complete s
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
 - [5 Signs Your Fishing Setup Is Working Against You](/reviews/fishing/fishing-setup-wrong-signs/)
 - [Fishing Line Types Explained](/reviews/fishing/fishing-line-types-explained/)
+- [How to Match Your Rod Power and Action to the Fish You're Targeting](/reviews/fishing/fishing-rod-power-action-guide/)
+- [Spinning vs Baitcasting Reels: Which Setup Makes Sense for You](/reviews/fishing/spinning-vs-baitcasting-reels/)
+- [Best Freshwater Fishing Setup Under $150: Rod, Reel, and Line for Weekend Anglers](/reviews/fishing/best-freshwater-fishing-setup-under-150/)
+- [Piscifun NautiX vs Abu Garcia Max Elite: Where the Line Is](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/)
+- [When You Should NOT Buy a Baitcasting Setup](/reviews/fishing/when-not-to-buy-baitcasting/)
+- [When to Upgrade Your Fishing Rod (Real Thresholds)](/reviews/fishing/when-to-upgrade-fishing-rod/)
 
 ## Frequently Asked Questions
 

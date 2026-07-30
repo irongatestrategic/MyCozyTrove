@@ -138,5 +138,12 @@ Neither tent is a casual purchase. Verify your rack's static load rating before 
 ## Related
 
 - [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
+- [How Long Do Rooftop Tents Last? And What Kills Them Early](/reviews/tents/how-long-do-rooftop-tents-last/)
+- [Rooftop Tent Accessories That Are Actually Worth It](/reviews/tents/rooftop-tent-accessories-worth-buying/)
+- [Does Your Truck or SUV Actually Support a Rooftop Tent?](/reviews/tents/rooftop-tent-vehicle-compatibility/)
+- [Rooftop Tent in Winter: What Actually Changes](/reviews/tents/rooftop-tent-winter-camping/)
+- [When Is a Rooftop Tent Actually Worth the Money?](/reviews/tents/when-rooftop-tent-worth-it/)
+- [Meedo Apolle M Review: The Rooftop Tent for Smaller Rigs](/reviews/tents/meedo-apolle-m-review/)
+- [Meedo Apollo A86 M Review: A $1100 Rooftop Tent That Earns Its Price](/reviews/tents/meedo-apollo-a86-review/)
 - The Complete Rooftop Tent Guide
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)

@@ -130,4 +130,10 @@ The Meedo Apollo A86 M's 3000MM polycotton fabric and aircraft-grade aluminum fr
 
 - [Soft Shell vs. Hard Shell Rooftop Tent: Which Is Right for You?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/) (hub page, rooftop-tent-guide)
+- [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
+- [Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
+- [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)
+- [Rooftop Tent on a Tacoma or 4Runner: What Fits and What You Need First](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
+- [Does Your Truck or SUV Actually Support a Rooftop Tent?](/reviews/tents/rooftop-tent-vehicle-compatibility/)
+- [Rooftop Tent in Winter: What Actually Changes](/reviews/tents/rooftop-tent-winter-camping/)
 ```

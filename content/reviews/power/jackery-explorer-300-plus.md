@@ -140,3 +140,7 @@ If you're doing multi-week expeditions or running heavy loads, step up to the 50
 ## Related
 
 - [Portable Power for Camping, Fishing, and Outdoor Adventure](/reviews/power/portable-power-camping-fishing-outdoor-hub/)
+- [Jackery Explorer 1000 v2 vs. 2000 Plus: Which Is Right for Your Camp Setup?](/reviews/power/jackery-1000-pro-v2-vs-2000-pro-v2/)
+- [Jackery 1500 Ultra vs. 2000 Plus: Which Power Station Belongs in Your Kit?](/reviews/power/jackery-1500-ultra-vs-2000-plus/)
+- [Jackery Explorer 1000 v2 and 2000 v2 Reviewed for Camping and Outdoor Use](/reviews/power/jackery-explorer-1000-2000-v2-camping-review/)
+- [Jackery Explorer 1000 V2 Review: Solo Camping Power Budget Analysis](/reviews/power/jackery-explorer-1000-v2-review/)

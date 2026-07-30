@@ -143,3 +143,5 @@ Centered over the iliac crest — the top of the hip bone. The buckle should sit
 - [How Much Pack Capacity Do You Actually Need?](/reviews/backpacks/how-much-pack-capacity-do-you-need/)
 - [5 Signs Your Pack Doesn't Fit](/reviews/backpacks/signs-your-pack-doesnt-fit/)
 - [Osprey Atmos AG LT 50 Review](/reviews/backpacks/osprey-atmos-ag-lt-50-review/)
+- [Backpack Materials Explained: Denier, Nylon vs. Polyester, Dyneema, and Ripstop Compared](/reviews/backpacks/backpack-materials-explained/)
+- [How to Pack a Backpacking Pack: Load Distribution and What Goes Where](/reviews/backpacks/how-to-pack-backpacking-pack/)

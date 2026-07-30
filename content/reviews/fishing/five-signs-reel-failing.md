@@ -116,6 +116,12 @@ The useful framework: if the failure is in a replaceable component — drag wash
 - [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/)
 - [Piscifun AlinoX 400 Review](/reviews/fishing/piscifun-alinox-400-baitcasting-reel-review/)
 - [The 2026 Professional Angler's Infrastructure Guide: Power, Precision, and Durability](/reviews/fishing/professional-angler-infrastructure-guide/)
+- [Inshore Saltwater Fishing: Target Species, Gear, and When to Go](/reviews/fishing/inshore-saltwater-fishing-guide/)
+- [Saltwater Fishing Line: Braid vs Monofilament vs Fluorocarbon for Shore and Inshore](/reviews/fishing/saltwater-fishing-line-guide/)
+- [Saltwater Fishing from Shore: What Gear You Actually Need to Start](/reviews/fishing/saltwater-shore-fishing-gear-guide/)
+- [Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System](/reviews/fishing/manual-vs-electric-kraken-deep-drop-roi/)
+- [5 Saltwater Fishing Mistakes That Cost You Fish (And How to Fix Them)](/reviews/fishing/saltwater-fishing-mistakes-beginners/)
+- [When an Electric Fishing Reel Is Actually Worth the Money](/reviews/fishing/when-electric-fishing-reel-worth-it/)
 
 ---
 

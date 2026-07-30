@@ -86,3 +86,7 @@ For solo domestic backcountry trips with clear water sources, the LifeStraw Peak
 - [Best Camping Water Filter for Backpacking](/reviews/water/best-camping-water-filter-backpacking/)
 - [How to Choose a Camping Water Filter](/reviews/water/how-to-choose-camping-water-filter/)
 - [Camping Water Filtration Guide: Filters, Purifiers, and How to Choose](/reviews/water/camping-water-filtration-guide/)
+- [Camping Water Filter vs Purifier: What's the Difference and When Do You Need Each?](/reviews/water/filter-vs-purifier-camping/)
+- [What Water Filter Do You Need for 2 People on a 3-Day Camping Trip?](/reviews/water/water-filter-2-people-3-day-camping/)
+- [What Water Filter Do You Need for a Group of 4 or More Camping?](/reviews/water/water-filter-for-group-camping-4-plus/)
+- [Best Water Filter for Silty Backcountry Water: What Handles Turbid Sources](/reviews/water/water-filter-silty-backcountry-water/)

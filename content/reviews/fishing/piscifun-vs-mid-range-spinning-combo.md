@@ -110,6 +110,12 @@ For casual anglers, occasional fishers, and those building a backup setup: the P
 - [Best All-Around Freshwater Spinning Combo](/reviews/fishing/best-freshwater-spinning-combo/)
 - [When to Upgrade Your Fishing Rod](/reviews/fishing/when-to-upgrade-fishing-rod/)
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
+- [Fishing Line Types Explained: Mono, Fluorocarbon, and Braid](/reviews/fishing/fishing-line-types-explained/)
+- [Spinning vs Baitcasting Reels: Which Setup Makes Sense for You](/reviews/fishing/spinning-vs-baitcasting-reels/)
+- [Best Freshwater Fishing Setup Under $150: Rod, Reel, and Line for Weekend Anglers](/reviews/fishing/best-freshwater-fishing-setup-under-150/)
+- [Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit](/reviews/fishing/best-weekend-shore-fishing-setup/)
+- [5 Signs Your Fishing Setup Is Working Against You](/reviews/fishing/fishing-setup-wrong-signs/)
+- [When You Should NOT Buy a Baitcasting Setup](/reviews/fishing/when-not-to-buy-baitcasting/)
 
 ## Frequently Asked Questions
 

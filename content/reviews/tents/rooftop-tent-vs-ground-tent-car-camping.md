@@ -159,3 +159,5 @@ The calculation shifts if you're at 30+ nights annually, frequently camp at disp
 
 - [rooftop tent buying guide hub page, cluster: rooftop-tent-guide](/reviews/tents/rooftop-tent-buying-guide/)
 - [Soft Shell vs. Hard Shell Rooftop Tent: Which Is Right for You?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
+- [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
+- [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)

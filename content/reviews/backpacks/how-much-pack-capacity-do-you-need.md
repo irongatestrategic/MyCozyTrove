@@ -143,3 +143,5 @@ The load settles at the bottom of the pack, away from your center of gravity. Yo
 - [Best Backpacking Packs for Hiking and Camping](/reviews/backpacks/best-backpacking-packs/)
 - [How to Fit a Backpack Properly](/reviews/backpacks/how-to-fit-a-backpack/)
 - [Osprey Atmos AG LT 50 Review](/reviews/backpacks/osprey-atmos-ag-lt-50-review/)
+- [Backpack Materials Explained: Denier, Nylon vs. Polyester, Dyneema, and Ripstop Compared](/reviews/backpacks/backpack-materials-explained/)
+- [How to Pack a Backpacking Pack: Load Distribution and What Goes Where](/reviews/backpacks/how-to-pack-backpacking-pack/)

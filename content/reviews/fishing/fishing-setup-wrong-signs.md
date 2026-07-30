@@ -84,6 +84,12 @@ Your current combo is the wrong tool for what you're fishing. These aren't calib
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
 - [How to Match Rod Power and Action to Your Target Fish](/reviews/fishing/fishing-rod-power-action-guide/)
 - [When to Upgrade Your Fishing Rod](/reviews/fishing/when-to-upgrade-fishing-rod/)
+- [Fishing Line Types Explained: Mono, Fluorocarbon, and Braid](/reviews/fishing/fishing-line-types-explained/)
+- [Spinning vs Baitcasting Reels: Which Setup Makes Sense for You](/reviews/fishing/spinning-vs-baitcasting-reels/)
+- [Best Freshwater Fishing Setup Under $150: Rod, Reel, and Line for Weekend Anglers](/reviews/fishing/best-freshwater-fishing-setup-under-150/)
+- [Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit](/reviews/fishing/best-weekend-shore-fishing-setup/)
+- [Piscifun NautiX vs Abu Garcia Max Elite: Where the Line Is](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/)
+- [When You Should NOT Buy a Baitcasting Setup](/reviews/fishing/when-not-to-buy-baitcasting/)
 
 ## Frequently Asked Questions
 

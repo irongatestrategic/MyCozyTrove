@@ -144,3 +144,11 @@ If you primarily use established campgrounds, need the vehicle mobile at night, 
 
 - [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
+- [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
+- [Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
+- [Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)
+- [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)
+- [How Long Do Rooftop Tents Last? And What Kills Them Early](/reviews/tents/how-long-do-rooftop-tents-last/)
+- [Rooftop Tent Accessories That Are Actually Worth It](/reviews/tents/rooftop-tent-accessories-worth-buying/)
+- [Does Your Truck or SUV Actually Support a Rooftop Tent?](/reviews/tents/rooftop-tent-vehicle-compatibility/)
+- [Rooftop Tent in Winter: What Actually Changes](/reviews/tents/rooftop-tent-winter-camping/)

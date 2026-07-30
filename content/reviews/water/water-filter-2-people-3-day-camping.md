@@ -81,3 +81,7 @@ For two people on a three-day domestic backcountry trip, the Katadyn BeFree Grav
 - [MSR Guardian vs Katadyn BeFree for Backcountry Camping](/reviews/water/msr-guardian-vs-katadyn-befree-camping/)
 - [How to Choose a Camping Water Filter](/reviews/water/how-to-choose-camping-water-filter/)
 - [Camping Water Filtration Guide: Filters, Purifiers, and How to Choose](/reviews/water/camping-water-filtration-guide/)
+- [Camping Water Filter vs Purifier: What's the Difference and When Do You Need Each?](/reviews/water/filter-vs-purifier-camping/)
+- [Lightest Water Treatment for Solo Backpacking: What Actually Works](/reviews/water/lightest-water-treatment-solo-backpacking/)
+- [What Water Filter Do You Need for a Group of 4 or More Camping?](/reviews/water/water-filter-for-group-camping-4-plus/)
+- [Best Water Filter for Silty Backcountry Water: What Handles Turbid Sources](/reviews/water/water-filter-silty-backcountry-water/)

@@ -153,3 +153,5 @@ In either case, verify your aftermarket rack's static load rating before purchas
 
 - [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
+- [Rooftop Tent vs Ground Tent for Car Camping: Which Makes More Sense?](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
+- [Why Would You Buy a Rooftop Tent? The Case For Sleeping on Your Roof](/reviews/tents/why-buy-rooftop-tent/)

@@ -157,6 +157,12 @@ If you're starting from scratch on a saltwater reel or replacing one that's alre
 - [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) — reel mechanics, tackle organization, and field maintenance systems
 - [Saltwater Fishing Line Guide](/reviews/fishing/saltwater-fishing-line-guide/) — line types, breaking strength, and leader setups by species
 - [Saltwater Shore Fishing Gear Guide](/reviews/fishing/saltwater-shore-fishing-gear-guide/) — complete tackle lists for inshore and coastal shore fishing
+- [Inshore Saltwater Fishing: Target Species, Gear, and When to Go](/reviews/fishing/inshore-saltwater-fishing-guide/)
+- [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)
+- [5 Signs Your Fishing Reel Is Already Failing (And What Each One Means)](/reviews/fishing/five-signs-reel-failing/)
+- [Manual vs. Electric: Calculating the ROI of the Kraken Deep-Drop System](/reviews/fishing/manual-vs-electric-kraken-deep-drop-roi/)
+- [When an Electric Fishing Reel Is Actually Worth the Money](/reviews/fishing/when-electric-fishing-reel-worth-it/)
+- [When You Should NOT Buy an Electric Reel (Save Your Money)](/reviews/fishing/when-not-to-buy-electric-reel/)
 
 
 

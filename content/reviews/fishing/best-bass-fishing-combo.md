@@ -103,6 +103,15 @@ For the intermediate bass angler who wants a technique-matched setup under $150,
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/)
 - [Spinning vs Baitcasting Reels: Which Setup Makes Sense](/reviews/fishing/spinning-vs-baitcasting-reels/)
 - [When You Should NOT Buy a Baitcasting Setup](/reviews/fishing/when-not-to-buy-baitcasting/)
+- [Best Freshwater Fishing Setup Under $150: Rod, Reel, and Line for Weekend Anglers](/reviews/fishing/best-freshwater-fishing-setup-under-150/)
+- [Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit](/reviews/fishing/best-weekend-shore-fishing-setup/)
+- [5 Signs Your Fishing Setup Is Working Against You](/reviews/fishing/fishing-setup-wrong-signs/)
+- [Piscifun NautiX vs Abu Garcia Max Elite: Where the Line Is](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/)
+- [When to Upgrade Your Fishing Rod (Real Thresholds)](/reviews/fishing/when-to-upgrade-fishing-rod/)
+- [Abu Garcia Gen Ike vs Ugly Stik GX2: Entry-Level Spinning Combo Comparison](/reviews/fishing/abu-garcia-vs-shakespeare-spinning/)
+- [Best All-Around Freshwater Spinning Combo Under $150: Abu Garcia Max Elite](/reviews/fishing/best-freshwater-spinning-combo/)
+- [Best Ultralight Trout Setup: Ugly Stik GX2 Spinning Combo (Ultra Light)](/reviews/fishing/best-ultralight-trout-setup/)
+- [Piscifun AlinoX 400 Review: Is This Baitcasting Reel Worth It for Freshwater Bass?](/reviews/fishing/piscifun-alinox-400-freshwater-review/)
 
 ## Frequently Asked Questions
 

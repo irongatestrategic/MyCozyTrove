@@ -140,3 +140,4 @@ No. The Pro v2 series does not support external battery expansion. If expandabil
 ## Related
 
 - [Portable Power for Camping, Fishing, and Outdoor Adventure](/reviews/power/portable-power-camping-fishing-outdoor-hub/)
+- [Jackery 1500 Ultra vs. 2000 Plus: Which Power Station Belongs in Your Kit?](/reviews/power/jackery-1500-ultra-vs-2000-plus/)

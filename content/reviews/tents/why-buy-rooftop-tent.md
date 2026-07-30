@@ -108,3 +108,5 @@ If you camp in developed sites, leave your vehicle at trailheads, or prioritize 
 - [Rooftop Tent Buying Guide: What to Know Before You Mount One](/reviews/tents/rooftop-tent-buying-guide/)
 - [Rooftop Tent Vehicle Compatibility: Tacoma and 4Runner Guide](/reviews/tents/rooftop-tent-tacoma-4runner-compatibility/)
 - [Rooftop Tent vs. Ground Tent for Car Camping](/reviews/tents/rooftop-tent-vs-ground-tent-car-camping/)
+- [What Nobody Tells You About Rooftop Tents Before You Buy](/reviews/tents/first-time-rooftop-tent-mistakes/)
+- [Soft Shell vs Hard Shell Rooftop Tent: Which Fits Your Trip?](/reviews/tents/soft-shell-vs-hard-shell-rooftop-tent/)

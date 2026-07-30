@@ -101,6 +101,7 @@ Ultralight gear is the correct tool for mobile solo travel with predictable cond
 - [Traverseon Down Mummy Sleeping Bag Review](/reviews/camping/traverseon-down-mummy-sleeping-bag-review/)
 - [Best Solo Camping Gear for Weekend Trips](/reviews/camping/best-solo-camping-gear-weekend-trips/)
 - [5 Signs Your Sleep System Is Failing You in the Field](/reviews/camping/sleep-system-failing-signs/)
+- [How to Build a Solo Camping Sleep System That Actually Works](/reviews/camping/solo-camping-sleep-system-guide/)
 
 ---
 

@@ -129,11 +129,13 @@ Fish moving tides. Fish early or late. In spring and fall, you'll find the most 
 
 ---
 
-## Related Reading
+## Related
 
 - [Piscifun NautiX Saltwater Spinning Reel Review](/reviews/fishing/piscifun-nautix-saltwater-spinning-reel-review/) — full spec breakdown and field performance notes
 - [Saltwater Shore Fishing Gear Guide](/reviews/fishing/saltwater-shore-fishing-gear-guide/) — gear considerations specific to land-based inshore fishing
 - [Professional Angler Infrastructure Guide](/reviews/fishing/professional-angler-infrastructure-guide/) — extending your setup beyond rod and reel for multi-day or remote trips
+- [The Physics of the Fight: Drag Systems and Gear Rigidity Explained](/reviews/fishing/physics-of-the-fight-drag-systems-gear-rigidity/)
+- [Saltwater Fishing Line: Braid vs Monofilament vs Fluorocarbon for Shore and Inshore](/reviews/fishing/saltwater-fishing-line-guide/)
 
 
 

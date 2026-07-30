@@ -120,6 +120,15 @@ It is not the right call if you are new to baitcasting, fish predominantly light
 - [Best Freshwater Fishing Rod and Reel Combos](/reviews/fishing/best-freshwater-fishing-rod-reel-combos/) — if you need a full setup, not just the reel
 - [Spinning vs Baitcasting Reels](/reviews/fishing/spinning-vs-baitcasting-reels/) — the case for each, by technique and experience level
 - [When Not to Buy a Baitcasting Reel](/reviews/fishing/when-not-to-buy-baitcasting/) — read this before committing if you are unsure
+- [Best Freshwater Fishing Setup Under $150: Rod, Reel, and Line for Weekend Anglers](/reviews/fishing/best-freshwater-fishing-setup-under-150/)
+- [Best Fishing Setup for Weekend Shore Trips: Complete Freshwater Kit](/reviews/fishing/best-weekend-shore-fishing-setup/)
+- [5 Signs Your Fishing Setup Is Working Against You](/reviews/fishing/fishing-setup-wrong-signs/)
+- [Piscifun NautiX vs Abu Garcia Max Elite: Where the Line Is](/reviews/fishing/piscifun-vs-mid-range-spinning-combo/)
+- [When to Upgrade Your Fishing Rod (Real Thresholds)](/reviews/fishing/when-to-upgrade-fishing-rod/)
+- [Abu Garcia Gen Ike vs Ugly Stik GX2: Entry-Level Spinning Combo Comparison](/reviews/fishing/abu-garcia-vs-shakespeare-spinning/)
+- [Best Mid-Range Bass Fishing Combo: Abu Garcia Jordan Lee Spinning Combo](/reviews/fishing/best-bass-fishing-combo/)
+- [Best All-Around Freshwater Spinning Combo Under $150: Abu Garcia Max Elite](/reviews/fishing/best-freshwater-spinning-combo/)
+- [Best Ultralight Trout Setup: Ugly Stik GX2 Spinning Combo (Ultra Light)](/reviews/fishing/best-ultralight-trout-setup/)
 
 
 

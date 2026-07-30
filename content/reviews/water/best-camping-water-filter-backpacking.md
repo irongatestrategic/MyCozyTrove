@@ -121,3 +121,6 @@ For the solo backpacker on clear domestic trails, the LifeStraw Peak keeps the k
 - [MSR Guardian vs Katadyn BeFree for Backcountry Camping](/reviews/water/msr-guardian-vs-katadyn-befree-camping/)
 - [Water Filter for 2 People on a 3-Day Trip](/reviews/water/water-filter-2-people-3-day-camping/)
 - [Camping Water Filtration Guide](/reviews/water/camping-water-filtration-guide/)
+- [Lightest Water Treatment for Solo Backpacking: What Actually Works](/reviews/water/lightest-water-treatment-solo-backpacking/)
+- [What Water Filter Do You Need for a Group of 4 or More Camping?](/reviews/water/water-filter-for-group-camping-4-plus/)
+- [Best Water Filter for Silty Backcountry Water: What Handles Turbid Sources](/reviews/water/water-filter-silty-backcountry-water/)
